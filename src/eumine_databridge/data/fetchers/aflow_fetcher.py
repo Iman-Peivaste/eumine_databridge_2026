@@ -1,0 +1,1 @@
+"""AFLOW REST API fetcher."""

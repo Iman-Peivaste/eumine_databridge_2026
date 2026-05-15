@@ -1,0 +1,1 @@
+"""OQMD API fetcher."""

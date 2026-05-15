@@ -1,0 +1,1 @@
+"""MatFedPredictor implementation."""

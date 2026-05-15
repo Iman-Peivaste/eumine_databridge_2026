@@ -1,0 +1,40 @@
+# Core materials science
+pymatgen>=2025.1.0
+mp-api>=0.40.0
+jarvis-tools>=2023.12.0
+ase>=3.23.0
+
+# Graph neural networks
+alignn
+mace-torch>=0.3.0
+torch>=2.4.0
+torch-geometric>=2.6.0
+
+# ML stack
+scikit-learn>=1.5.0
+xgboost>=2.0.0
+numpy>=1.26.0
+pandas>=2.0.0
+scipy>=1.13.0
+
+# Featurization
+matminer
+
+# Experiment tracking & optimization
+wandb
+optuna
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm
+joblib
+pydantic>=2.0.0
+
+# Testing
+pytest>=8.0.0
+pytest-cov
+
+# Visualization
+matplotlib
+seaborn
+plotly

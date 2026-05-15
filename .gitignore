@@ -1,0 +1,34 @@
+# Secrets
+.env
+
+# Data (too large for git)
+data/raw/
+data/processed/
+data/external/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (large binary files)
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+
+# Logs and outputs
+logs/
+wandb/
+*.log
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "EuMINe DataBridge 2026 — Multi-source Materials Property Prediction"
+version: 1.0.0
+date-released: 2026-06-22
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    affiliation: "Luxembourg Institute of Science and Technology (LIST)"
+license: MIT
+repository-code: "https://github.com/YourGitHub/eumine_databridge_2026"
