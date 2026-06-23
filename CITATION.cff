@@ -1,11 +1,53 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "EuMINe DataBridge 2026 — Multi-source Materials Property Prediction"
+title: "EuMINe DataBridge 2026 — ALIGNN+MACE Ensemble for Multi-Source Materials Property Prediction"
 version: 1.0.0
 date-released: 2026-06-22
 authors:
-  - family-names: "YourLastName"
-    given-names: "YourFirstName"
+  - family-names: "Peivaste"
+    given-names: "Iman"
     affiliation: "Luxembourg Institute of Science and Technology (LIST)"
+    email: "iman.peivaste@list.lu"
+    orcid: ""
 license: MIT
-repository-code: "https://github.com/YourGitHub/eumine_databridge_2026"
+repository-code: "https://github.com/YOUR_GITHUB/eumine_databridge_2026"
+url: "https://github.com/EuMINe-COST/eumine_hackathon_2026"
+abstract: >
+  Multi-source ensemble model for predicting formation energy per atom
+  and electronic band gap of inorganic crystalline materials.
+  Combines ALIGNN (fine-tuned from JARVIS pretrained weights) and
+  MACE-MP-0 (universal potential) with Optuna-optimized weighted
+  ensemble and isotonic calibration. Trained on the EuMINe Bridge
+  Dataset (850 structures) integrating Materials Project, JARVIS-DFT,
+  and OQMD. Achieves OOF MAE of 0.053 eV/atom (EF) and 0.195 eV (BG).
+  Implements MatFed API v1 for federation readiness.
+keywords:
+  - materials informatics
+  - graph neural networks
+  - ALIGNN
+  - MACE
+  - formation energy
+  - band gap
+  - federated machine learning
+  - materials discovery
+references:
+  - type: software
+    title: "EuMINe DataBridge Hackathon 2026"
+    url: "https://github.com/EuMINe-COST/eumine_hackathon_2026"
+  - type: article
+    title: "Atomistic Line Graph Neural Network for improved materials property predictions"
+    authors:
+      - family-names: "Choudhary"
+        given-names: "Kamal"
+      - family-names: "DeCost"
+        given-names: "Brian"
+    journal: "npj Computational Materials"
+    volume: 7
+    year: 2021
+    doi: "10.1038/s41524-021-00650-1"
+  - type: article
+    title: "MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields"
+    authors:
+      - family-names: "Batatia"
+        given-names: "Ilyes"
+    year: 2022

@@ -1,0 +1,246 @@
+%% data_integration_report.tex — LIST EuMINe DataBridge 2026
+%% Compile: cd reports/data_integration && pdflatex data_integration_report.tex (twice)
+
+\documentclass[10pt, a4paper]{article}
+\usepackage{eumine_hackathon}
+
+\title{%
+  \textbf{Data Integration Report}\\[4pt]
+  {\large EuMINe DataBridge Hackathon \hackathonyear}
+}
+\author{
+  LIST\_EuMINe \\
+  \small Luxembourg Institute of Science and Technology (LIST) \\
+  \small euminecost@gmail.com
+}
+\date{June 2026}
+
+\begin{document}
+\maketitle
+\thispagestyle{fancy}
+
+\begin{abstract}
+We integrate three public DFT databases — Materials Project (MP),
+JARVIS-DFT, and OQMD — with the EuMINe Bridge Dataset to produce
+a harmonised 850-structure training corpus for predicting formation
+energy per atom ($E_f$) and electronic band gap ($E_g$).
+MP provides primary labels for all 850 Bridge Dataset structures;
+JARVIS-DFT supplies 603 matched entries used both for cross-validation
+of MP values and to augment ALIGNN pretraining.
+Systematic inter-database offsets are quantified (EF offset
+$-0.069$~eV/atom, BG offset $+0.099$~eV) and corrected with fitted
+linear transformations ($R^2 = 0.961$ and $0.861$ respectively).
+\end{abstract}
+
+\tableofcontents
+\vspace{1em}
+
+\section{Data Sources Used}
+
+\begin{table}[h!]
+\centering
+\caption{Data sources integrated into the training dataset.}
+\label{tab:sources}
+\begin{tabular}{@{}lllll@{}}
+\toprule
+Source & Version / date & Entries used & Properties & DFT functional \\
+\midrule
+Bridge Dataset    & 2026 (hackathon) & 850 (train+val) & $E_f$, $E_g$ & PBE/PBE+U \\
+Materials Project & v2023.11.1       & 850 (full match) & $E_f$, $E_g$ & PBE (GGA/GGA+U) \\
+JARVIS-DFT dft\_3d & 2024-03         & 603 (matched)    & $E_f$, $E_g$ & OptB88vdW \\
+OQMD              & v1.5 (REST API)  & 2090 (queried)   & $E_f$        & PBE \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Bridge Dataset}
+
+The Bridge Dataset is the primary source of ground-truth labels,
+consisting of 700~training, 150~validation, and 150~test structures
+(CIF files), each with formation energy and band gap values sourced
+by the hackathon organisers.
+Labels were used directly without modification; the CSV
+columns \texttt{formation\_energy\_per\_atom\_label} and
+\texttt{band\_gap\_label} are taken as the training targets.
+Both MP and JARVIS reference values are also provided in the
+CSV for the full training set, enabling direct bias analysis
+without additional API queries.
+
+\subsection{Materials Project}
+
+All 850 Bridge Dataset structures (train+val) were matched against
+Materials Project using the structure \texttt{material\_id} provided
+in the CSV.
+Data was downloaded via \texttt{mp-api} v0.40+ querying
+\texttt{formation\_energy\_per\_atom} and
+\texttt{band\_gap} from the \texttt{thermo} and
+\texttt{electronic\_structure} endpoints.
+MP values served as the primary external reference because the
+Bridge Dataset labels are on the same GGA/GGA+U scale.
+
+\subsection{JARVIS-DFT}
+
+The JARVIS-DFT \texttt{dft\_3d} dataset was downloaded via
+\texttt{jarvis-tools} and matched to the Bridge Dataset using
+the JARVIS ID (\texttt{jid}) column already provided in the
+training CSV.
+Of the 700 training and 150 validation structures, 603 have
+matching JARVIS entries.
+JARVIS values use the OptB88vdW functional, which systematically
+differs from MP's PBE functional in both $E_f$ and $E_g$
+(see Section~\ref{sec:harmonisation}).
+
+Key JARVIS fields used:
+\texttt{formation\_energy\_peratom} and \texttt{optb88vdw\_bandgap}.
+
+\subsection{OQMD}
+
+The Open Quantum Materials Database was queried via the OQMD
+REST API (\texttt{oqmd.org/optimade}) for structures matching
+the Bridge Dataset chemical formulas.
+OQMD uses PBE, placing it on a scale close to MP.
+OQMD $E_f$ values served as a tertiary fallback in the
+harmonisation priority chain (below Bridge label and MP)
+but were not used as training targets in the final model.
+
+\section{Harmonisation Strategy}
+\label{sec:harmonisation}
+
+\subsection{Structure Matching}
+
+Bridge Dataset $\leftrightarrow$ JARVIS matching uses the JARVIS ID
+(\texttt{jid}) column included in the hackathon training CSV,
+providing unambiguous one-to-one alignment.
+Bridge Dataset $\leftrightarrow$ MP matching uses the MP material ID.
+OQMD matching uses reduced formula lookup with a $\pm 2$ site
+tolerance.
+
+\subsection{Quantifying Inter-Database Bias}
+
+Using the 603 structures with both MP and JARVIS values, we
+computed the systematic offsets:
+
+\begin{table}[h!]
+\centering
+\caption{Systematic offsets between MP and JARVIS labels.}
+\label{tab:offsets}
+\begin{tabular}{@{}lccc@{}}
+\toprule
+Property & Mean offset (MP$-$JAR) & MAE & $R^2$ \\
+\midrule
+$E_f$ (eV/atom) & $-0.069$ & $0.144$ & $0.961$ \\
+$E_g$ (eV)      & $+0.099$ & $0.218$ & $0.861$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The high $E_f$ correlation ($R^2 = 0.961$) indicates that the
+systematic offset is well-captured by a linear model.
+The lower $E_g$ correlation ($R^2 = 0.861$) is expected: PBE
+systematically underestimates band gaps while OptB88vdW partially
+corrects this via van der Waals corrections, producing non-uniform
+deviations especially for wide-gap insulators.
+
+\subsection{Linear Bias Correction}
+
+A linear correction was fitted by ordinary least squares on the
+603 overlapping training pairs:
+
+\begin{align}
+E_f^{\text{MP}} &= 1.038 \times E_f^{\text{JARVIS}} - 0.028
+    \quad (R^2 = 0.961) \label{eq:ef_corr} \\
+E_g^{\text{MP}} &= 0.971 \times E_g^{\text{JARVIS}} + 0.122
+    \quad (R^2 = 0.861) \label{eq:bg_corr}
+\end{align}
+
+The correction intentionally uses only the Bridge Dataset training
+overlap (not test or external data) to prevent leakage.
+Parameters are saved to \texttt{data/processed/harmonizer\_params.json}.
+
+\subsection{Label Assignment}
+
+The following priority chain is applied when constructing training
+targets (implemented in \texttt{DatabaseHarmonizer.harmonize\_dataframe}):
+
+\begin{enumerate}
+  \item Bridge Dataset label — primary, most reliable
+  \item MP value — same functional as Bridge label
+  \item Corrected JARVIS value (Eq.~\ref{eq:ef_corr}--\ref{eq:bg_corr})
+  \item OQMD value ($E_f$ only, PBE scale $\approx$ MP)
+  \item AFLOW value (least trusted)
+\end{enumerate}
+
+For the final training corpus, all 850 structures have Bridge Dataset
+labels; external database values are used as auxiliary inputs
+(features) to the ALIGNN fine-tuning targets, not as primary labels.
+
+\section{Data Card}
+
+\begin{table}[h!]
+\centering
+\caption{Dataset statistics.}
+\label{tab:datacard}
+\begin{tabular}{@{}ll@{}}
+\toprule
+Property & Value \\
+\midrule
+Total entries (train / val / test)   & 700 / 150 / 150 \\
+Final training corpus (train + val)  & 850 \\
+External DB entries queried          & 2090 (JARVIS), 850 (MP) \\
+JARVIS entries matched to Bridge     & 603 / 850 (71\%) \\
+Unique reduced formulas              & 694 \\
+Unique space groups                  & 103 \\
+$E_f$ range (train)                  & $-4.47$ to $+2.36$ eV/atom \\
+$E_f$ mean $\pm$ std (train)         & $-1.17 \pm 1.14$ eV/atom \\
+$E_g$ mean $\pm$ std (train)         & $0.93 \pm 1.58$ eV \\
+Metals ($E_g = 0$, train)            & 428 / 700 (61\%) \\
+Semiconductors ($0 < E_g < 3$, train) & 184 / 700 (26\%) \\
+Wide-gap ($E_g \geq 3$, train)       & 88 / 700 (13\%) \\
+Splitting strategy                   & Stratified by $E_g$ category \\
+Median $|\Delta E_f|$ MP–JARVIS      & 0.095 eV/atom \\
+Median $|\Delta E_g|$ MP–JARVIS      & 0.140 eV \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Limitations and Failure Cases}
+
+\begin{itemize}
+  \item \textbf{JARVIS coverage gap:} 29\% of Bridge Dataset structures
+    (247/850) lack a JARVIS match, preventing bias correction for those
+    materials. These are predominantly complex oxides and rare-earth
+    compounds that appear sparsely in the JARVIS \texttt{dft\_3d} dataset.
+  \item \textbf{DFT band gap underestimation:} Both MP (PBE) and
+    JARVIS (OptB88vdW) underestimate $E_g$ for wide-gap insulators.
+    This propagates to the training labels for the wide-gap subset
+    ($E_g \geq 3$~eV, 13\% of training set) and contributes to the
+    elevated BG MAE for this class (0.412~eV on the validation set).
+  \item \textbf{Class imbalance:} The training set is dominated by
+    metals (61\%), which are easier to predict ($E_g = 0$ trivially).
+    Performance estimates are more uncertain for the 13\% wide-gap class
+    due to limited training examples.
+  \item \textbf{OQMD formula matching:} OQMD matches by formula rather
+    than structure identity; for polymorphic materials (multiple
+    structures with the same formula), the lowest-energy polymorph
+    was selected. This may introduce structure-label mismatches for
+    approximately 5--10\% of OQMD-sourced entries.
+  \item \textbf{Linear correction simplicity:} The linear harmonisation
+    (Eqs.~\ref{eq:ef_corr}--\ref{eq:bg_corr}) cannot capture
+    per-element or per-crystal-system biases; more complex corrections
+    (e.g.\ per-element linear models) may improve data quality for
+    future work.
+\end{itemize}
+
+\section*{References}
+
+\begin{enumerate}
+  \item Jain et al., \textit{APL Mater.} \textbf{1}, 011002 (2013) —
+    Materials Project.
+  \item Choudhary et al., \textit{npj Comput. Mater.} \textbf{6}, 173 (2020)
+    — JARVIS-DFT.
+  \item Saal et al., \textit{JOM} \textbf{65}, 1501 (2013) — OQMD.
+  \item Klimeš et al., \textit{J.\ Phys.: Condens.\ Matter} \textbf{22},
+    022201 (2010) — OptB88vdW functional.
+\end{enumerate}
+
+\end{document}
