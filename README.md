@@ -8,7 +8,7 @@
 from heterogeneous multi-database data.**
 
 - **Stage 1 deadline:** June 22, 2026
-- **Team:** Iman Peivaste (LIST, Luxembourg)
+- **Team:** Iman Peivaste (LIST, Luxembourg) · Saeideh Ghaderi (University of Bologna) · Halliru Ibrahim (LIST, Luxembourg) · Dragos Vovea (Universitatea Babeș-Bolyai, Cluj-Napoca)
 - **Score estimate:** 35.17/40 (5-fold OOF) | 35.96/40 (val)
 
 ---
