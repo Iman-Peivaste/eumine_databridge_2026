@@ -243,7 +243,7 @@ for i, mat_id in enumerate(test_ids):
     })
 
 output = {
-    "team_name": "LIST_EuMINe",
+    "team_name": "CataLIST",
     "model_id": "ALIGNN_MACE_ensemble_v1",
     "matfed_api_version": "1.0",
     "predictions": predictions,
@@ -252,7 +252,7 @@ output = {
     "val_score": final_score["total_performance_score"],
 }
 
-pred_path = ROOT / "submissions" / "LIST_EuMINe" / "predictions_test.json"
+pred_path = ROOT / "submissions" / "CataLIST" / "predictions_test.json"
 pred_path.parent.mkdir(parents=True, exist_ok=True)
 with open(pred_path, "w") as f:
     json.dump(output, f, indent=2)

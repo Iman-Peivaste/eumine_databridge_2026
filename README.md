@@ -56,7 +56,7 @@ eumine_databridge/
 │   ├── data_integration/
 │   └── technical/
 ├── submissions/
-│   └── LIST_EuMINe/
+│   └── CataLIST/
 │       └── predictions_test.json
 └── tests/
     └── test_matfed_compliance.py
@@ -187,6 +187,6 @@ See [CITATION.cff](CITATION.cff).
 
 ## Contact
 
-- Team: LIST_EuMINe
+- Team: CataLIST
 - Institution: Luxembourg Institute of Science and Technology (LIST)
 - Hackathon: [EuMINe DataBridge 2026](https://github.com/EuMINe-COST/eumine_hackathon_2026)

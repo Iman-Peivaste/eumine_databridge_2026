@@ -65,7 +65,7 @@ def _load_performance_block(base: Path) -> Dict:
     """OOF metrics from full_retrain artifacts or submission JSON."""
     for candidate in (
         base / "oof_metrics.json",
-        _PROJECT_ROOT / "submissions" / "LIST_EuMINe" / "predictions_test.json",
+        _PROJECT_ROOT / "submissions" / "CataLIST" / "predictions_test.json",
     ):
         if candidate.exists():
             data = json.loads(candidate.read_text())
@@ -95,7 +95,7 @@ class LISTEuMINePredictor(MatFedPredictor):
 
     API_VERSION = "1.0"
     MODEL_VERSION = "v2_fullretrain"
-    TEAM_NAME = "LIST_EuMINe"
+    TEAM_NAME = "CataLIST"
 
     def __init__(self) -> None:
         self._ef_trainer = None
@@ -250,6 +250,6 @@ class LISTEuMINePredictor(MatFedPredictor):
             ),
             "contact": "euminecost@gmail.com",
             "repository": (
-                "https://github.com/YourGitHub/eumine_databridge_2026"
+                "https://github.com/Iman-Peivaste/eumine_databridge_2026"
             ),
         }

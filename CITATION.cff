@@ -10,7 +10,7 @@ authors:
     email: "iman.peivaste@list.lu"
     orcid: ""
 license: MIT
-repository-code: "https://github.com/YOUR_GITHUB/eumine_databridge_2026"
+repository-code: "https://github.com/Iman-Peivaste/eumine_databridge_2026"
 url: "https://github.com/EuMINe-COST/eumine_hackathon_2026"
 abstract: >
   Multi-source ensemble model for predicting formation energy per atom

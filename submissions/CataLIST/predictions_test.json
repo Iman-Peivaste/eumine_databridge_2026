@@ -1,5 +1,5 @@
 {
-  "team_name": "LIST_EuMINe",
+  "team_name": "CataLIST",
   "model_id": "ALIGNN_MACE_ensemble_v2_fullretrain",
   "matfed_api_version": "1.0",
   "predictions": [

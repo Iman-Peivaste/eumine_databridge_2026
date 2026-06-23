@@ -341,7 +341,7 @@ predictions = [
     for i in range(len(test_ids))
 ]
 submission = {
-    "team_name": "LIST_EuMINe",
+    "team_name": "CataLIST",
     "model_id": "ALIGNN_MACE_ensemble_v2_fullretrain",
     "matfed_api_version": "1.0",
     "predictions": predictions,
@@ -349,7 +349,7 @@ submission = {
     "oof_mae_bg": oof_bg_cal_mae,
     "oof_score": oof_final_score["total_performance_score"],
 }
-pred_path = ROOT / "submissions" / "LIST_EuMINe" / "predictions_test.json"
+pred_path = ROOT / "submissions" / "CataLIST" / "predictions_test.json"
 pred_path.parent.mkdir(parents=True, exist_ok=True)
 with open(pred_path, "w") as f:
     json.dump(submission, f, indent=2)
