@@ -1,5 +1,5 @@
 # EuMINe DataBridge Hackathon 2026
-## Team: LIST_EuMINe — Luxembourg Institute of Science and Technology
+## Team: CataLIST
 
 [![MatFed API v1](https://img.shields.io/badge/MatFed_API-v1.0-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
