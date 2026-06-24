@@ -1,760 +1,757 @@
 {
   "team_name": "CataLIST",
-  "model_id": "ALIGNN_MACE_ensemble_v2_fullretrain",
+  "model_id": "ALIGNN_MACE_ensemble_v3_augmented",
   "matfed_api_version": "1.0",
   "predictions": [
     {
       "material_id": "mp-10044",
-      "formation_energy_per_atom": -0.027410051332264554,
-      "band_gap": 1.2208499999999998
+      "formation_energy_per_atom": -0.112390883504629,
+      "band_gap": 0.3417799999999994
     },
     {
       "material_id": "mp-1008733",
-      "formation_energy_per_atom": 0.32768425092087483,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": 0.695493775840468,
+      "band_gap": 0.25926138236614754
     },
     {
       "material_id": "mp-1014244",
-      "formation_energy_per_atom": -1.105138253284131,
-      "band_gap": 1.7166999999999997
+      "formation_energy_per_atom": -1.0574823399153983,
+      "band_gap": 1.4868674933681094
     },
     {
       "material_id": "mp-1016274",
-      "formation_energy_per_atom": 0.039740267632695135,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": 0.033773522916666666,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1018084",
-      "formation_energy_per_atom": -0.22117493572820712,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.26671315737499934,
+      "band_gap": 0.21013387382460927
     },
     {
       "material_id": "mp-1019253",
-      "formation_energy_per_atom": -1.8436488427956286,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -1.8584030654993717,
+      "band_gap": 0.6742500272524441
     },
     {
       "material_id": "mp-1027687",
-      "formation_energy_per_atom": -0.8764778008421721,
-      "band_gap": 0.3078068965517239
+      "formation_energy_per_atom": -0.8612345129798239,
+      "band_gap": 1.2099249999999997
     },
     {
       "material_id": "mp-1028683",
-      "formation_energy_per_atom": -0.5184887820270523,
-      "band_gap": 0.2623111111111108
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.09943727315673463
     },
     {
       "material_id": "mp-1028922",
-      "formation_energy_per_atom": -0.7518464487184218,
-      "band_gap": 0.3078068965517239
+      "formation_energy_per_atom": -0.7279759523747489,
+      "band_gap": 0.5967499999999996
     },
     {
       "material_id": "mp-1044403",
-      "formation_energy_per_atom": -1.6009784501342326,
-      "band_gap": 0.4038444444444441
+      "formation_energy_per_atom": -1.5690170340992224,
+      "band_gap": 0.3417799999999994
     },
     {
       "material_id": "mp-1045401",
-      "formation_energy_per_atom": -0.9717575165669671,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.8522253973124986,
+      "band_gap": 0.5967499999999996
     },
     {
       "material_id": "mp-1048464",
-      "formation_energy_per_atom": -2.7818838425517796,
-      "band_gap": 1.5499304023234008
+      "formation_energy_per_atom": -2.8028730355988585,
+      "band_gap": 1.4507714285714282
     },
     {
       "material_id": "mp-10534",
-      "formation_energy_per_atom": -2.129177477479712,
-      "band_gap": 0.4038444444444441
+      "formation_energy_per_atom": -2.1131237902179802,
+      "band_gap": 1.4507714285714282
     },
     {
       "material_id": "mp-1065",
-      "formation_energy_per_atom": -1.402125339813141,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -1.3930361777486526,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-10667",
-      "formation_energy_per_atom": -0.679445884111146,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -0.7494351551112381,
+      "band_gap": 0.140855007155553
     },
     {
       "material_id": "mp-1078325",
-      "formation_energy_per_atom": -0.1742503772350412,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.112390883504629,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1079021",
-      "formation_energy_per_atom": -2.302967499347718,
-      "band_gap": 0.3078068965517239
+      "formation_energy_per_atom": -2.283636573601735,
+      "band_gap": 1.094837184287957
     },
     {
       "material_id": "mp-1079835",
-      "formation_energy_per_atom": 1.687070844545107,
-      "band_gap": 0.08151428571428557
+      "formation_energy_per_atom": 1.557705373749999,
+      "band_gap": 3.4260136038646523
     },
     {
       "material_id": "mp-1101941",
-      "formation_energy_per_atom": -0.2920867041131779,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.2096849232544521,
+      "band_gap": 0.0019333333333331666
     },
     {
       "material_id": "mp-1102875",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.2807601711111107,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1103512",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -0.4131799615714275,
+      "band_gap": 0.19492367889141538
     },
     {
       "material_id": "mp-1103609",
-      "formation_energy_per_atom": -0.4948970544223775,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.47133194969349623,
+      "band_gap": 0.12255413233311883
     },
     {
       "material_id": "mp-1106290",
-      "formation_energy_per_atom": -2.3739763501459,
-      "band_gap": 0.737263636363636
+      "formation_energy_per_atom": -2.3730185833864534,
+      "band_gap": 0.5967499999999996
     },
     {
       "material_id": "mp-1110935",
-      "formation_energy_per_atom": -2.0534460467105355,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -2.1131237902179802,
+      "band_gap": 0.9917666666666664
     },
     {
       "material_id": "mp-1111135",
-      "formation_energy_per_atom": -1.1534596669529316,
-      "band_gap": 0.737263636363636
+      "formation_energy_per_atom": -1.1295315721615786,
+      "band_gap": 1.2099249999999997
     },
     {
       "material_id": "mp-1112199",
-      "formation_energy_per_atom": -2.4543350427316084,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -2.5568230884758756,
+      "band_gap": 1.2099249999999997
     },
     {
       "material_id": "mp-1113397",
-      "formation_energy_per_atom": -2.0534460467105355,
-      "band_gap": 1.6812277777777773
+      "formation_energy_per_atom": -2.0209475051617396,
+      "band_gap": 3.2625673134329904
     },
     {
       "material_id": "mp-11232",
-      "formation_energy_per_atom": 0.44849367052083106,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": 0.695493775840468,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-11255",
-      "formation_energy_per_atom": -0.754065140674073,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.7406662876712771,
+      "band_gap": 0.0019333333333331666
     },
     {
       "material_id": "mp-1174157",
-      "formation_energy_per_atom": -1.965063206232559,
-      "band_gap": 0.737263636363636
+      "formation_energy_per_atom": -2.0453136227375848,
+      "band_gap": 0.0019333333333331666
     },
     {
       "material_id": "mp-1174186",
-      "formation_energy_per_atom": -1.965063206232559,
-      "band_gap": 0.08151428571428557
+      "formation_energy_per_atom": -2.0339678175891027,
+      "band_gap": 0.5714521680681544
     },
     {
       "material_id": "mp-1178005",
-      "formation_energy_per_atom": -0.589939227810373,
-      "band_gap": 0.06508307286845326
+      "formation_energy_per_atom": -0.6398883274164093,
+      "band_gap": 0.9917666666666664
     },
     {
       "material_id": "mp-1183773",
-      "formation_energy_per_atom": -0.8764778008421721,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.8483985725351544,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1184588",
-      "formation_energy_per_atom": -0.679445884111146,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.7248084908675603,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1185965",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.4131799615714275,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1187031",
-      "formation_energy_per_atom": -0.4948970544223775,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.47133194969349623,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1187445",
-      "formation_energy_per_atom": -0.16893754468551916,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.21511260627339407,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1187492",
-      "formation_energy_per_atom": -0.2920867041131779,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.27934293464464527,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1188417",
-      "formation_energy_per_atom": -0.44144180730235516,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.4131799615714275,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1205667",
-      "formation_energy_per_atom": -2.0534460467105355,
-      "band_gap": 1.7166999999999997
+      "formation_energy_per_atom": -2.122094614172471,
+      "band_gap": 1.5160019278360801
     },
     {
       "material_id": "mp-1208361",
-      "formation_energy_per_atom": -0.4948970544223775,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1208907",
-      "formation_energy_per_atom": -0.9717575165669671,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.8702296877696722,
+      "band_gap": 0.013903372066946725
     },
     {
       "material_id": "mp-1215712",
-      "formation_energy_per_atom": -0.22117493572820712,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.2807601711111107,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1216001",
-      "formation_energy_per_atom": -1.371034877585775,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -1.2329599941824703,
+      "band_gap": 0.5967499999999996
     },
     {
       "material_id": "mp-1216493",
-      "formation_energy_per_atom": -0.7518464487184218,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.8483985725351544,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1216537",
-      "formation_energy_per_atom": -0.8764778008421721,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -1.0150398680819799,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1217680",
-      "formation_energy_per_atom": -0.6211332917320362,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1218185",
-      "formation_energy_per_atom": -0.1742503772350412,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.1140006661803232,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1218284",
-      "formation_energy_per_atom": -2.680054617989954,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -2.607638790452524,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1219101",
-      "formation_energy_per_atom": -2.888865151942663,
-      "band_gap": 2.5101499999999994
+      "formation_energy_per_atom": -2.8857604993574935,
+      "band_gap": 2.277858759958354
     },
     {
       "material_id": "mp-1220889",
-      "formation_energy_per_atom": -3.44272114364752,
-      "band_gap": 1.5463235294117643
+      "formation_energy_per_atom": -3.5522821401440456,
+      "band_gap": 2.99795
     },
     {
       "material_id": "mp-1221502",
-      "formation_energy_per_atom": -0.8899905328425755,
-      "band_gap": 0.3078068965517239
+      "formation_energy_per_atom": -0.8483985725351544,
+      "band_gap": 0.05233444657256234
     },
     {
       "material_id": "mp-1221586",
-      "formation_energy_per_atom": -1.4168614353915978,
-      "band_gap": 0.08151428571428557
+      "formation_energy_per_atom": -1.2852445661952656,
+      "band_gap": 0.2887777185830655
     },
     {
       "material_id": "mp-1222443",
-      "formation_energy_per_atom": -0.2920867041131779,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.27716083066496194,
+      "band_gap": 0.0019333333333331666
     },
     {
       "material_id": "mp-1223004",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -0.42187622647222217,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1223734",
-      "formation_energy_per_atom": -1.4168614353915978,
-      "band_gap": 1.1526691238308124
+      "formation_energy_per_atom": -1.3714727947514436,
+      "band_gap": 1.3370904280592104
     },
     {
       "material_id": "mp-1226476",
-      "formation_energy_per_atom": -3.8460118106262478,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -3.795378381666665,
+      "band_gap": 0.006149449794158489
     },
     {
       "material_id": "mp-1226891",
-      "formation_energy_per_atom": -0.5652901165996631,
-      "band_gap": 1.2208499999999998
+      "formation_energy_per_atom": -0.47133194969349623,
+      "band_gap": 1.0447587493016603
     },
     {
       "material_id": "mp-1227663",
-      "formation_energy_per_atom": -0.35917247545138803,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.4184853619281238,
+      "band_gap": 0.14856491361172286
     },
     {
       "material_id": "mp-1238878",
-      "formation_energy_per_atom": -1.081608825607978,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -1.1013921026912012,
+      "band_gap": 0.5725657685191273
     },
     {
       "material_id": "mp-12669",
-      "formation_energy_per_atom": -3.483507328409687,
-      "band_gap": 2.973133333333333
+      "formation_energy_per_atom": -3.6122120707603997,
+      "band_gap": 2.99795
     },
     {
       "material_id": "mp-1375270",
-      "formation_energy_per_atom": -2.300380357324433,
-      "band_gap": 0.3078068965517239
+      "formation_energy_per_atom": -2.2927372598842166,
+      "band_gap": 0.29638268464273143
     },
     {
       "material_id": "mp-1405",
-      "formation_energy_per_atom": -0.8769772042499989,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.8522253973124986,
+      "band_gap": 0.0019333333333331666
     },
     {
       "material_id": "mp-1416",
-      "formation_energy_per_atom": -3.1328066234293153,
-      "band_gap": 2.5916399999999995
+      "formation_energy_per_atom": -3.0576153651017477,
+      "band_gap": 1.2099249999999997
     },
     {
       "material_id": "mp-150",
-      "formation_energy_per_atom": 0.039740267632695135,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": 0.0611080849805542,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-1534",
-      "formation_energy_per_atom": -2.302967499347718,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -2.2973597686752965,
+      "band_gap": 0.2989078315973046
     },
     {
       "material_id": "mp-1570",
-      "formation_energy_per_atom": -0.16893754468551916,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.12512776886055907,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-15800",
-      "formation_energy_per_atom": -2.1677209129090507,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -2.283636573601735,
+      "band_gap": 0.1843328225115041
     },
     {
       "material_id": "mp-16504",
-      "formation_energy_per_atom": -0.5184887820270523,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-17389",
-      "formation_energy_per_atom": -1.503306817396572,
-      "band_gap": 1.5463235294117643
+      "formation_energy_per_atom": -1.5316233159335786,
+      "band_gap": 0.9917666666666664
     },
     {
       "material_id": "mp-1756",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.4197330549227763,
+      "band_gap": 0.5967499999999996
     },
     {
       "material_id": "mp-19771",
-      "formation_energy_per_atom": -0.6549358525580212,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-20121",
-      "formation_energy_per_atom": -0.44144180730235516,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.42187622647222217,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-20437",
-      "formation_energy_per_atom": -2.0534460467105355,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -2.2581974582328885,
+      "band_gap": 0.5967499999999996
     },
     {
       "material_id": "mp-20456",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.4131799615714275,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-20572",
-      "formation_energy_per_atom": -2.7478370351326844,
-      "band_gap": 1.5463235294117643
+      "formation_energy_per_atom": -2.696592198166186,
+      "band_gap": 1.3323880782710558
     },
     {
       "material_id": "mp-20741",
-      "formation_energy_per_atom": -1.8763579188657358,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -2.283636573601735,
+      "band_gap": 0.5967499999999996
     },
     {
       "material_id": "mp-21505",
-      "formation_energy_per_atom": -0.44144180730235516,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.31505641227583353,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-22091",
-      "formation_energy_per_atom": -3.4692697469884,
-      "band_gap": 1.2208499999999998
+      "formation_energy_per_atom": -3.492784973340507,
+      "band_gap": 3.867689192440538
     },
     {
       "material_id": "mp-2212065",
-      "formation_energy_per_atom": -3.467833318351802,
-      "band_gap": 2.6346590468981383
+      "formation_energy_per_atom": -3.511137107999999,
+      "band_gap": 3.354629202945895
     },
     {
       "material_id": "mp-2235",
-      "formation_energy_per_atom": -0.6819737855380794,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-22435",
-      "formation_energy_per_atom": -0.9032097503891697,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.8522253973124986,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-23288",
-      "formation_energy_per_atom": -1.503210967243777,
-      "band_gap": 3.6739363636363644
+      "formation_energy_per_atom": -1.4248601247020125,
+      "band_gap": 2.2074276883896515
     },
     {
       "material_id": "mp-27409",
-      "formation_energy_per_atom": -1.3074308057915505,
-      "band_gap": 1.1770749999999999
+      "formation_energy_per_atom": -1.2188288224295543,
+      "band_gap": 1.2099249999999997
     },
     {
       "material_id": "mp-27762",
-      "formation_energy_per_atom": -1.8349045598921332,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -1.831178750870659,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-2929",
-      "formation_energy_per_atom": -3.2597161741249527,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -3.1214432772026197,
+      "band_gap": 1.4507714285714282
     },
     {
       "material_id": "mp-29889",
-      "formation_energy_per_atom": -1.0819249370766637,
-      "band_gap": 1.551263598402832
+      "formation_energy_per_atom": -0.9126370725946302,
+      "band_gap": 2.1670310065474814
     },
     {
       "material_id": "mp-30172",
-      "formation_energy_per_atom": -0.754065140674073,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.7504819567129615,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-316",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.12096909530813982
     },
     {
       "material_id": "mp-3196",
-      "formation_energy_per_atom": -3.045744377590151,
-      "band_gap": 3.6511322763234255
+      "formation_energy_per_atom": -3.047841061291243,
+      "band_gap": 3.366956547644417
     },
     {
       "material_id": "mp-3539",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.4184853619281238,
+      "band_gap": 0.0019333333333331666
     },
     {
       "material_id": "mp-4202",
-      "formation_energy_per_atom": -3.4692697469884,
-      "band_gap": 3.6739363636363644
+      "formation_energy_per_atom": -3.511137107999999,
+      "band_gap": 2.9569160594660793
     },
     {
       "material_id": "mp-4913",
-      "formation_energy_per_atom": -0.5652901165996631,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-505683",
-      "formation_energy_per_atom": -0.6511578066189228,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-5382",
-      "formation_energy_per_atom": -0.754065140674073,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.7456182481930845,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-540763",
-      "formation_energy_per_atom": -2.518892371076388,
-      "band_gap": 0.737263636363636
+      "formation_energy_per_atom": -2.384726460108837,
+      "band_gap": 0.9917666666666664
     },
     {
       "material_id": "mp-542171",
-      "formation_energy_per_atom": -0.754065140674073,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.8417721748663468,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-542995",
-      "formation_energy_per_atom": -0.46042496518366177,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.47133194969349623,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-554944",
-      "formation_energy_per_atom": -2.6407195448213012,
-      "band_gap": 1.9043499999999998
+      "formation_energy_per_atom": -2.561779832924193,
+      "band_gap": 2.4157158579505214
     },
     {
       "material_id": "mp-555219",
-      "formation_energy_per_atom": -1.8485640709613274,
-      "band_gap": 0.737263636363636
+      "formation_energy_per_atom": -1.8584030654993717,
+      "band_gap": 1.2958206002339154
     },
     {
       "material_id": "mp-557689",
-      "formation_energy_per_atom": -3.3402030870198423,
-      "band_gap": 4.4536500000000006
+      "formation_energy_per_atom": -3.2642552602565655,
+      "band_gap": 4.32075
     },
     {
       "material_id": "mp-558460",
-      "formation_energy_per_atom": -0.8400706935145016,
-      "band_gap": 1.8852999999999998
+      "formation_energy_per_atom": -0.8485883689713024,
+      "band_gap": 2.2029606369308516
     },
     {
       "material_id": "mp-558616",
-      "formation_energy_per_atom": -2.95871146545212,
-      "band_gap": 4.4536500000000006
+      "formation_energy_per_atom": -2.8833780989624755,
+      "band_gap": 3.682299938172175
     },
     {
       "material_id": "mp-568053",
-      "formation_energy_per_atom": -0.6584644752813328,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-569597",
-      "formation_energy_per_atom": -0.5720528644094854,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.42008763171918484,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-570205",
-      "formation_energy_per_atom": -1.8436488427956286,
-      "band_gap": 0.05663967339596754
+      "formation_energy_per_atom": -1.8584030654993717,
+      "band_gap": 0.7783493823477198
     },
     {
       "material_id": "mp-570938",
-      "formation_energy_per_atom": 0.09931346217443243,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": 0.49867256604451193,
+      "band_gap": 0.06486013602984983
     },
     {
       "material_id": "mp-631343",
-      "formation_energy_per_atom": 0.6990207966206894,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": 0.695493775840468,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-643036",
-      "formation_energy_per_atom": -2.357160391003233,
-      "band_gap": 3.6739363636363644
+      "formation_energy_per_atom": -2.354908163110417,
+      "band_gap": 3.383610140644801
     },
     {
       "material_id": "mp-643101",
-      "formation_energy_per_atom": -0.35917247545138803,
-      "band_gap": 3.34775
+      "formation_energy_per_atom": -0.4191867020614513,
+      "band_gap": 1.865875573709789
     },
     {
       "material_id": "mp-645300",
-      "formation_energy_per_atom": -1.0822878473788469,
-      "band_gap": 3.34775
+      "formation_energy_per_atom": -1.2329599941824703,
+      "band_gap": 0.9917666666666664
     },
     {
       "material_id": "mp-675555",
-      "formation_energy_per_atom": -2.5493254668298495,
-      "band_gap": 4.40526
+      "formation_energy_per_atom": -2.483070689129306,
+      "band_gap": 2.99795
     },
     {
       "material_id": "mp-696288",
-      "formation_energy_per_atom": -1.503306817396572,
-      "band_gap": 3.6739363636363644
+      "formation_energy_per_atom": -1.4134055071557974,
+      "band_gap": 3.726309212471318
     },
     {
       "material_id": "mp-721758",
-      "formation_energy_per_atom": -1.8436488427956286,
-      "band_gap": 1.9043499999999998
+      "formation_energy_per_atom": -1.9082352980665749,
+      "band_gap": 1.8645000000000003
     },
     {
       "material_id": "mp-727220",
-      "formation_energy_per_atom": 0.09931346217443243,
-      "band_gap": 0.737263636363636
+      "formation_energy_per_atom": 0.9874552303332177,
+      "band_gap": 0.9917666666666664
     },
     {
       "material_id": "mp-753214",
-      "formation_energy_per_atom": -1.8349045598921332,
-      "band_gap": 0.051816666666666504
+      "formation_energy_per_atom": -1.8006173087201596,
+      "band_gap": 0.33319343079036956
     },
     {
       "material_id": "mp-755147",
-      "formation_energy_per_atom": -2.4794761729730825,
-      "band_gap": 0.737263636363636
+      "formation_energy_per_atom": -2.5568230884758756,
+      "band_gap": 1.8645000000000003
     },
     {
       "material_id": "mp-755225",
-      "formation_energy_per_atom": -2.4440722423782164,
-      "band_gap": 4.40526
+      "formation_energy_per_atom": -2.5657228493678503,
+      "band_gap": 3.327135086507711
     },
     {
       "material_id": "mp-757125",
-      "formation_energy_per_atom": -2.1457793974287918,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -2.283636573601735,
+      "band_gap": 1.5017252491654034
     },
     {
       "material_id": "mp-757153",
-      "formation_energy_per_atom": -1.4711252540410473,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -1.2329599941824703,
+      "band_gap": 0.5967499999999996
     },
     {
       "material_id": "mp-758106",
-      "formation_energy_per_atom": -2.300380357324433,
-      "band_gap": 0.737263636363636
+      "formation_energy_per_atom": -2.1285041634259247,
+      "band_gap": 2.622594916162848
     },
     {
       "material_id": "mp-759877",
-      "formation_energy_per_atom": -2.566206128440254,
-      "band_gap": 0.737263636363636
+      "formation_energy_per_atom": -2.6706137738630984,
+      "band_gap": 1.4960082628659641
     },
     {
       "material_id": "mp-759883",
-      "formation_energy_per_atom": -2.2295440292629847,
-      "band_gap": 2.6924319108459485
+      "formation_energy_per_atom": -2.283636573601735,
+      "band_gap": 2.496693183731375
     },
     {
       "material_id": "mp-761268",
-      "formation_energy_per_atom": -2.7818838425517796,
-      "band_gap": 1.6812277777777773
+      "formation_energy_per_atom": -2.84372938876053,
+      "band_gap": 2.0092932787515445
     },
     {
       "material_id": "mp-763291",
-      "formation_energy_per_atom": -2.5620665847051303,
-      "band_gap": 0.4038444444444441
+      "formation_energy_per_atom": -2.5506965590546464,
+      "band_gap": 1.2099249999999997
     },
     {
       "material_id": "mp-765471",
-      "formation_energy_per_atom": -2.566206128440254,
-      "band_gap": 2.973133333333333
+      "formation_energy_per_atom": -2.522171381604865,
+      "band_gap": 2.4588718241079333
     },
     {
       "material_id": "mp-8528",
-      "formation_energy_per_atom": -1.1534596669529316,
-      "band_gap": 0.010144372615733012
+      "formation_energy_per_atom": -1.198872709146903,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-856",
-      "formation_energy_per_atom": -2.129177477479712,
-      "band_gap": 0.737263636363636
+      "formation_energy_per_atom": -2.2745480113598213,
+      "band_gap": 2.306897525435869
     },
     {
       "material_id": "mp-861968",
-      "formation_energy_per_atom": -2.129177477479712,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -2.1131237902179802,
+      "band_gap": 0.4829885800471543
     },
     {
       "material_id": "mp-862770",
-      "formation_energy_per_atom": -0.2188966478326445,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -0.26983849454228126,
+      "band_gap": 0.5967499999999996
     },
     {
       "material_id": "mp-865101",
-      "formation_energy_per_atom": -0.44144180730235516,
-      "band_gap": 0.08151428571428557
+      "formation_energy_per_atom": -0.6323427032191004,
+      "band_gap": 0.129562334781063
     },
     {
       "material_id": "mp-865815",
-      "formation_energy_per_atom": -0.754065140674073,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.7164138356866614,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-867173",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.3554354117840839,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-867348",
-      "formation_energy_per_atom": -0.4948970544223775,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.621211269873101,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-867739",
-      "formation_energy_per_atom": -1.3162818593355072,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -1.2058745314558463,
+      "band_gap": 0.028566842121664313
     },
     {
       "material_id": "mp-867795",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.3092386502878666,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-8780",
-      "formation_energy_per_atom": -0.44144180730235516,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.7214536758044929,
+      "band_gap": 0.019633333333333
     },
     {
       "material_id": "mp-889388",
-      "formation_energy_per_atom": -0.1742503772350412,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.4210659230213729,
+      "band_gap": 0.3417799999999994
     },
     {
       "material_id": "mp-8949",
-      "formation_energy_per_atom": -1.2506650704781799,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": -1.3703344149715635,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-9478",
-      "formation_energy_per_atom": -3.3298567782598654,
-      "band_gap": 3.6739363636363644
+      "formation_energy_per_atom": -3.2415599203557357,
+      "band_gap": 2.99795
     },
     {
       "material_id": "mp-972411",
-      "formation_energy_per_atom": 0.039740267632695135,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": 0.04604116138584681,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-972479",
-      "formation_energy_per_atom": 0.039740267632695135,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": 0.033773522916666666,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-973653",
-      "formation_energy_per_atom": -0.3335856950748178,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.4131799615714275,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-976768",
-      "formation_energy_per_atom": 0.09931346217443243,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": 0.06359748389806841,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-976971",
-      "formation_energy_per_atom": 0.014247176117096503,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": 0.033773522916666666,
+      "band_gap": 0.0019333333333331666
     },
     {
       "material_id": "mp-978949",
-      "formation_energy_per_atom": 0.039740267632695135,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": 0.033773522916666666,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-979986",
-      "formation_energy_per_atom": 0.039740267632695135,
-      "band_gap": 0.044704807692307655
+      "formation_energy_per_atom": 0.033773522916666666,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-9801",
-      "formation_energy_per_atom": -0.8122159228658239,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.850373851923236,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-982010",
-      "formation_energy_per_atom": -0.2920867041131779,
-      "band_gap": 0.006265053763440852
+      "formation_energy_per_atom": -0.2724824378555557,
+      "band_gap": 0.0
     },
     {
       "material_id": "mp-984729",
-      "formation_energy_per_atom": -3.045744377590151,
-      "band_gap": 2.5916399999999995
+      "formation_energy_per_atom": -2.9687487095166585,
+      "band_gap": 2.6236371315412828
     }
-  ],
-  "oof_mae_ef": 0.053343373527938664,
-  "oof_mae_bg": 0.19513999411064498,
-  "oof_score": 35.16509178121772
+  ]
 }
