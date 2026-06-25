@@ -173,12 +173,14 @@ sample_weights = np.concatenate([
     np.full(n_re,      2.0),   # Rare earth + complex oxide
 ])
 
-print(f"\n  Training set composition:")
-print(f"    Bridge Dataset       : {n_bridge:5d}  (weight 3.0)")
-print(f"    Semiconductor aug    : {n_semi:5d}  (weight 2.0)")
-print(f"    Layered/2D           : {n_layered:5d}  (weight 2.5)")
-print(f"    Rare earth + oxide   : {n_re:5d}  (weight 2.0)")
-print(f"    Total                : {len(all_structures):5d}")
+print(f"\n  {'Source':<25} {'Tag':<12} {'Count':>6} {'Weight':>7} {'EF corr':>8} {'BG corr':>8}")
+print(f"  {'-'*70}")
+print(f"  {'Bridge Dataset':<25} {'bridge':<12} {n_bridge:>6}    3.0       {'no':>6}     {'no':>6}")
+print(f"  {'Semiconductor aug':<25} {'semi_aug':<12} {n_semi:>6}    2.0      {'yes':>6}    {'yes':>6}")
+print(f"  {'Layered/2D':<25} {'layered':<12} {n_layered:>6}    2.5      {'yes':>6}     {'NO':>6}  ← raw OptB88vdW BG")
+print(f"  {'Rare earth + oxide':<25} {'rare_earth':<12} {n_re:>6}    2.0      {'yes':>6}    {'yes':>6}")
+print(f"  {'-'*70}")
+print(f"  {'TOTAL':<25} {'':<12} {len(all_structures):>6}")
 
 # ── 5. Internal val split for early stopping ──────────────────────────────────
 INTERNAL_VAL_FRAC = 0.08
