@@ -354,6 +354,204 @@ def fetch_layered_materials(
     return df_saved
 
 
+# ── Rare earth + complex oxide fetcher ───────────────────────────────────────
+
+LANTHANIDES = {"La","Ce","Pr","Nd","Sm","Eu","Gd","Tb","Dy","Ho","Er","Tm","Yb","Lu"}
+ACTINIDES   = {"Th", "U"}
+RARE_EARTH_ELEMENTS = LANTHANIDES | ACTINIDES
+
+
+def fetch_rare_earth_materials(
+    db=None,
+    max_re: int = 300,
+    max_oxide: int = 300,
+    out_dir: Path = None,
+) -> pd.DataFrame:
+    """
+    Fetch JARVIS dft_3d rare-earth and complex oxide entries.
+
+    Two categories (independent caps):
+      - Rare earth : formula contains any lanthanide or actinide (La–Lu, Th, U)
+      - Complex oxide: 3+ distinct elements AND O present (and not rare earth)
+
+    Filter conditions (both categories):
+      - formation_energy_peratom in [-6, 2] eV/atom
+      - optb88vdw_bandgap >= 0 and not "na"
+      - Convertible to pymatgen Structure
+
+    Parameters
+    ----------
+    db        : pre-loaded JARVIS dft_3d list (reused if provided)
+    max_re    : cap on rare-earth CIFs saved
+    max_oxide : cap on complex-oxide CIFs saved
+    out_dir   : defaults to data/augmented/rare_earth_structures/
+
+    Returns
+    -------
+    DataFrame with all saved entries.
+    """
+    from collections import Counter
+    from jarvis.db.figshare import data as jdata
+    from jarvis.core.atoms import Atoms as JAtoms
+
+    if out_dir is None:
+        out_dir = DATA / "augmented" / "rare_earth_structures"
+    out_dir = Path(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    if db is None:
+        print("  Loading JARVIS dft_3d...")
+        db = jdata("dft_3d")
+        print(f"  Total JARVIS entries: {len(db)}")
+
+    adaptor = JarvisAtomsAdaptor()
+
+    re_records    = []
+    oxide_records = []
+
+    for entry in tqdm(db, desc="Scanning rare-earth / complex-oxide entries"):
+        ef     = entry.get("formation_energy_peratom")
+        bg     = entry.get("optb88vdw_bandgap")
+        formula = entry.get("formula", "")
+        jid    = entry.get("jid", "")
+
+        # EF must be valid
+        try:
+            ef = float(ef)
+        except (TypeError, ValueError):
+            continue
+        if not (-6.0 <= ef <= 2.0):
+            continue
+
+        # BG must be valid and non-negative
+        if bg in (None, "na", ""):
+            continue
+        try:
+            bg = float(bg)
+        except (TypeError, ValueError):
+            continue
+        if bg < 0:
+            continue
+
+        # Parse element set from formula
+        try:
+            from pymatgen.core import Composition
+            comp   = Composition(formula)
+            elems  = {str(el) for el in comp.elements}
+            n_elems = len(elems)
+        except Exception:
+            continue
+
+        is_re    = bool(elems & RARE_EARTH_ELEMENTS)
+        is_oxide = (not is_re) and ("O" in elems) and (n_elems >= 3)
+
+        if not (is_re or is_oxide):
+            continue
+
+        rec = {
+            "jid":     jid,
+            "formula": formula,
+            "formation_energy_per_atom": ef,
+            "band_gap": bg,
+            "atoms":   entry.get("atoms"),
+        }
+        if is_re:
+            re_records.append(rec)
+        else:
+            oxide_records.append(rec)
+
+    print(f"\n  Rare-earth entries found : {len(re_records)}")
+    print(f"  Complex-oxide entries   : {len(oxide_records)}")
+
+    def _dedup_and_cap(records, cap, label):
+        if not records:
+            return []
+        df = pd.DataFrame([{k: v for k, v in r.items() if k != "atoms"}
+                           for r in records])
+        keep = df.groupby("formula")["formation_energy_per_atom"].idxmin()
+        df   = df.loc[keep].reset_index(drop=True)
+        df   = df.nsmallest(cap, "formation_energy_per_atom")
+        print(f"  {label}: {len(records)} → {len(df)} after dedup+cap")
+        return df, {r["jid"]: r for r in records}
+
+    re_df,    re_by_jid    = _dedup_and_cap(re_records,    max_re,    "Rare-earth")
+    oxide_df, oxide_by_jid = _dedup_and_cap(oxide_records, max_oxide, "Complex-oxide")
+
+    def _save_cifs(df, by_jid, source_label):
+        saved = []
+        for _, row in tqdm(df.iterrows(), total=len(df),
+                           desc=f"Saving {source_label} CIFs"):
+            rec = by_jid.get(row["jid"])
+            if rec is None or rec["atoms"] is None:
+                continue
+            try:
+                atoms  = JAtoms.from_dict(rec["atoms"])
+                struct = adaptor.get_structure(atoms)
+                cif_path = out_dir / f"{row['jid']}.cif"
+                struct.to(filename=str(cif_path))
+                saved.append({
+                    "material_id":               row["jid"],
+                    "formula":                   row["formula"],
+                    "formation_energy_per_atom": row["formation_energy_per_atom"],
+                    "band_gap":                  row["band_gap"],
+                    "source":                    source_label,
+                })
+            except Exception:
+                continue
+        return saved
+
+    re_saved    = _save_cifs(re_df,    re_by_jid,    "JARVIS_rare_earth")
+    oxide_saved = _save_cifs(oxide_df, oxide_by_jid, "JARVIS_complex_oxide")
+
+    all_saved = re_saved + oxide_saved
+    if not all_saved:
+        print("  No CIFs saved.")
+        return pd.DataFrame()
+
+    df_out = pd.DataFrame(all_saved)
+    df_out.to_csv(out_dir / "rare_earth_dataset.csv", index=False)
+
+    # ── Summary ───────────────────────────────────────────────────────────────
+    bg_arr   = df_out["band_gap"].values
+    metals   = (bg_arr == 0).sum()
+    semis    = ((bg_arr > 0) & (bg_arr < 3)).sum()
+    wide_gap = (bg_arr >= 3).sum()
+
+    all_elems: list = []
+    for formula in df_out["formula"]:
+        try:
+            from pymatgen.core import Composition
+            all_elems.extend(str(el) for el in Composition(formula).elements)
+        except Exception:
+            pass
+    top_elems = Counter(all_elems).most_common(15)
+
+    re_ex    = df_out[df_out["source"]=="JARVIS_rare_earth"]["formula"].head(5).tolist()
+    ox_ex    = df_out[df_out["source"]=="JARVIS_complex_oxide"]["formula"].head(5).tolist()
+
+    print(f"\n{'='*55}")
+    print(f"RARE EARTH + COMPLEX OXIDE FETCH — SUMMARY")
+    print(f"{'='*55}")
+    print(f"  Total JARVIS entries scanned : {len(db)}")
+    print(f"  Rare-earth structures saved  : {len(re_saved)}")
+    print(f"  Complex-oxide structures saved: {len(oxide_saved)}")
+    print(f"  Total CIFs saved             : {len(df_out)}  →  {out_dir}")
+    print(f"\n  BG distribution:")
+    print(f"    Metals   (BG = 0)    : {metals}")
+    print(f"    Semis    (0 < BG < 3): {semis}")
+    print(f"    Wide-gap (BG ≥ 3)    : {wide_gap}")
+    print(f"    BG range             : {bg_arr.min():.2f} – {bg_arr.max():.2f} eV")
+    print(f"\n  Top-15 elements:")
+    for el, cnt in top_elems:
+        bar = "█" * min(cnt // 3, 30)
+        print(f"    {el:3s} {cnt:4d}  {bar}")
+    print(f"\n  Example rare-earth formulas  : {re_ex}")
+    print(f"  Example complex-oxide formulas: {ox_ex}")
+    print(f"{'='*55}")
+
+    return df_out
+
+
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
@@ -362,6 +560,11 @@ if __name__ == "__main__":
         action="store_true",
         help="Run only fetch_layered_materials() (skip semiconductor fetch)",
     )
+    parser.add_argument(
+        "--rare_earth_only",
+        action="store_true",
+        help="Run only fetch_rare_earth_materials() (skip semiconductor fetch)",
+    )
     args = parser.parse_args()
 
     if args.layered_only:
@@ -369,6 +572,12 @@ if __name__ == "__main__":
         from jarvis.db.figshare import data as jdata
         _db = jdata("dft_3d")
         fetch_layered_materials(db=_db)
+    elif args.rare_earth_only:
+        print("\n[Rare earth fetch only — loading JARVIS db...]")
+        from jarvis.db.figshare import data as jdata
+        _db = jdata("dft_3d")
+        fetch_rare_earth_materials(db=_db)
     else:
-        print("\n[Running fetch_layered_materials on already-loaded db...]")
+        print("\n[Running all fetchers on already-loaded db...]")
         fetch_layered_materials(db=db)
+        fetch_rare_earth_materials(db=db)
