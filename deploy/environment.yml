@@ -1,0 +1,26 @@
+name: catallist_stage2
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.2
+  - pip
+  - numpy>=1.26
+  - scipy>=1.12
+  - pandas>=2.2
+  - scikit-learn>=1.4
+  - tqdm
+  - python-dotenv
+  - pip:
+    - torch==2.4.0
+    - torch-geometric
+    - pymatgen==2025.6.14
+    - mp-api>=0.45.9
+    - jarvis-tools>=2023.12.11
+    - alignn==2026.4.2
+    - mace-torch==0.3.15
+    - optuna>=3.6
+    - wandb
+    - joblib
