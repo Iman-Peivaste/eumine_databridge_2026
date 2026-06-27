@@ -139,12 +139,15 @@ def load_calibration(cal_structures_dir: str, cal_labels_csv: str):
 
     df = pd.read_csv(cal_labels_csv)
     df = df.set_index("material_id")
+    # support both Bridge Dataset column names and plain names
+    ef_col = "formation_energy_per_atom_label" if "formation_energy_per_atom_label" in df.columns else "formation_energy_per_atom"
+    bg_col = "band_gap_label" if "band_gap_label" in df.columns else "band_gap"
     ef, bg = [], []
     used_ids, used_structures = [], []
     for mat_id, s in zip(ids, structures):
         if mat_id in df.index:
-            ef.append(float(df.loc[mat_id, "formation_energy_per_atom"]))
-            bg.append(float(df.loc[mat_id, "band_gap"]))
+            ef.append(float(df.loc[mat_id, ef_col]))
+            bg.append(float(df.loc[mat_id, bg_col]))
             used_ids.append(mat_id)
             used_structures.append(s)
         else:
