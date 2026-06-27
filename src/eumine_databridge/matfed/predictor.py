@@ -26,15 +26,17 @@ from matfed_api.predictor import MatFedPredictor  # noqa: E402
 
 def _resolve_artifact_paths(model_path: Path) -> Dict[str, Path]:
     """
-    Resolve ALIGNN / MACE / ensemble paths for full_retrain or Step 4 layout.
+    Resolve ALIGNN / MACE / ensemble paths.
 
-    full_retrain layout (Step 4B):
-        model_path/alignn_ef_full, alignn_bg_full, mace_artifacts, ...
-
-    Step 4 layout (model_path = models/ensemble):
-        ../alignn_ef, ../alignn_bg, mace_artifacts, ensemble_weights.json, calibration/
+    Supported layouts:
+      full_retrain   : alignn_ef_full/, alignn_bg_full/, mace_artifacts/
+      combined_retrain: alignn_ef_combined/, alignn_bg_combined/
+                        (MACE falls back to sibling full_retrain/mace_artifacts)
+      Step 4         : ../alignn_ef/, ../alignn_bg/, ensemble/mace_artifacts/
     """
     base = model_path.resolve()
+
+    # full_retrain layout
     if (base / "alignn_ef_full" / "best_model.pt").exists():
         return {
             "ef_dir": base / "alignn_ef_full",
@@ -44,13 +46,29 @@ def _resolve_artifact_paths(model_path: Path) -> Dict[str, Path]:
             "calibration_dir": base / "calibration",
         }
 
+    # combined_retrain layout
+    if (base / "alignn_ef_combined" / "best_model.pt").exists():
+        mace_dir = base / "mace_artifacts"
+        if not mace_dir.exists():
+            # reuse MACE artifacts from sibling full_retrain
+            mace_dir = base.parent / "full_retrain" / "mace_artifacts"
+        return {
+            "ef_dir": base / "alignn_ef_combined",
+            "bg_dir": base / "alignn_bg_combined",
+            "mace_dir": mace_dir,
+            "ensemble_weights": base / "ensemble_weights.json",
+            "calibration_dir": base / "calibration",
+        }
+
+    # Step 4 / legacy layout
     root = base.parent if base.name == "ensemble" else base
     ens = root / "ensemble" if base.name != "ensemble" else base
     ef_dir = root / "alignn_ef"
     bg_dir = root / "alignn_bg"
     if not (ef_dir / "best_model.pt").exists():
         raise FileNotFoundError(
-            f"No ALIGNN EF checkpoint under {ef_dir} or {base / 'alignn_ef_full'}"
+            f"No ALIGNN EF checkpoint under {ef_dir}, "
+            f"{base / 'alignn_ef_full'}, or {base / 'alignn_ef_combined'}"
         )
     return {
         "ef_dir": ef_dir,

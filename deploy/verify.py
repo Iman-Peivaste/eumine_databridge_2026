@@ -43,7 +43,7 @@ def main():
     parser.add_argument(
         "--model_path",
         type=str,
-        default=str(ROOT / "models" / "full_retrain"),
+        default=str(ROOT / "models" / "combined_retrain"),
     )
     parser.add_argument(
         "--cpu_only",
@@ -109,20 +109,34 @@ def main():
     print("\n[3] Model artifacts")
 
     def check_artifacts():
-        required = [
-            "alignn_ef_full/best_model.pt",
-            "alignn_bg_full/best_model.pt",
-            "ensemble_weights.json",
-            "calibration/",
-            "mace_artifacts/",
-        ]
+        # ALIGNN dirs: accept either *_full (full_retrain) or *_combined layout
+        ef_ok = (
+            (model_path / "alignn_ef_full" / "best_model.pt").exists()
+            or (model_path / "alignn_ef_combined" / "best_model.pt").exists()
+        )
+        bg_ok = (
+            (model_path / "alignn_bg_full" / "best_model.pt").exists()
+            or (model_path / "alignn_bg_combined" / "best_model.pt").exists()
+        )
+        # MACE: in-place or sibling full_retrain
+        mace_ok = (
+            (model_path / "mace_artifacts").exists()
+            or (model_path.parent / "full_retrain" / "mace_artifacts").exists()
+        )
+        fixed = ["ensemble_weights.json", "calibration/"]
         missing = []
-        for rel in required:
+        if not ef_ok:
+            missing.append("alignn_ef_*/best_model.pt")
+        if not bg_ok:
+            missing.append("alignn_bg_*/best_model.pt")
+        if not mace_ok:
+            missing.append("mace_artifacts/ (or ../full_retrain/mace_artifacts)")
+        for rel in fixed:
             if not (model_path / rel).exists():
                 missing.append(rel)
         if missing:
             raise FileNotFoundError(f"Missing: {missing}")
-        return f"{len(required)} artifacts found"
+        return "5 artifacts found"
 
     results["artifacts"] = check("artifacts present", check_artifacts)
 
@@ -205,7 +219,30 @@ def main():
     if predictor:
         results["federation"] = check("FederatedEnsemble", check_federation)
 
-    # ── 8. Summary ────────────────────────────────────────────────
+    # ── 8. Submission model_id check ──────────────────────────────
+    print("\n[8] Submission integrity")
+
+    EXPECTED_MODEL_ID = "ALIGNN_MACE_ensemble_v4_combined"
+
+    def check_model_id():
+        pred_path = ROOT / "submissions" / "CataLIST" / "predictions_test.json"
+        if not pred_path.exists():
+            raise FileNotFoundError(f"Not found: {pred_path}")
+        import json as _json
+        with open(pred_path) as f:
+            d = _json.load(f)
+        actual = d.get("model_id", "<missing>")
+        if actual != EXPECTED_MODEL_ID:
+            raise ValueError(
+                f"model_id mismatch\n"
+                f"    expected : {EXPECTED_MODEL_ID}\n"
+                f"    actual   : {actual}"
+            )
+        return f"model_id = {actual}"
+
+    results["model_id"] = check("model_id in predictions_test.json", check_model_id)
+
+    # ── Summary ───────────────────────────────────────────────────
     print("\n" + "="*65)
     passed = sum(1 for v in results.values() if v is not None and v is not False)
     total = len(results)
