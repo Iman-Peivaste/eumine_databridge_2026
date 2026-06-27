@@ -1,0 +1,74 @@
+%% eumine_hackathon.sty — EuMINe DataBridge Hackathon 2026 style file
+%% Usage: \usepackage{eumine_hackathon}  (place .sty alongside your .tex file)
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{eumine_hackathon}[2026/01/01 EuMINe Hackathon 2026 style]
+
+%% ── Page geometry ──────────────────────────────────────────────────────────
+\RequirePackage[
+  a4paper,
+  top=2.5cm, bottom=2.5cm,
+  left=2.5cm, right=2.5cm,
+  headheight=14pt
+]{geometry}
+
+%% ── Core packages ──────────────────────────────────────────────────────────
+\RequirePackage{amsmath}
+\RequirePackage{amssymb}
+\RequirePackage{graphicx}
+\RequirePackage{booktabs}       % professional table rules
+\RequirePackage{longtable}      % multi-page tables
+\IfFileExists{siunitx.sty}{\RequirePackage{siunitx}}{} % optional unit formatting
+\RequirePackage{xcolor}
+\RequirePackage{enumitem}
+\RequirePackage{caption}
+\RequirePackage{subcaption}
+\RequirePackage{listings}       % code snippets
+\RequirePackage[T1]{fontenc}
+\RequirePackage[utf8]{inputenc}
+
+%% ── Hyperref (load last) ───────────────────────────────────────────────────
+\RequirePackage[
+  colorlinks=true,
+  linkcolor=eumine_blue,
+  citecolor=eumine_blue,
+  urlcolor=eumine_blue
+]{hyperref}
+
+%% ── EuMINe brand colour ────────────────────────────────────────────────────
+\definecolor{eumine_blue}{HTML}{003399}
+\definecolor{eumine_grey}{HTML}{666666}
+
+%% ── Header / footer ────────────────────────────────────────────────────────
+\RequirePackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\textcolor{eumine_grey}{EuMINe DataBridge Hackathon 2026}}
+\fancyhead[R]{\small\textcolor{eumine_grey}{\thepage}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+%% ── Section formatting ─────────────────────────────────────────────────────
+\RequirePackage{titlesec}
+\titleformat{\section}
+  {\large\bfseries\color{eumine_blue}}{\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalsize\bfseries}{\thesubsection}{1em}{}
+
+%% ── Code listing style ─────────────────────────────────────────────────────
+\lstset{
+  basicstyle=\ttfamily\small,
+  keywordstyle=\color{eumine_blue}\bfseries,
+  commentstyle=\color{eumine_grey}\itshape,
+  stringstyle=\color{teal},
+  breaklines=true,
+  frame=single,
+  numbers=left,
+  numberstyle=\tiny\color{eumine_grey},
+  numbersep=5pt,
+  tabsize=4,
+}
+
+%% ── Useful macros ──────────────────────────────────────────────────────────
+\newcommand{\teamname}[1]{\textbf{Team:} #1}
+\newcommand{\hackathonyear}{2026}
+\newcommand{\eumine}{\textsc{EuMINe}}
