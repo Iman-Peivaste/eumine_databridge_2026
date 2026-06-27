@@ -171,6 +171,39 @@ def load_test_structures(test_dir: str):
     return structures, ids
 
 
+def _check_dummy_predictions(predictor, team_name: str):
+    """
+    Run predict() on one synthetic structure and warn if the predictor returns
+    the known dummy values (EF=-1.0, BG=1.0) that indicate missing model weights.
+    Returns the predictor if the user accepts it, or None to drop it.
+    """
+    from pymatgen.core import Structure, Lattice
+    import numpy as np
+
+    try:
+        dummy = Structure(
+            Lattice.cubic(4.0),
+            ["Si", "Si"],
+            [[0, 0, 0], [0.5, 0.5, 0.5]],
+        )
+        preds = predictor.predict([dummy])
+        ef = preds[0]["formation_energy_per_atom"]
+        bg = preds[0]["band_gap"]
+        if abs(ef - (-1.0)) < 1e-9 and abs(bg - 1.0) < 1e-9:
+            print(f"\n  WARNING: {team_name} is returning dummy predictions")
+            print(f"           (EF=-1.0, BG=1.0 for all structures).")
+            print(f"           Their model artifacts may be missing.")
+            if ask_yn("  Continue anyway?"):
+                return predictor
+            else:
+                print(f"  Dropping {team_name} from federation.")
+                return None
+    except Exception as e:
+        print(f"  WARNING: dummy-prediction check failed for {team_name}: {e}")
+
+    return predictor
+
+
 def print_weight_table(team_names, weights_ef, weights_bg):
     print()
     print(f"  {'Team':<25} {'EF weight':>10} {'BG weight':>10}")
@@ -201,6 +234,19 @@ def main():
         print(f"\n[3.{i+1}] Partner team {i+1} of {n_partners}")
         team_name = ask("  Team name")
 
+        # sys.path injection (up to 2 extra paths)
+        for slot in ("First", "Second"):
+            extra_path = ask(
+                f"  {slot} extra sys.path directory\n"
+                f"  (e.g. their_repo/src — Press Enter to skip)",
+                default="",
+            )
+            if extra_path:
+                extra_path = str(Path(extra_path).expanduser().resolve())
+                if extra_path not in sys.path:
+                    sys.path.insert(0, extra_path)
+                print(f"  Added to sys.path: {extra_path}")
+
         while True:
             model_path = ask("  Path to their model directory")
             if not Path(model_path).exists():
@@ -217,16 +263,19 @@ def main():
 
             predictor = try_load_partner(team_name, model_path, import_path)
 
-            if predictor is not None:
-                partner_predictors.append(predictor)
-                partner_names.append(team_name)
-                break
-            else:
+            if predictor is None:
                 if ask_yn("  Try a different import path?"):
                     continue
                 else:
                     print(f"  Skipping {team_name} — will not be included in federation.")
                     break
+
+            # Dummy-prediction safety check
+            predictor = _check_dummy_predictions(predictor, team_name)
+            if predictor is not None:
+                partner_predictors.append(predictor)
+                partner_names.append(team_name)
+            break
 
     # ── Step 4: Build federation ──────────────────────────────────
     from eumine_databridge.matfed.federation import FederatedEnsemble
