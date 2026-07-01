@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_H6Pd(NO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98006044
+_cell_length_b   5.02783085
+_cell_length_c   5.28547628
+_cell_angle_alpha   80.05937775
+_cell_angle_beta   84.23171862
+_cell_angle_gamma   68.90312318
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H6Pd(NO)4
+_chemical_formula_sum   'H6 Pd1 N4 O4'
+_cell_volume   145.91206859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.75358382  0.65654092  0.41706236  1
+  H  H1  1  0.24641618  0.34345908  0.58293764  1
+  H  H2  1  0.75563737  0.32518441  0.39684968  1
+  H  H3  1  0.24436263  0.67481559  0.60315032  1
+  H  H4  1  0.57261338  0.61620451  0.21907370  1
+  H  H5  1  0.42738662  0.38379549  0.78092630  1
+  Pd  Pd6  1  -0.00000000  0.50000000  0.00000000  1
+  N  N7  1  0.74011694  0.52431546  0.29479908  1
+  N  N8  1  0.25988306  0.47568454  0.70520092  1
+  N  N9  1  0.80189044  0.90104137  0.83989398  1
+  N  N10  1  0.19810956  0.09895863  0.16010602  1
+  O  O11  1  0.71587452  0.10094505  0.97257108  1
+  O  O12  1  0.28412548  0.89905495  0.02742892  1
+  O  O13  1  0.76637668  0.95013842  0.60204718  1
+  O  O14  1  0.23362332  0.04986158  0.39795282  1

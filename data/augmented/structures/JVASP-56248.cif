@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Dy3CuSiSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.29774956
+_cell_length_b   10.29774956
+_cell_length_c   6.00467102
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999765
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3CuSiSe7
+_chemical_formula_sum   'Dy6 Cu2 Si2 Se14'
+_cell_volume   551.44793075
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.35648960  0.22257900  0.24081248  1
+  Dy  Dy1  1  0.13391060  0.35648960  0.74081248  1
+  Dy  Dy2  1  0.22257900  0.86608940  0.74081248  1
+  Dy  Dy3  1  0.86608940  0.64351040  0.24081248  1
+  Dy  Dy4  1  0.64351040  0.77742100  0.74081248  1
+  Dy  Dy5  1  0.77742100  0.13391060  0.24081248  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.69176832  1
+  Cu  Cu7  1  0.00000000  0.00000000  0.19176832  1
+  Si  Si8  1  0.33333300  0.66666700  0.32909369  1
+  Si  Si9  1  0.66666700  0.33333300  0.82909369  1
+  Se  Se10  1  0.73683675  0.83780797  0.20975433  1
+  Se  Se11  1  0.83780797  0.10097223  0.70975433  1
+  Se  Se12  1  0.42255283  0.52127262  0.48461903  1
+  Se  Se13  1  0.57744717  0.47872738  0.98461903  1
+  Se  Se14  1  0.09871979  0.57744717  0.48461903  1
+  Se  Se15  1  0.10097223  0.26316325  0.20975433  1
+  Se  Se16  1  0.90128021  0.42255283  0.98461903  1
+  Se  Se17  1  0.26316325  0.16219203  0.70975433  1
+  Se  Se18  1  0.89902777  0.73683675  0.70975433  1
+  Se  Se19  1  0.33333300  0.66666700  0.95086450  1
+  Se  Se20  1  0.52127262  0.09871979  0.98461903  1
+  Se  Se21  1  0.66666700  0.33333300  0.45086450  1
+  Se  Se22  1  0.16219203  0.89902777  0.20975433  1
+  Se  Se23  1  0.47872738  0.90128021  0.48461903  1

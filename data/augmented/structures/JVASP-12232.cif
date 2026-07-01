@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HgMoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18950902
+_cell_length_b   6.13717537
+_cell_length_c   6.47725675
+_cell_angle_alpha   118.27786334
+_cell_angle_beta   109.13752747
+_cell_angle_gamma   89.99999963
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgMoO4
+_chemical_formula_sum   'Hg2 Mo2 O8'
+_cell_volume   168.61727707
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.50000000  0.50000000  0.50000000  1
+  Hg  Hg1  1  -0.00000000  0.00000000  0.50000000  1
+  Mo  Mo2  1  0.75000000  0.19066887  -0.00000000  1
+  Mo  Mo3  1  0.25000000  0.80933113  0.00000000  1
+  O  O4  1  0.96826470  0.47762472  0.22640847  1
+  O  O5  1  0.53173530  0.25121624  0.77359153  1
+  O  O6  1  0.03173530  0.52237528  0.77359153  1
+  O  O7  1  0.46826470  0.74878376  0.22640847  1
+  O  O8  1  0.03157551  0.00623008  0.19387732  1
+  O  O9  1  0.46842449  0.81235376  0.80612268  1
+  O  O10  1  0.96842449  0.99376992  0.80612268  1
+  O  O11  1  0.53157551  0.18764624  0.19387732  1

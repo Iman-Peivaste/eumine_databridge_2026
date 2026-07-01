@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Tb2YbS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21957046
+_cell_length_b   7.21957087
+_cell_length_c   7.21957104
+_cell_angle_alpha   109.44616188
+_cell_angle_beta   109.52133564
+_cell_angle_gamma   109.44616584
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2YbS4
+_chemical_formula_sum   'Tb4 Yb2 S8'
+_cell_volume   289.67569080
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.25000000  0.62832170  0.37832170  1
+  Tb  Tb1  1  0.62167830  0.37167830  0.25000000  1
+  Tb  Tb2  1  0.75000000  0.87167830  0.12167830  1
+  Tb  Tb3  1  0.87832170  0.12832170  0.75000000  1
+  Yb  Yb4  1  0.12500000  0.75000000  0.87500000  1
+  Yb  Yb5  1  0.37500000  0.25000000  0.62500000  1
+  S  S6  1  0.99669313  0.85517450  0.49587521  1
+  S  S7  1  0.99587521  0.35517450  0.49669313  1
+  S  S8  1  0.50330687  0.99918208  0.85848137  1
+  S  S9  1  0.14151863  0.14482550  0.14070071  1
+  S  S10  1  0.35848137  0.49918208  0.00330687  1
+  S  S11  1  0.64070071  0.64482550  0.64151863  1
+  S  S12  1  0.50412479  0.00081792  0.35929929  1
+  S  S13  1  0.85929929  0.50081792  0.00412479  1

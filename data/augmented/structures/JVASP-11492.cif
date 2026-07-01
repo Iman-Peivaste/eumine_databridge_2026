@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2NiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.84535334
+_cell_length_b   5.22403108
+_cell_length_c   8.31640755
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   105.80314821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2NiO2
+_chemical_formula_sum   'Na4 Ni2 O4'
+_cell_volume   118.94452104
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.39707255  0.79414610  0.15254155  1
+  Na  Na1  1  0.84925684  0.69851268  0.83096235  1
+  Na  Na2  1  0.60292745  0.20585490  0.65254055  1
+  Na  Na3  1  0.15074416  0.30148832  0.33096135  1
+  Ni  Ni4  1  0.12181376  0.24362753  0.99815778  1
+  Ni  Ni5  1  0.87818724  0.75637347  0.49815778  1
+  O  O6  1  0.72097024  0.44193947  0.09331878  1
+  O  O7  1  0.52050785  0.04101571  0.91032154  1
+  O  O8  1  0.27903076  0.55806053  0.59331778  1
+  O  O9  1  0.47949115  0.95898329  0.41032154  1

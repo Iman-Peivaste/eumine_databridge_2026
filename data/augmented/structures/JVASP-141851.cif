@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoCrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21996855
+_cell_length_b   5.56825727
+_cell_length_c   7.53195456
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCrO3
+_chemical_formula_sum   'Ho4 Cr4 O12'
+_cell_volume   218.92475415
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.52026509  0.57221616  0.25000000  1
+  Ho  Ho1  1  0.97973491  0.07221616  0.25000000  1
+  Ho  Ho2  1  0.47973491  0.42778384  0.75000000  1
+  Ho  Ho3  1  0.02026509  0.92778384  0.75000000  1
+  Cr  Cr4  1  0.00000000  0.50000000  0.00000000  1
+  Cr  Cr5  1  0.50000000  0.00000000  0.50000000  1
+  Cr  Cr6  1  0.00000000  0.50000000  0.50000000  1
+  Cr  Cr7  1  0.50000000  0.00000000  0.00000000  1
+  O  O8  1  0.31000366  0.69605008  0.55632043  1
+  O  O9  1  0.18999634  0.19605008  0.94367957  1
+  O  O10  1  0.31000366  0.69605008  0.94367957  1
+  O  O11  1  0.18999634  0.19605008  0.55632043  1
+  O  O12  1  0.68999634  0.30394992  0.44367957  1
+  O  O13  1  0.11176934  0.46206631  0.25000000  1
+  O  O14  1  0.88823066  0.53793369  0.75000000  1
+  O  O15  1  0.61176934  0.03793369  0.75000000  1
+  O  O16  1  0.81000366  0.80394992  0.44367957  1
+  O  O17  1  0.38823066  0.96206631  0.25000000  1
+  O  O18  1  0.81000366  0.80394992  0.05632043  1
+  O  O19  1  0.68999634  0.30394992  0.05632043  1

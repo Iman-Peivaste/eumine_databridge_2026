@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na5SrNbAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.52266745
+_cell_length_b   9.52266745
+_cell_length_c   7.52612630
+_cell_angle_alpha   90.20426739
+_cell_angle_beta   90.20426739
+_cell_angle_gamma   119.96840033
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5SrNbAs4
+_chemical_formula_sum   'Na10 Sr2 Nb2 As8'
+_cell_volume   591.21649212
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.53819529  0.47378051  0.61549560  1
+  Na  Na1  1  0.93688154  0.47154212  0.61513198  1
+  Na  Na2  1  0.47378051  0.53819529  0.11549560  1
+  Na  Na3  1  0.47154212  0.93688154  0.11513198  1
+  Na  Na4  1  0.13325777  0.85574351  0.77868531  1
+  Na  Na5  1  0.71004215  0.84842411  0.79926086  1
+  Na  Na6  1  0.14697504  0.29005325  0.77059467  1
+  Na  Na7  1  0.85574351  0.13325777  0.27868531  1
+  Na  Na8  1  0.29005325  0.14697504  0.27059467  1
+  Na  Na9  1  0.84842411  0.71004215  0.29926086  1
+  Sr  Sr10  1  0.05947469  0.53157500  0.10977875  1
+  Sr  Sr11  1  0.53157500  0.05947469  0.60977875  1
+  Nb  Nb12  1  0.33232123  0.66162167  0.50173279  1
+  Nb  Nb13  1  0.66162167  0.33232123  0.00173279  1
+  As  As14  1  0.33387653  0.67114358  0.83369862  1
+  As  As15  1  0.67114358  0.33387653  0.33369862  1
+  As  As16  1  0.81241984  0.19204045  0.89529798  1
+  As  As17  1  0.37788415  0.18914022  0.88957954  1
+  As  As18  1  0.81215209  0.62145424  0.90474390  1
+  As  As19  1  0.19204045  0.81241984  0.39529798  1
+  As  As20  1  0.62145424  0.81215209  0.40474390  1
+  As  As21  1  0.18914022  0.37788415  0.38957954  1

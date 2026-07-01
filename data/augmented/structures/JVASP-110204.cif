@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na4AgCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.44342118
+_cell_length_b   10.44342118
+_cell_length_c   10.44342118
+_cell_angle_alpha   158.09299218
+_cell_angle_beta   148.96621217
+_cell_angle_gamma   38.31130600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4AgCl5
+_chemical_formula_sum   'Na4 Ag1 Cl5'
+_cell_volume   218.77237976
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.59896855  0.59896855  0.00000000  1
+  Na  Na1  1  0.20020521  0.20020521  -0.00000000  1
+  Na  Na2  1  0.79979479  0.79979479  0.00000000  1
+  Na  Na3  1  0.40103145  0.40103145  0.00000000  1
+  Ag  Ag4  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl5  1  0.30043721  0.80043721  0.50000000  1
+  Cl  Cl6  1  0.89998109  0.39998109  0.50000000  1
+  Cl  Cl7  1  0.50000000  0.00000000  0.50000000  1
+  Cl  Cl8  1  0.10001891  0.60001891  0.50000000  1
+  Cl  Cl9  1  0.69956279  0.19956279  0.50000000  1

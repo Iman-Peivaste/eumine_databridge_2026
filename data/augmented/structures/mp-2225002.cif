@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_MgCo2(NiO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14104243
+_cell_length_b   5.94386947
+_cell_length_c   6.13860973
+_cell_angle_alpha   61.07043699
+_cell_angle_beta   59.23627631
+_cell_angle_gamma   61.02899680
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCo2(NiO2)4
+_chemical_formula_sum   'Mg1 Co2 Ni4 O8'
+_cell_volume   159.93116565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.66024600  0.08976400  0.66023900  1.0
+  Co  Co1  1  0.09227700  0.15772100  0.09227500  1.0
+  Co  Co2  1  0.94431700  0.80567900  0.94431100  1.0
+  Ni  Ni3  1  0.44480600  0.02988000  0.44313000  1.0
+  Ni  Ni4  1  0.51210900  0.49866600  0.99084500  1.0
+  Ni  Ni5  1  0.99084600  0.49837300  0.51211800  1.0
+  Ni  Ni6  1  0.44311900  0.58220800  0.44478600  1.0
+  O  O7  1  0.71170100  0.25556600  0.27512800  1.0
+  O  O8  1  0.22349600  0.28617800  0.22228100  1.0
+  O  O9  1  0.79443600  0.20841900  0.79384300  1.0
+  O  O10  1  0.73683200  0.73051700  0.30042000  1.0
+  O  O11  1  0.27513100  0.25759200  0.71169900  1.0
+  O  O12  1  0.22227300  0.76804800  0.22349100  1.0
+  O  O13  1  0.30041600  0.73223200  0.73683300  1.0
+  O  O14  1  0.79383000  0.70332100  0.79443400  1.0

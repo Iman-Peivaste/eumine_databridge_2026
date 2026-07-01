@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg2Ta2SnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29362543
+_cell_length_b   6.02949585
+_cell_length_c   10.84222785
+_cell_angle_alpha   106.16545964
+_cell_angle_beta   91.61453396
+_cell_angle_gamma   90.00713248
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Ta2SnO8
+_chemical_formula_sum   'Mg4 Ta4 Sn2 O16'
+_cell_volume   332.23499775
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.24347961  0.87021940  0.45974059  1
+  Mg  Mg1  1  0.25551734  0.41061668  0.54024455  1
+  Mg  Mg2  1  0.75556280  0.12893962  0.54020390  1
+  Mg  Mg3  1  0.74351905  0.58853142  0.45969692  1
+  Ta  Ta4  1  0.26901789  0.04227090  0.74544079  1
+  Ta  Ta5  1  0.23000906  0.29625997  0.25456384  1
+  Ta  Ta6  1  0.73002975  0.95686452  0.25450281  1
+  Ta  Ta7  1  0.76904541  0.70287189  0.74538284  1
+  Sn  Sn8  1  0.74951732  0.30590521  0.00052537  1
+  Sn  Sn9  1  0.24954212  0.69319136  0.99941145  1
+  O  O10  1  0.11980327  0.15733009  0.60700979  1
+  O  O11  1  0.37925728  0.55012088  0.39294865  1
+  O  O12  1  0.87923741  0.84182257  0.39294150  1
+  O  O13  1  0.61978260  0.44903813  0.60698955  1
+  O  O14  1  0.94729122  0.30144859  0.38317055  1
+  O  O15  1  0.55183532  0.91861743  0.61689813  1
+  O  O16  1  0.88449795  0.54702503  0.86021581  1
+  O  O17  1  0.03727952  0.99911115  0.16833457  1
+  O  O18  1  0.11454901  0.45206380  0.13971036  1
+  O  O19  1  0.38416704  0.31322992  0.86028648  1
+  O  O20  1  0.46156034  0.83109176  0.83160902  1
+  O  O21  1  0.05176713  0.69770908  0.61678035  1
+  O  O22  1  0.53751335  0.16805976  0.16834302  1
+  O  O23  1  0.96179362  0.00000858  0.83162756  1
+  O  O24  1  0.61487173  0.68591177  0.13965877  1
+  O  O25  1  0.44720989  0.08053951  0.38304783  1

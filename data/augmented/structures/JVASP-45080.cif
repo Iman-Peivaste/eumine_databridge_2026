@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3FeBAsO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26666710
+_cell_length_b   6.80433858
+_cell_length_c   9.06428997
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.92559222
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3FeBAsO7
+_chemical_formula_sum   'Na6 Fe2 B2 As2 O14'
+_cell_volume   324.78719758
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24281562  0.75000000  0.07567012  1
+  Na  Na1  1  0.75537851  0.00209517  0.24353701  1
+  Na  Na2  1  0.75537851  0.49790483  0.24353701  1
+  Na  Na3  1  0.24462149  0.50209517  0.75646299  1
+  Na  Na4  1  0.24462149  0.99790483  0.75646299  1
+  Na  Na5  1  0.75718438  0.25000000  0.92432988  1
+  Fe  Fe6  1  0.22528918  0.25000000  0.33043050  1
+  Fe  Fe7  1  0.77471082  0.75000000  0.66956950  1
+  B  B8  1  0.73165415  0.75000000  0.93940069  1
+  B  B9  1  0.26834585  0.25000000  0.06059931  1
+  As  As10  1  0.28969849  0.75000000  0.42345063  1
+  As  As11  1  0.71030151  0.25000000  0.57654937  1
+  O  O12  1  0.53129967  0.75000000  0.83380469  1
+  O  O13  1  0.78455199  0.05313483  0.68815189  1
+  O  O14  1  0.78455199  0.44686517  0.68815189  1
+  O  O15  1  0.38602055  0.25000000  0.53645080  1
+  O  O16  1  0.13490596  0.75000000  0.58772391  1
+  O  O17  1  0.86509404  0.25000000  0.41227609  1
+  O  O18  1  0.69495519  0.75000000  0.08595020  1
+  O  O19  1  0.21544801  0.55313483  0.31184811  1
+  O  O20  1  0.21544801  0.94686517  0.31184811  1
+  O  O21  1  0.46870033  0.25000000  0.16619531  1
+  O  O22  1  0.03145063  0.25000000  0.12795350  1
+  O  O23  1  0.96854937  0.75000000  0.87204650  1
+  O  O24  1  0.61397945  0.75000000  0.46354920  1
+  O  O25  1  0.30504481  0.25000000  0.91404980  1

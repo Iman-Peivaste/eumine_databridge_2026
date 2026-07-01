@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ti2Cu3Te3O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95092805
+_cell_length_b   6.33346397
+_cell_length_c   9.10260678
+_cell_angle_alpha   92.64847905
+_cell_angle_beta   90.00461783
+_cell_angle_gamma   118.02133484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Cu3Te3O16
+_chemical_formula_sum   'Ti2 Cu3 Te3 O16'
+_cell_volume   302.44326820
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.36152359  0.72306901  0.46613654  1
+  Ti  Ti1  1  0.69603278  0.39204577  0.00800736  1
+  Cu  Cu2  1  0.67649342  0.85392036  0.19327087  1
+  Cu  Cu3  1  0.17753103  0.85394021  0.19325454  1
+  Cu  Cu4  1  0.81576999  0.63160461  0.70316399  1
+  Te  Te5  1  0.17881414  0.35756412  0.22057871  1
+  Te  Te6  1  0.81876104  0.13675528  0.71783918  1
+  Te  Te7  1  0.31796105  0.13673713  0.71783140  1
+  O  O8  1  0.86799350  0.24329460  0.09574992  1
+  O  O9  1  0.61460589  0.22926987  0.58725068  1
+  O  O10  1  0.50379043  0.44443640  0.82233748  1
+  O  O11  1  0.94063345  0.44445335  0.82233619  1
+  O  O12  1  0.13016667  0.26039263  0.59961642  1
+  O  O13  1  0.84592351  0.69178680  0.08435326  1
+  O  O14  1  0.04369144  0.50616704  0.36641162  1
+  O  O15  1  0.01769514  0.03529683  0.29175034  1
+  O  O16  1  0.16066715  0.82338154  0.61483643  1
+  O  O17  1  0.01276504  0.02551659  0.84153390  1
+  O  O18  1  0.51631234  0.03261326  0.85007190  1
+  O  O19  1  0.32807374  0.65607262  0.10946029  1
+  O  O20  1  0.47445369  0.94882211  0.33286083  1
+  O  O21  1  0.66267344  0.82338639  0.61485276  1
+  O  O22  1  0.46250124  0.50616873  0.36644822  1
+  O  O23  1  0.37536228  0.24330175  0.09576818  1

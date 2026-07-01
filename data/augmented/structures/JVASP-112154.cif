@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_HfH4(CO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74266750
+_cell_length_b   4.59127770
+_cell_length_c   7.22956016
+_cell_angle_alpha   74.83875490
+_cell_angle_beta   89.56391699
+_cell_angle_gamma   75.06392290
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfH4(CO)4
+_chemical_formula_sum   'Hf1 H4 C4 O4'
+_cell_volume   115.61649911
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.05732847  0.74038386  0.35984918  1
+  H  H1  1  0.18452746  0.97519864  0.85473850  1
+  H  H2  1  0.63927025  0.94814615  0.77925923  1
+  H  H3  1  0.69191068  0.39395996  0.76553806  1
+  H  H4  1  0.24286255  0.42651875  0.84314649  1
+  C  C5  1  0.24101492  0.98039125  0.55987549  1
+  C  C6  1  0.39123752  0.86548757  0.76811494  1
+  C  C7  1  0.63246588  0.40322782  0.05810083  1
+  C  C8  1  0.48948383  0.51238629  0.85040778  1
+  O  O9  1  0.14022859  0.30732233  0.50603699  1
+  O  O10  1  0.51770346  0.86783552  0.43333614  1
+  O  O11  1  0.87678568  0.13986252  0.11396109  1
+  O  O12  1  0.51591072  0.57505933  0.17154328  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2LiTaF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82058529
+_cell_length_b   5.82058529
+_cell_length_c   5.82058529
+_cell_angle_alpha   122.67027240
+_cell_angle_beta   116.44168382
+_cell_angle_gamma   90.85429201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2LiTaF6
+_chemical_formula_sum   'K2 Li1 Ta1 F6'
+_cell_volume   139.84884330
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.24736665  0.74736665  0.50000000  1
+  K  K1  1  0.75263335  0.25263335  0.50000000  1
+  Li  Li2  1  0.00000000  0.00000000  0.00000000  1
+  Ta  Ta3  1  0.50000000  0.50000000  0.00000000  1
+  F  F4  1  0.76721056  0.73454174  0.50175229  1
+  F  F5  1  0.23278944  0.73454174  0.96733118  1
+  F  F6  1  0.23278944  0.26545826  0.49824771  1
+  F  F7  1  0.75228226  0.75228226  -0.00000000  1
+  F  F8  1  0.24771774  0.24771774  0.00000000  1
+  F  F9  1  0.76721056  0.26545826  0.03266882  1

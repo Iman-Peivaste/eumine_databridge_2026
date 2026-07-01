@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Te6RhBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.19206456
+_cell_length_b   9.19206456
+_cell_length_c   9.19206441
+_cell_angle_alpha   107.75758051
+_cell_angle_beta   107.75758051
+_cell_angle_gamma   107.75758012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te6RhBr3
+_chemical_formula_sum   'Te12 Rh2 Br6'
+_cell_volume   632.97940304
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.92251891  0.16978687  0.19280181  1
+  Te  Te1  1  0.33021313  0.57748109  0.30719819  1
+  Te  Te2  1  0.57748109  0.30719819  0.33021313  1
+  Te  Te3  1  0.83021313  0.80719819  0.07748109  1
+  Te  Te4  1  0.80719819  0.07748109  0.83021313  1
+  Te  Te5  1  0.07748109  0.83021313  0.80719819  1
+  Te  Te6  1  0.30719819  0.33021313  0.57748109  1
+  Te  Te7  1  0.42251891  0.69280181  0.66978687  1
+  Te  Te8  1  0.69280181  0.66978687  0.42251891  1
+  Te  Te9  1  0.16978687  0.19280181  0.92251891  1
+  Te  Te10  1  0.19280181  0.92251891  0.16978687  1
+  Te  Te11  1  0.66978687  0.42251891  0.69280181  1
+  Rh  Rh12  1  0.25000000  0.25000000  0.25000000  1
+  Rh  Rh13  1  0.75000000  0.75000000  0.75000000  1
+  Br  Br14  1  0.47838397  0.75000000  0.02161603  1
+  Br  Br15  1  0.97838397  0.52161603  0.25000000  1
+  Br  Br16  1  0.25000000  0.97838397  0.52161603  1
+  Br  Br17  1  0.52161603  0.25000000  0.97838397  1
+  Br  Br18  1  0.75000000  0.02161603  0.47838397  1
+  Br  Br19  1  0.02161603  0.47838397  0.75000000  1

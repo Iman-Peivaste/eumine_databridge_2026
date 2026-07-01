@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThCN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95924055
+_cell_length_b   4.04769509
+_cell_length_c   7.31156016
+_cell_angle_alpha   94.92569029
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.27970144
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThCN
+_chemical_formula_sum   'Th2 C2 N2'
+_cell_volume   101.70739018
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.81602039  0.63204179  0.79744435  1
+  Th  Th1  1  0.18397961  0.36795821  0.20255565  1
+  C  C2  1  0.54358478  0.08716957  0.42905472  1
+  C  C3  1  0.45641522  0.91283043  0.57094528  1
+  N  N4  1  0.15128866  0.30257732  0.87451051  1
+  N  N5  1  0.84871134  0.69742268  0.12548949  1

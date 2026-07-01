@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li8CeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27025637
+_cell_length_b   6.27025625
+_cell_length_c   6.27025611
+_cell_angle_alpha   53.01575600
+_cell_angle_beta   53.01575557
+_cell_angle_gamma   53.01575852
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li8CeO6
+_chemical_formula_sum   'Li8 Ce1 O6'
+_cell_volume   145.78280196
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.35703910  0.35703910  0.35703910  1
+  Li  Li1  1  0.50043664  0.89863406  0.22879117  1
+  Li  Li2  1  0.22879117  0.50043664  0.89863406  1
+  Li  Li3  1  0.89863406  0.22879117  0.50043664  1
+  Li  Li4  1  0.49956336  0.10136594  0.77120883  1
+  Li  Li5  1  0.77120883  0.49956336  0.10136594  1
+  Li  Li6  1  0.64296090  0.64296090  0.64296090  1
+  Li  Li7  1  0.10136594  0.77120883  0.49956336  1
+  Ce  Ce8  1  0.00000000  0.00000000  0.00000000  1
+  O  O9  1  0.24193429  0.89798566  0.60233878  1
+  O  O10  1  0.10201434  0.39766122  0.75806571  1
+  O  O11  1  0.75806571  0.10201434  0.39766122  1
+  O  O12  1  0.60233878  0.24193429  0.89798566  1
+  O  O13  1  0.89798566  0.60233878  0.24193429  1
+  O  O14  1  0.39766122  0.75806571  0.10201434  1

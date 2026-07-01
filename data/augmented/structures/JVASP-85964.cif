@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2NiTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48330463
+_cell_length_b   6.19386801
+_cell_length_c   6.19381126
+_cell_angle_alpha   52.59900512
+_cell_angle_beta   64.85779017
+_cell_angle_gamma   64.85716226
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2NiTeO6
+_chemical_formula_sum   'Sr2 Ni1 Te1 O6'
+_cell_volume   147.15147177
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.18240964  0.30432840  0.30433049  1
+  Sr  Sr1  1  0.81759013  0.69566659  0.69567537  1
+  Ni  Ni2  1  0.49999855  0.00000612  -0.00000746  1
+  Te  Te3  1  -0.00000179  -0.00000179  0.00000208  1
+  O  O4  1  0.26745603  0.74664203  0.23268528  1
+  O  O5  1  0.73254905  0.25335832  0.76731215  1
+  O  O6  1  0.16685529  0.79910128  0.79910374  1
+  O  O7  1  0.73254818  0.76731509  0.25335683  1
+  O  O8  1  0.26745084  0.23268982  0.74664102  1
+  O  O9  1  0.83314407  0.20089514  0.20090150  1

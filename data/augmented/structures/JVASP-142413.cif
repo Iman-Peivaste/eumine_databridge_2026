@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaNd3PtO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70935643
+_cell_length_b   5.70935643
+_cell_length_c   12.06486353
+_cell_angle_alpha   76.81828363
+_cell_angle_beta   76.81828363
+_cell_angle_gamma   61.60156842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNd3PtO7
+_chemical_formula_sum   'Na2 Nd6 Pt2 O14'
+_cell_volume   333.53471034
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.42995223  0.86932340  0.75903943  1
+  Na  Na1  1  0.86932340  0.42995223  0.25903943  1
+  Nd  Nd2  1  0.32217987  0.81282190  0.06165605  1
+  Nd  Nd3  1  0.81282190  0.32217987  0.56165605  1
+  Nd  Nd4  1  0.69136332  0.20096133  0.93061834  1
+  Nd  Nd5  1  0.20096133  0.69136332  0.43061834  1
+  Nd  Nd6  1  0.56120363  0.06991731  0.24302310  1
+  Nd  Nd7  1  0.06991731  0.56120363  0.74302310  1
+  Pt  Pt8  1  0.50475106  0.99868311  0.50423691  1
+  Pt  Pt9  1  0.99868311  0.50475106  0.00423691  1
+  O  O10  1  0.70998182  0.78448459  0.90230560  1
+  O  O11  1  0.13694228  0.20036266  0.90680667  1
+  O  O12  1  0.27119408  0.61972664  0.90162740  1
+  O  O13  1  0.78448459  0.70998182  0.40230560  1
+  O  O14  1  0.61972664  0.27119408  0.40162740  1
+  O  O15  1  0.20036266  0.13694228  0.40680667  1
+  O  O16  1  0.37032163  0.71963621  0.59515049  1
+  O  O17  1  0.88976780  0.80523128  0.10122537  1
+  O  O18  1  0.71963621  0.37032163  0.09515049  1
+  O  O19  1  0.24078794  0.29575592  0.59675008  1
+  O  O20  1  0.37389927  0.76974771  0.24756156  1
+  O  O21  1  0.80523128  0.88976780  0.60122537  1
+  O  O22  1  0.29575592  0.24078794  0.09675008  1
+  O  O23  1  0.76974771  0.37389927  0.74756156  1

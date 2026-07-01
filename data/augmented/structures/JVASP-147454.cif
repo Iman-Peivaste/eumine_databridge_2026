@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrLaI5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.36140185
+_cell_length_b   11.36140185
+_cell_length_c   7.87186341
+_cell_angle_alpha   88.76528635
+_cell_angle_beta   88.76528635
+_cell_angle_gamma   147.45244381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLaI5
+_chemical_formula_sum   'Sr2 La2 I10'
+_cell_volume   545.04887399
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.67600601  0.32399399  0.75000000  1
+  Sr  Sr1  1  0.32399399  0.67600601  0.25000000  1
+  La  La2  1  0.91965700  0.08034300  0.75000000  1
+  La  La3  1  0.08034300  0.91965700  0.25000000  1
+  I  I4  1  0.78825678  0.71163925  0.60987517  1
+  I  I5  1  0.80325015  0.19803627  0.49037446  1
+  I  I6  1  0.63223569  0.36776431  0.25000000  1
+  I  I7  1  0.80196373  0.19674985  0.00962554  1
+  I  I8  1  0.71163925  0.78825678  0.10987517  1
+  I  I9  1  0.28836075  0.21174322  0.89012483  1
+  I  I10  1  0.19803627  0.80325015  0.99037446  1
+  I  I11  1  0.36776431  0.63223569  0.75000000  1
+  I  I12  1  0.19674985  0.80196373  0.50962554  1
+  I  I13  1  0.21174322  0.28836075  0.39012483  1

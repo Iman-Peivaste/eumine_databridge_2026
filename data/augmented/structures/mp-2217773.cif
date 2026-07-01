@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba2YbMgRuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99730565
+_cell_length_b   6.18220144
+_cell_length_c   6.18219815
+_cell_angle_alpha   56.16999522
+_cell_angle_beta   60.98451306
+_cell_angle_gamma   60.98445199
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2YbMgRuO6
+_chemical_formula_sum   'Ba2 Yb1 Mg1 Ru1 O6'
+_cell_volume   159.04832004
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.80765538  0.69234236  0.69234736  1.0
+  Ba  Ba1  1  0.19234510  0.30765264  0.30765764  1.0
+  Yb  Yb2  1  0.50000059  0.50000000  0.50000000  1.0
+  Mg  Mg3  1  0.49999802  0.99999900  0.00000100  1.0
+  Ru  Ru4  1  0.99999936  0.99999900  0.00000100  1.0
+  O  O5  1  0.23846150  0.76154498  0.76153698  1.0
+  O  O6  1  0.25933341  0.76800882  0.23199118  1.0
+  O  O7  1  0.74066339  0.23198952  0.76801048  1.0
+  O  O8  1  0.25934141  0.23199118  0.76800882  1.0
+  O  O9  1  0.76154346  0.23846302  0.23845502  1.0
+  O  O10  1  0.74065939  0.76801048  0.23198952  1.0

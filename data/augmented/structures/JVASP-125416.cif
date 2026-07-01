@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NeH3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65831436
+_cell_length_b   4.95610476
+_cell_length_c   3.52382967
+_cell_angle_alpha   45.31097689
+_cell_angle_beta   76.79005402
+_cell_angle_gamma   90.01231670
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NeH3
+_chemical_formula_sum   'Ne1 H3'
+_cell_volume   54.76447603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ne  Ne0  1  0.66367483  0.84162512  0.31686465  1
+  H  H1  1  0.92912834  0.43492914  0.12955365  1
+  H  H2  1  0.07843417  0.55051686  0.89983266  1
+  H  H3  1  0.32876266  0.17292887  0.65374804  1

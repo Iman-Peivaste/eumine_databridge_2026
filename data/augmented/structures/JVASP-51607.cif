@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_In2Si(AgSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43998750
+_cell_length_b   7.43998764
+_cell_length_c   12.78125468
+_cell_angle_alpha   73.18992867
+_cell_angle_beta   73.18993018
+_cell_angle_gamma   60.58934381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Si(AgSe3)2
+_chemical_formula_sum   'In4 Si2 Ag4 Se12'
+_cell_volume   580.70916919
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.51385666  0.31944335  0.93887717  1
+  In  In1  1  0.31944335  0.51385666  0.43887717  1
+  In  In2  1  0.29499237  0.17344102  0.74055307  1
+  In  In3  1  0.17344102  0.29499237  0.24055307  1
+  Si  Si4  1  0.40435996  0.93435016  0.49789739  1
+  Si  Si5  1  0.93435016  0.40435996  0.99789739  1
+  Ag  Ag6  1  0.80106994  0.39663868  0.58486207  1
+  Ag  Ag7  1  0.80279982  0.99204320  0.24798525  1
+  Ag  Ag8  1  0.39663868  0.80106994  0.08486207  1
+  Ag  Ag9  1  0.99204320  0.80279982  0.74798525  1
+  Se  Se10  1  0.64619071  0.60504741  0.91235766  1
+  Se  Se11  1  0.04699188  0.52905244  0.62732568  1
+  Se  Se12  1  0.16775514  0.64959825  0.25255492  1
+  Se  Se13  1  0.60422005  0.10938538  0.45364275  1
+  Se  Se14  1  0.82478737  0.36398659  0.18611301  1
+  Se  Se15  1  0.10938538  0.60422005  0.95364275  1
+  Se  Se16  1  0.08526948  0.10032214  0.44493104  1
+  Se  Se17  1  0.64959825  0.16775514  0.75255492  1
+  Se  Se18  1  0.10032214  0.08526948  0.94493104  1
+  Se  Se19  1  0.60504741  0.64619071  0.41235766  1
+  Se  Se20  1  0.52905244  0.04699188  0.12732568  1
+  Se  Se21  1  0.36398659  0.82478737  0.68611301  1

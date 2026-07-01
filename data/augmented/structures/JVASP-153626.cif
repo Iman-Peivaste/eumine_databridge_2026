@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Hg(CO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31074472
+_cell_length_b   5.10531764
+_cell_length_c   6.39356764
+_cell_angle_alpha   71.59148523
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg(CO2)2
+_chemical_formula_sum   'Hg2 C4 O8'
+_cell_volume   164.47861882
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.25029140  0.49998494  0.24999203  1
+  Hg  Hg1  1  0.75029140  0.50001506  0.75000797  1
+  C  C2  1  0.87841481  0.94862306  0.21838247  1
+  C  C3  1  0.37841481  0.05137694  0.78161753  1
+  C  C4  1  0.62215268  0.05134950  0.28159173  1
+  C  C5  1  0.12215268  0.94865050  0.71840827  1
+  O  O6  1  0.02094332  0.10874208  0.08298452  1
+  O  O7  1  0.52094332  0.89125792  0.91701548  1
+  O  O8  1  0.91753720  0.68935519  0.32110547  1
+  O  O9  1  0.41753720  0.31064481  0.67889453  1
+  O  O10  1  0.58301131  0.31060485  0.17882626  1
+  O  O11  1  0.08301131  0.68939515  0.82117374  1
+  O  O12  1  0.47964929  0.89126027  0.41703447  1
+  O  O13  1  0.97964929  0.10873973  0.58296553  1

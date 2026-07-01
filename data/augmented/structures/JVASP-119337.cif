@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Mn(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58465294
+_cell_length_b   10.37310222
+_cell_length_c   4.58464285
+_cell_angle_alpha   77.21650271
+_cell_angle_beta   120.00054236
+_cell_angle_gamma   90.00081508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(CO3)2
+_chemical_formula_sum   'Mn2 C4 O12'
+_cell_volume   182.55371083
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.74999174  0.74999830  0.50001195  1
+  Mn  Mn1  1  0.25000879  0.25000146  0.49998958  1
+  C  C2  1  0.88072546  0.35773457  0.76141207  1
+  C  C3  1  0.38070977  0.85773022  0.76143586  1
+  C  C4  1  0.61928917  0.14226942  0.23856349  1
+  C  C5  1  0.11927673  0.64226528  0.23858896  1
+  O  O6  1  0.85535473  0.64029147  0.94312608  1
+  O  O7  1  0.35537191  0.14029736  0.94310233  1
+  O  O8  1  0.08773726  0.64029276  0.50448424  1
+  O  O9  1  0.58775194  0.14029813  0.50446080  1
+  O  O10  1  0.41224756  0.85970204  0.49553977  1
+  O  O11  1  0.14464651  0.35970823  0.05687584  1
+  O  O12  1  0.64462761  0.85970252  0.05689672  1
+  O  O13  1  0.58329166  0.35970024  0.72790160  1
+  O  O14  1  0.41670503  0.64029926  0.27209845  1
+  O  O15  1  0.91672454  0.14030423  0.27207683  1
+  O  O16  1  0.91226211  0.35970678  0.49551338  1
+  O  O17  1  0.08327849  0.85969573  0.72792305  1

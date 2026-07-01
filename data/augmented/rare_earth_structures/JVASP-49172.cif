@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ho3ScO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55611566
+_cell_length_b   6.55611587
+_cell_length_c   6.55611550
+_cell_angle_alpha   92.09772930
+_cell_angle_beta   92.09773391
+_cell_angle_gamma   92.09773380
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3ScO6
+_chemical_formula_sum   'Ho6 Sc2 O12'
+_cell_volume   281.21846515
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.43857955  0.74680654  0.93105487  1
+  Ho  Ho1  1  0.74680654  0.93105487  0.43857955  1
+  Ho  Ho2  1  0.56142045  0.25319346  0.06894513  1
+  Ho  Ho3  1  0.06894513  0.56142045  0.25319346  1
+  Ho  Ho4  1  0.25319346  0.06894513  0.56142045  1
+  Ho  Ho5  1  0.93105487  0.43857955  0.74680654  1
+  Sc  Sc6  1  0.00000000  0.00000000  0.00000000  1
+  Sc  Sc7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.69330440  0.92940120  0.08597530  1
+  O  O9  1  0.07059880  0.91402470  0.30669560  1
+  O  O10  1  0.40700733  0.53712269  0.19296206  1
+  O  O11  1  0.08597530  0.69330440  0.92940120  1
+  O  O12  1  0.92940120  0.08597530  0.69330440  1
+  O  O13  1  0.80703794  0.59299267  0.46287731  1
+  O  O14  1  0.46287731  0.80703794  0.59299267  1
+  O  O15  1  0.59299267  0.46287731  0.80703794  1
+  O  O16  1  0.19296206  0.40700733  0.53712269  1
+  O  O17  1  0.53712269  0.19296206  0.40700733  1
+  O  O18  1  0.30669560  0.07059880  0.91402470  1
+  O  O19  1  0.91402470  0.30669560  0.07059880  1

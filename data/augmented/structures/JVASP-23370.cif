@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na5OsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59174209
+_cell_length_b   5.63795992
+_cell_length_c   5.63795989
+_cell_angle_alpha   119.57569151
+_cell_angle_beta   100.17733554
+_cell_angle_gamma   100.17733430
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5OsO6
+_chemical_formula_sum   'Na5 Os1 O6'
+_cell_volume   144.73989106
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000000  0.66650094  0.33349906  1
+  Na  Na1  1  0.50000000  0.17504210  0.82495790  1
+  Na  Na2  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na3  1  0.00000000  0.33349906  0.66650094  1
+  Na  Na4  1  0.50000000  0.82495790  0.17504210  1
+  Os  Os5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  1  0.20804609  0.79519763  0.79519763  1
+  O  O7  1  0.79195391  0.20480237  0.20480237  1
+  O  O8  1  0.21651429  0.07147859  0.35280513  1
+  O  O9  1  0.78348571  0.64719487  0.92852141  1
+  O  O10  1  0.78348571  0.92852141  0.64719487  1
+  O  O11  1  0.21651429  0.35280513  0.07147859  1

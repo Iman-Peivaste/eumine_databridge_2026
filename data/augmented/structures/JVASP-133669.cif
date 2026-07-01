@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na2LiMnPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10662290
+_cell_length_b   8.88462094
+_cell_length_c   6.67753749
+_cell_angle_alpha   96.09448942
+_cell_angle_beta   89.61703907
+_cell_angle_gamma   89.23242816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2LiMnPCO7
+_chemical_formula_sum   'Na4 Li2 Mn2 P2 C2 O14'
+_cell_volume   301.21326562
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.73328408  0.08794655  0.31598270  1
+  Na  Na1  1  0.25749213  0.22821730  0.95969514  1
+  Na  Na2  1  0.74698635  0.75292645  0.51909792  1
+  Na  Na3  1  0.75202837  0.75881934  0.01795151  1
+  Li  Li4  1  0.21683679  0.29972307  0.42556810  1
+  Li  Li5  1  0.24183159  0.88256959  0.75842824  1
+  Mn  Mn6  1  0.22446966  0.64409177  0.25551386  1
+  Mn  Mn7  1  0.78948781  0.36587127  0.72628405  1
+  P  P8  1  0.30199995  0.58367845  0.74617178  1
+  P  P9  1  0.71671451  0.41808164  0.23044064  1
+  C  C10  1  0.73654348  0.03892635  0.75545387  1
+  C  C11  1  0.24964740  0.95335199  0.28011455  1
+  O  O12  1  0.45759940  0.86710422  0.28564139  1
+  O  O13  1  0.20781299  0.67441579  0.94513183  1
+  O  O14  1  0.20890763  0.68161171  0.57880025  1
+  O  O15  1  0.60660720  0.57465959  0.74347115  1
+  O  O16  1  0.81784391  0.58186641  0.24124826  1
+  O  O17  1  0.19739278  0.41917414  0.71587767  1
+  O  O18  1  0.27070124  0.09721834  0.26807390  1
+  O  O19  1  0.83394376  0.33661245  0.40467428  1
+  O  O20  1  0.79628697  0.32313799  0.03177831  1
+  O  O21  1  0.60957447  0.15186381  0.68988659  1
+  O  O22  1  0.98849634  0.04008542  0.77093973  1
+  O  O23  1  0.02290698  0.88982245  0.28464953  1
+  O  O24  1  0.41030431  0.42558268  0.24979437  1
+  O  O25  1  0.60429689  0.92264521  0.79932940  1

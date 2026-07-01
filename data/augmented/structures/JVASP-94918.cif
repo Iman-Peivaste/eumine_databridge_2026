@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_La2Fe(SeO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98955937
+_cell_length_b   6.01498974
+_cell_length_c   6.73940879
+_cell_angle_alpha   68.50330232
+_cell_angle_beta   72.78324792
+_cell_angle_gamma   70.63197110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Fe(SeO)2
+_chemical_formula_sum   'La2 Fe1 Se2 O2'
+_cell_volume   139.12881458
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.80773058  0.64278560  0.74175223  1
+  La  La1  1  0.19226942  0.35721440  0.25824777  1
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se3  1  0.55744912  0.20217169  0.68293006  1
+  Se  Se4  1  0.44255088  0.79782831  0.31706994  1
+  O  O5  1  0.19193274  0.69537575  0.92075777  1
+  O  O6  1  0.80806726  0.30462425  0.07924223  1

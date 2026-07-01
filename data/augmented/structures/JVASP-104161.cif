@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_H3C3S2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.85101186
+_cell_length_b   5.13813872
+_cell_length_c   5.13861409
+_cell_angle_alpha   61.04073762
+_cell_angle_beta   83.21433307
+_cell_angle_gamma   83.24263052
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H3C3S2N
+_chemical_formula_sum   'H3 C3 S2 N1'
+_cell_volume   111.01141240
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.87774320  0.60082876  0.69755520  1
+  H  H1  1  0.40181672  0.73159863  0.76358438  1
+  H  H2  1  0.92606434  0.79737420  0.89146603  1
+  C  C3  1  0.90195356  0.57313934  0.92101116  1
+  C  C4  1  0.63869485  0.45702377  0.11808788  1
+  C  C5  1  0.16514505  0.37659362  0.03773720  1
+  S  S6  1  0.62454989  0.28409545  0.48342534  1
+  S  S7  1  0.17920879  0.01120772  0.21078653  1
+  N  N8  1  0.40181760  0.53400950  0.96102628  1

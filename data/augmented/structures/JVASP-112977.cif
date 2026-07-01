@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Yb(TmSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99373035
+_cell_length_b   13.32922954
+_cell_length_c   13.58351654
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb(TmSe2)2
+_chemical_formula_sum   'Yb4 Tm8 Se16'
+_cell_volume   723.09607091
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.25000000  0.36923376  0.58546238  1
+  Yb  Yb1  1  0.25000000  0.86923376  0.91453762  1
+  Yb  Yb2  1  0.75000000  0.63076624  0.41453762  1
+  Yb  Yb3  1  0.75000000  0.13076624  0.08546238  1
+  Tm  Tm4  1  0.75000000  0.35160060  0.30067868  1
+  Tm  Tm5  1  0.75000000  0.85160060  0.19932132  1
+  Tm  Tm6  1  0.25000000  0.14839940  0.80067868  1
+  Tm  Tm7  1  0.25000000  0.64839940  0.69932132  1
+  Tm  Tm8  1  0.75000000  0.89296821  0.58061528  1
+  Tm  Tm9  1  0.25000000  0.60703179  0.08061528  1
+  Tm  Tm10  1  0.25000000  0.10703179  0.41938472  1
+  Tm  Tm11  1  0.75000000  0.39296821  0.91938472  1
+  Se  Se12  1  0.25000000  0.46997277  0.38549896  1
+  Se  Se13  1  0.25000000  0.53525545  0.87923821  1
+  Se  Se14  1  0.25000000  0.03525545  0.62076179  1
+  Se  Se15  1  0.75000000  0.03002723  0.88549896  1
+  Se  Se16  1  0.75000000  0.53002723  0.61450104  1
+  Se  Se17  1  0.25000000  0.96997277  0.11450104  1
+  Se  Se18  1  0.75000000  0.24292374  0.47905646  1
+  Se  Se19  1  0.25000000  0.71434748  0.26213154  1
+  Se  Se20  1  0.25000000  0.75707626  0.52094354  1
+  Se  Se21  1  0.25000000  0.25707626  0.97905646  1
+  Se  Se22  1  0.75000000  0.28565252  0.73786846  1
+  Se  Se23  1  0.75000000  0.78565252  0.76213154  1
+  Se  Se24  1  0.75000000  0.96474455  0.37923821  1
+  Se  Se25  1  0.25000000  0.21434748  0.23786846  1
+  Se  Se26  1  0.75000000  0.74292374  0.02094354  1
+  Se  Se27  1  0.75000000  0.46474455  0.12076179  1

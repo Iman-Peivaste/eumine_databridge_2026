@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CaAl2(SiO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11165119
+_cell_length_b   7.64015666
+_cell_length_c   7.71293980
+_cell_angle_alpha   114.08508300
+_cell_angle_beta   107.96033680
+_cell_angle_gamma   99.11136543
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAl2(SiO4)2
+_chemical_formula_sum   'Ca2 Al4 Si4 O16'
+_cell_volume   343.90917762
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.89598782  0.24869150  0.17902777  1
+  Ca  Ca1  1  0.10401218  0.75130850  0.82097223  1
+  Al  Al2  1  0.68596257  0.92324166  0.69797874  1
+  Al  Al3  1  0.31403743  0.07675834  0.30202126  1
+  Al  Al4  1  0.78935716  0.65688533  0.33263845  1
+  Al  Al5  1  0.21064284  0.34311467  0.66736155  1
+  Si  Si6  1  0.23402397  0.67670181  0.30127662  1
+  Si  Si7  1  0.76597603  0.32329819  0.69872338  1
+  Si  Si8  1  0.62830460  0.70293446  0.94087310  1
+  Si  Si9  1  0.37169540  0.29706554  0.05912690  1
+  O  O10  1  0.74680376  0.54397986  0.84111655  1
+  O  O11  1  0.27997599  0.09173122  0.06936344  1
+  O  O12  1  0.72002401  0.90826878  0.93063656  1
+  O  O13  1  0.20573541  0.80710667  0.17596213  1
+  O  O14  1  0.79426459  0.19289333  0.82403787  1
+  O  O15  1  0.25319624  0.45602014  0.15888345  1
+  O  O16  1  0.31206513  0.23456486  0.81772145  1
+  O  O17  1  0.62481087  0.39715729  0.20232223  1
+  O  O18  1  0.57304791  0.18728579  0.47520094  1
+  O  O19  1  0.42695209  0.81271421  0.52479906  1
+  O  O20  1  0.37518913  0.60284271  0.79767777  1
+  O  O21  1  0.84191197  0.79598891  0.59567136  1
+  O  O22  1  0.97663278  0.39538658  0.66635293  1
+  O  O23  1  0.02336722  0.60461342  0.33364707  1
+  O  O24  1  0.68793487  0.76543514  0.18227855  1
+  O  O25  1  0.15808803  0.20401109  0.40432864  1

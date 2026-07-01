@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_InRhO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30868766
+_cell_length_b   5.47067506
+_cell_length_c   7.81515130
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InRhO3
+_chemical_formula_sum   'In4 Rh4 O12'
+_cell_volume   226.96844591
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.52497302  0.56086927  0.25000000  1
+  In  In1  1  0.97502698  0.06086927  0.25000000  1
+  In  In2  1  0.47502698  0.43913073  0.75000000  1
+  In  In3  1  0.02497302  0.93913073  0.75000000  1
+  Rh  Rh4  1  0.00000000  0.50000000  0.00000000  1
+  Rh  Rh5  1  0.50000000  0.00000000  0.50000000  1
+  Rh  Rh6  1  0.00000000  0.50000000  0.50000000  1
+  Rh  Rh7  1  0.50000000  0.00000000  0.00000000  1
+  O  O8  1  0.30089185  0.70220621  0.57804742  1
+  O  O9  1  0.19910815  0.20220621  0.92195258  1
+  O  O10  1  0.30089185  0.70220621  0.92195258  1
+  O  O11  1  0.19910815  0.20220621  0.57804742  1
+  O  O12  1  0.69910815  0.29779379  0.42195258  1
+  O  O13  1  0.13600618  0.43129165  0.25000000  1
+  O  O14  1  0.86399382  0.56870835  0.75000000  1
+  O  O15  1  0.63600618  0.06870835  0.75000000  1
+  O  O16  1  0.80089185  0.79779379  0.42195258  1
+  O  O17  1  0.36399382  0.93129165  0.25000000  1
+  O  O18  1  0.80089185  0.79779379  0.07804742  1
+  O  O19  1  0.69910815  0.29779379  0.07804742  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaPrCuTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80147787
+_cell_length_b   7.80147787
+_cell_length_c   11.74218677
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.38055478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaPrCuTe3
+_chemical_formula_sum   'Ba2 Pr2 Cu2 Te6'
+_cell_volume   395.69178117
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25120610  0.74879390  0.25000000  1
+  Ba  Ba1  1  0.74879390  0.25120610  0.75000000  1
+  Pr  Pr2  1  0.00000000  0.00000000  0.00000000  1
+  Pr  Pr3  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu4  1  0.53344924  0.46655076  0.25000000  1
+  Cu  Cu5  1  0.46655076  0.53344924  0.75000000  1
+  Te  Te6  1  0.64164290  0.35835710  0.06703711  1
+  Te  Te7  1  0.35835710  0.64164290  0.93296289  1
+  Te  Te8  1  0.35835710  0.64164290  0.56703711  1
+  Te  Te9  1  0.64164290  0.35835710  0.43296289  1
+  Te  Te10  1  0.92792048  0.07207952  0.25000000  1
+  Te  Te11  1  0.07207952  0.92792048  0.75000000  1

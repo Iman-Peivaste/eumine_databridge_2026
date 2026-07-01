@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Na2Sm2Ti3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82485298
+_cell_length_b   3.82485292
+_cell_length_c   14.52932457
+_cell_angle_alpha   97.56351975
+_cell_angle_beta   97.56351999
+_cell_angle_gamma   89.99999729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Sm2Ti3O10
+_chemical_formula_sum   'Na2 Sm2 Ti3 O10'
+_cell_volume   208.84169938
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.28816895  0.28816895  0.57633790  1
+  Na  Na1  1  0.71183105  0.71183105  0.42366210  1
+  Sm  Sm2  1  0.42488579  0.42488579  0.84977158  1
+  Sm  Sm3  1  0.57511421  0.57511421  0.15022842  1
+  Ti  Ti4  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti5  1  0.14623579  0.14623579  0.29247258  1
+  Ti  Ti6  1  0.85376421  0.85376421  0.70752742  1
+  O  O7  1  0.50000000  0.00000000  0.00000000  1
+  O  O8  1  0.86924398  0.36924498  0.73848896  1
+  O  O9  1  -0.00000000  0.50000000  -0.00000000  1
+  O  O10  1  0.20810398  0.20810398  0.41620796  1
+  O  O11  1  0.79189602  0.79189602  0.58379204  1
+  O  O12  1  0.63075602  0.13075602  0.26151104  1
+  O  O13  1  0.13075602  0.63075602  0.26151104  1
+  O  O14  1  0.36924498  0.86924398  0.73848896  1
+  O  O15  1  0.06749046  0.06749046  0.13497992  1
+  O  O16  1  0.93250954  0.93250954  0.86502008  1

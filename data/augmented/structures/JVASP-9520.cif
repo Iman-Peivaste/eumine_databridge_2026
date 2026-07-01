@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgNiPO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27842104
+_cell_length_b   5.32104230
+_cell_length_c   6.35231548
+_cell_angle_alpha   105.41398301
+_cell_angle_beta   95.08074492
+_cell_angle_gamma   107.02821303
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNiPO5
+_chemical_formula_sum   'Mg2 Ni2 P2 O10'
+_cell_volume   161.75607378
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.88653527  0.72558248  0.25855972  1
+  Mg  Mg1  1  0.11465542  0.27705330  0.72768666  1
+  Ni  Ni2  1  0.50059390  0.00133524  0.49314624  1
+  Ni  Ni3  1  0.50057737  0.00132554  -0.00685366  1
+  P  P4  1  0.23775419  0.35486625  0.23895527  1
+  P  P5  1  0.76343375  0.64781229  0.74732567  1
+  O  O6  1  0.52349670  0.37140334  0.17981150  1
+  O  O7  1  0.18061844  0.15441777  0.38587146  1
+  O  O8  1  0.47769862  0.63125560  0.80648943  1
+  O  O9  1  0.82053757  0.84822033  0.60038012  1
+  O  O10  1  0.77573061  0.36293607  0.60406879  1
+  O  O11  1  -0.02685282  0.73405788  0.95505555  1
+  O  O12  1  0.22546509  0.63972901  0.38225607  1
+  O  O13  1  0.02806871  0.26871227  0.03122310  1
+  O  O14  1  0.38533615  0.07653412  0.75753158  1
+  O  O15  1  0.61585004  0.92612851  0.22876150  1

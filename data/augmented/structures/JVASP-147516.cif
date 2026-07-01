@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sm3GaNiS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.67375207
+_cell_length_b   9.67375207
+_cell_length_c   6.24304917
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999495
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3GaNiS7
+_chemical_formula_sum   'Sm6 Ga2 Ni2 S14'
+_cell_volume   505.96131714
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.16333605  0.37571825  0.32457893  1
+  Sm  Sm1  1  0.21238120  0.83666395  0.32457893  1
+  Sm  Sm2  1  0.62428175  0.78761880  0.32457893  1
+  Sm  Sm3  1  0.83666395  0.62428175  0.82457893  1
+  Sm  Sm4  1  0.78761880  0.16333605  0.82457893  1
+  Sm  Sm5  1  0.37571825  0.21238120  0.82457893  1
+  Ga  Ga6  1  0.66666667  0.33333333  0.39900301  1
+  Ga  Ga7  1  0.33333333  0.66666667  0.89900301  1
+  Ni  Ni8  1  0.00000000  0.00000000  0.00137437  1
+  Ni  Ni9  1  0.00000000  0.00000000  0.50137437  1
+  S  S10  1  0.12818099  0.89755954  0.73622750  1
+  S  S11  1  0.89755954  0.76937854  0.23622750  1
+  S  S12  1  0.23062146  0.12818099  0.23622750  1
+  S  S13  1  0.87181901  0.10244046  0.23622750  1
+  S  S14  1  0.33333333  0.66666667  0.53668929  1
+  S  S15  1  0.66666667  0.33333333  0.03668929  1
+  S  S16  1  0.08457293  0.55929833  0.04828402  1
+  S  S17  1  0.91542707  0.44070167  0.54828402  1
+  S  S18  1  0.55929833  0.47472440  0.54828402  1
+  S  S19  1  0.47472440  0.91542707  0.04828402  1
+  S  S20  1  0.76937854  0.87181901  0.73622750  1
+  S  S21  1  0.44070167  0.52527560  0.04828402  1
+  S  S22  1  0.52527560  0.08457293  0.54828402  1
+  S  S23  1  0.10244046  0.23062146  0.73622750  1

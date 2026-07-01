@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li4Ni3(OF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09995629
+_cell_length_b   5.09268387
+_cell_length_c   5.85736049
+_cell_angle_alpha   89.75522838
+_cell_angle_beta   106.88768409
+_cell_angle_gamma   99.95782936
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Ni3(OF3)2
+_chemical_formula_sum   'Li4 Ni3 O2 F6'
+_cell_volume   143.20608056
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.98189999  0.26194687  0.87248691  1
+  Li  Li1  1  0.01810001  0.73805313  0.12751309  1
+  Li  Li2  1  0.98804175  0.23906648  0.36944329  1
+  Li  Li3  1  0.01195825  0.76093352  0.63055671  1
+  Ni  Ni4  1  0.50000000  0.00000000  0.00000000  1
+  Ni  Ni5  1  0.50189429  0.49918864  0.23970968  1
+  Ni  Ni6  1  0.49810571  0.50081136  0.76029032  1
+  O  O7  1  0.72531777  0.36102606  0.05596315  1
+  O  O8  1  0.27468223  0.63897394  0.94403685  1
+  F  F9  1  0.23147067  0.13050566  0.17490964  1
+  F  F10  1  0.77964561  0.86752471  0.31064630  1
+  F  F11  1  0.76077953  0.39958308  0.56624622  1
+  F  F12  1  0.23922047  0.60041692  0.43375378  1
+  F  F13  1  0.76852933  0.86949434  0.82509036  1
+  F  F14  1  0.22035439  0.13247529  0.68935370  1

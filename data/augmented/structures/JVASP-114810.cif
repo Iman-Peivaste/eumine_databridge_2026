@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbS3Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50707005
+_cell_length_b   6.17200781
+_cell_length_c   5.50707005
+_cell_angle_alpha   77.29136623
+_cell_angle_beta   57.16769851
+_cell_angle_gamma   77.29136623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbS3Cl
+_chemical_formula_sum   'Rb1 S3 Cl1'
+_cell_volume   152.26718430
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.23481004  0.75274533  0.23480804  1
+  S  S1  1  -0.07360921  0.26583621  0.53183893  1
+  S  S2  1  0.89133218  0.03399187  0.89132928  1
+  S  S3  1  0.53184060  0.26583589  -0.07361056  1
+  Cl  Cl4  1  0.54062639  -0.19340930  0.54062493  1

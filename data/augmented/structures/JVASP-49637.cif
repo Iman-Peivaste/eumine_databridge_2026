@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mg2AgSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49198911
+_cell_length_b   7.55556158
+_cell_length_c   5.60357958
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   99.33114572
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2AgSbO6
+_chemical_formula_sum   'Mg4 Ag2 Sb2 O12'
+_cell_volume   229.44410136
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.47872667  0.75000000  0.43495743  1
+  Mg  Mg1  1  0.52127333  0.25000000  0.56504257  1
+  Mg  Mg2  1  0.94303644  0.75000000  0.97658678  1
+  Mg  Mg3  1  0.05696356  0.25000000  0.02341322  1
+  Ag  Ag4  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag5  1  0.50000000  0.00000000  0.00000000  1
+  Sb  Sb6  1  0.00000000  0.50000000  0.50000000  1
+  Sb  Sb7  1  0.00000000  0.00000000  0.50000000  1
+  O  O8  1  0.34936222  0.55877562  0.65629394  1
+  O  O9  1  0.61327281  0.75000000  0.10010299  1
+  O  O10  1  0.65063778  0.05877562  0.34370606  1
+  O  O11  1  0.12559595  0.25000000  0.40454670  1
+  O  O12  1  0.12153447  0.92746652  0.20777211  1
+  O  O13  1  0.87846553  0.07253348  0.79222789  1
+  O  O14  1  0.12153447  0.57253348  0.20777211  1
+  O  O15  1  0.34936222  0.94122438  0.65629394  1
+  O  O16  1  0.87440405  0.75000000  0.59545330  1
+  O  O17  1  0.65063778  0.44122438  0.34370606  1
+  O  O18  1  0.87846553  0.42746652  0.79222789  1
+  O  O19  1  0.38672719  0.25000000  0.89989701  1

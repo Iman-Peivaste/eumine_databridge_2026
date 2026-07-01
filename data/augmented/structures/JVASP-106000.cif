@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Si3P3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93994819
+_cell_length_b   4.96000501
+_cell_length_c   5.56710826
+_cell_angle_alpha   108.92463469
+_cell_angle_beta   108.28977506
+_cell_angle_gamma   94.90884165
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si3P3Rh
+_chemical_formula_sum   'Si3 P3 Rh1'
+_cell_volume   119.81931881
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.58644184  0.60227053  0.36476997  1
+  Si  Si1  1  0.40342351  0.40949466  0.63281216  1
+  Si  Si2  1  0.71225774  0.15918062  0.15896634  1
+  P  P3  1  0.83953864  0.29175720  0.84447778  1
+  P  P4  1  0.15092856  0.70891796  0.14805711  1
+  P  P5  1  0.29228440  0.83991200  0.85175292  1
+  Rh  Rh6  1  0.00072431  0.00286703  0.49916372  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_KLaTa2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.25249443
+_cell_length_b   11.25249443
+_cell_length_c   3.90158071
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   159.98636591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLaTa2O7
+_chemical_formula_sum   'K1 La1 Ta2 O7'
+_cell_volume   169.07279197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.76716940  0.23283060  0.00000000  1
+  La  La1  1  0.00084509  0.99915491  0.00000000  1
+  Ta  Ta2  1  0.60360262  0.39639738  0.50000000  1
+  Ta  Ta3  1  0.39740032  0.60259968  0.50000000  1
+  O  O4  1  0.58298959  0.41701041  0.00000000  1
+  O  O5  1  0.41565581  0.58434419  0.00000000  1
+  O  O6  1  0.68441135  0.31558865  0.50000000  1
+  O  O7  1  0.31554599  0.68445401  0.50000000  1
+  O  O8  1  0.91553492  0.08446508  0.50000000  1
+  O  O9  1  0.08272379  0.91727621  0.50000000  1
+  O  O10  1  0.49912212  0.50087788  0.50000000  1

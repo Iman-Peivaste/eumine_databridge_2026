@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ca7Mg2N6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98075764
+_cell_length_b   12.56943834
+_cell_length_c   6.38974596
+_cell_angle_alpha   89.99999687
+_cell_angle_beta   88.15908796
+_cell_angle_gamma   25.80354080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca7Mg2N6
+_chemical_formula_sum   'Ca7 Mg2 N6'
+_cell_volume   243.38372222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.50000000  -0.00000000  1
+  Ca  Ca1  1  -0.00000000  0.37676363  0.50000000  1
+  Ca  Ca2  1  0.00000000  0.62323637  0.50000000  1
+  Ca  Ca3  1  0.69677315  0.97927497  0.82502842  1
+  Ca  Ca4  1  0.69677315  0.32395188  0.82502842  1
+  Ca  Ca5  1  0.30322685  0.02072503  0.17497158  1
+  Ca  Ca6  1  0.30322685  0.67604812  0.17497158  1
+  Mg  Mg7  1  0.24255294  0.87872353  0.67312769  1
+  Mg  Mg8  1  0.75744706  0.12127647  0.32687231  1
+  N  N9  1  0.48264681  0.90322186  0.80414655  1
+  N  N10  1  0.48264681  0.61413034  0.80414655  1
+  N  N11  1  0.51735319  0.09677814  0.19585345  1
+  N  N12  1  0.51735319  0.38586966  0.19585345  1
+  N  N13  1  0.48785411  0.75607294  0.34124698  1
+  N  N14  1  0.51214589  0.24392706  0.65875302  1

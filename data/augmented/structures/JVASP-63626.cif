@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_DyCrB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.46328422
+_cell_length_b   5.91704706
+_cell_length_c   11.43467001
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCrB4
+_chemical_formula_sum   'Dy4 Cr4 B16'
+_cell_volume   234.32401148
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00000000  0.12409767  0.84928274  1
+  Dy  Dy1  1  0.00000000  0.87590233  0.15071726  1
+  Dy  Dy2  1  0.00000000  0.37590233  0.34928274  1
+  Dy  Dy3  1  0.00000000  0.62409767  0.65071726  1
+  Cr  Cr4  1  0.00000000  0.12154600  0.57911240  1
+  Cr  Cr5  1  0.00000000  0.87845400  0.42088760  1
+  Cr  Cr6  1  0.00000000  0.37845400  0.07911240  1
+  Cr  Cr7  1  0.00000000  0.62154600  0.92088760  1
+  B  B8  1  0.50000000  0.52520017  0.19155912  1
+  B  B9  1  0.50000000  0.47479983  0.80844088  1
+  B  B10  1  0.50000000  0.88676681  0.54678231  1
+  B  B11  1  0.50000000  0.11323319  0.45321769  1
+  B  B12  1  0.50000000  0.61323319  0.04678231  1
+  B  B13  1  0.50000000  0.38676681  0.95321769  1
+  B  B14  1  0.50000000  0.86253780  0.96749855  1
+  B  B15  1  0.50000000  0.78010572  0.81609541  1
+  B  B16  1  0.50000000  0.63746220  0.46749855  1
+  B  B17  1  0.50000000  0.36253780  0.53250145  1
+  B  B18  1  0.50000000  0.02520017  0.30844088  1
+  B  B19  1  0.50000000  0.21989428  0.18390459  1
+  B  B20  1  0.50000000  0.71989428  0.31609541  1
+  B  B21  1  0.50000000  0.28010572  0.68390459  1
+  B  B22  1  0.50000000  0.13746220  0.03250145  1
+  B  B23  1  0.50000000  0.97479983  0.69155912  1

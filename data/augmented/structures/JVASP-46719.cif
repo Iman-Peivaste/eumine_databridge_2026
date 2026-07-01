@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2VSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.66491718
+_cell_length_b   5.80004703
+_cell_length_c   7.75744219
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   126.78319962
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2VSiO4
+_chemical_formula_sum   'Li4 V2 Si2 O8'
+_cell_volume   168.10323900
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.51106041  0.84942097  0.99853798  1
+  Li  Li1  1  0.77081903  0.69405589  0.75847561  1
+  Li  Li2  1  0.51106041  0.15057903  0.49853798  1
+  Li  Li3  1  0.77081903  0.30594411  0.25847561  1
+  V  V4  1  0.27856192  0.35745444  0.73855547  1
+  V  V5  1  0.27856192  0.64254556  0.23855547  1
+  Si  Si6  1  0.99178023  0.16297946  0.00016783  1
+  Si  Si7  1  0.99178023  0.83702054  0.50016783  1
+  O  O8  1  0.86101389  0.31821289  0.78128656  1
+  O  O9  1  0.31477374  0.69994304  0.72078461  1
+  O  O10  1  0.63661604  0.84138586  0.49903565  1
+  O  O11  1  0.10397474  0.10591820  0.50185429  1
+  O  O12  1  0.86101389  0.68178711  0.28128656  1
+  O  O13  1  0.31477374  0.30005696  0.22078461  1
+  O  O14  1  0.10397474  0.89408180  0.00185429  1
+  O  O15  1  0.63661604  0.15861414  -0.00096435  1

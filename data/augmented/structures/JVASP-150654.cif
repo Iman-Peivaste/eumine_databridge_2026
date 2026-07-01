@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67259797
+_cell_length_b   5.67259797
+_cell_length_c   4.82663887
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00140511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNiO3
+_chemical_formula_sum   'Ba2 Ni2 O6'
+_cell_volume   134.50341137
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33332961  0.66667039  0.24121541  1
+  Ba  Ba1  1  0.66667039  0.33332961  0.74121541  1
+  Ni  Ni2  1  0.00000002  -0.00000002  0.99030944  1
+  Ni  Ni3  1  -0.00000002  0.00000002  0.49030944  1
+  O  O4  1  0.14855276  0.85144724  0.74032508  1
+  O  O5  1  0.14856518  0.29711134  0.74032504  1
+  O  O6  1  0.70288866  0.85143482  0.74032504  1
+  O  O7  1  0.85144724  0.14855276  0.24032508  1
+  O  O8  1  0.85143482  0.70288866  0.24032504  1
+  O  O9  1  0.29711134  0.14856518  0.24032504  1

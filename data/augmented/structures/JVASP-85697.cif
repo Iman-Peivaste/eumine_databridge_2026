@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Fe2CuAs2(HO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12307723
+_cell_length_b   5.38358787
+_cell_length_c   7.74374417
+_cell_angle_alpha   104.99092892
+_cell_angle_beta   105.63195399
+_cell_angle_gamma   100.51632011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2CuAs2(HO5)2
+_chemical_formula_sum   'Fe2 Cu1 As2 H2 O10'
+_cell_volume   191.23522196
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.81352879  0.39702291  0.80737986  1
+  Fe  Fe1  1  0.18647121  0.60297709  0.19262014  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.00000000  1
+  As  As3  1  0.28942938  0.79492280  0.67553062  1
+  As  As4  1  0.71057062  0.20507720  0.32446938  1
+  H  H5  1  0.23544127  0.35096077  0.63082134  1
+  H  H6  1  0.76455873  0.64903923  0.36917866  1
+  O  O7  1  0.85131435  0.21706607  0.55507022  1
+  O  O8  1  0.14868565  0.78293393  0.44492978  1
+  O  O9  1  0.98144448  0.24216414  0.23177893  1
+  O  O10  1  0.01855552  0.75783586  0.76822107  1
+  O  O11  1  0.43579753  0.93685215  0.18860946  1
+  O  O12  1  0.41176283  0.50006653  0.67286836  1
+  O  O13  1  0.13515015  0.32484465  0.95663564  1
+  O  O14  1  0.56420247  0.06314785  0.81139054  1
+  O  O15  1  0.58823717  0.49993347  0.32713164  1
+  O  O16  1  0.86484985  0.67515535  0.04336436  1

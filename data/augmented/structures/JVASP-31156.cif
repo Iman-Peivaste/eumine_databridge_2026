@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2NiF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87392854
+_cell_length_b   5.87392880
+_cell_length_c   5.79969272
+_cell_angle_alpha   60.41720104
+_cell_angle_beta   60.41720212
+_cell_angle_gamma   61.06628437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2NiF4
+_chemical_formula_sum   'Li4 Ni2 F8'
+_cell_volume   143.50917143
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.11295015  0.11295015  0.13704985  1
+  Li  Li1  1  0.50000000  0.50000000  0.00000000  1
+  Li  Li2  1  0.50000000  0.50000000  0.50000000  1
+  Li  Li3  1  0.88704985  0.88704985  0.86295015  1
+  Ni  Ni4  1  0.50000000  0.00000000  0.50000000  1
+  Ni  Ni5  1  -0.00000000  0.50000000  0.50000000  1
+  F  F6  1  0.25277018  0.25277018  0.25952205  1
+  F  F7  1  0.25277018  0.25277018  0.73493759  1
+  F  F8  1  0.25623162  0.72391727  0.25992606  1
+  F  F9  1  0.72391727  0.25623162  0.25992606  1
+  F  F10  1  0.27608273  0.74376838  0.74007394  1
+  F  F11  1  0.74722982  0.74722982  0.26506241  1
+  F  F12  1  0.74376838  0.27608273  0.74007394  1
+  F  F13  1  0.74722982  0.74722982  0.74047795  1

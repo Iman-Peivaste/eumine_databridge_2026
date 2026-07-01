@@ -83,7 +83,7 @@ def dry_run():
 
     # Load our predictor twice as mock teams
     print("\nLoading mock team predictors...")
-    model_path = str(ROOT / "models" / "full_retrain")
+    model_path = str(ROOT / "models" / "combined_retrain")
 
     p1 = LISTEuMINePredictor()
     p1.load_model(model_path)
@@ -185,7 +185,7 @@ def main():
     # Load our predictor
     print("\nLoading CataLIST predictor...")
     our_predictor = LISTEuMINePredictor()
-    our_predictor.load_model(str(ROOT / "models" / "full_retrain"))
+    our_predictor.load_model(str(ROOT / "models" / "combined_retrain"))
 
     # Build federation
     fed = FederatedEnsemble()

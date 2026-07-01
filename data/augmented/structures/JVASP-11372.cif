@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZnAg2GeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64137435
+_cell_length_b   5.58009628
+_cell_length_c   9.05439097
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   127.73905130
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnAg2GeO4
+_chemical_formula_sum   'Zn2 Ag4 Ge2 O8'
+_cell_volume   225.40114242
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.99450757  0.81538894  0.49768557  1
+  Zn  Zn1  1  0.99450757  0.18461106  0.99768557  1
+  Ag  Ag2  1  0.52547313  0.19256763  0.51342619  1
+  Ag  Ag3  1  0.52547313  0.80743237  0.01342619  1
+  Ag  Ag4  1  0.73426548  0.29706528  0.23476810  1
+  Ag  Ag5  1  0.73426548  0.70293472  0.73476810  1
+  Ge  Ge6  1  0.24907833  0.68001518  0.24934370  1
+  Ge  Ge7  1  0.24907833  0.31998482  0.74934370  1
+  O  O8  1  0.59632554  0.29751463  0.78495205  1
+  O  O9  1  0.59632554  0.70248537  0.28495205  1
+  O  O10  1  0.28921217  0.79759076  0.44710807  1
+  O  O11  1  0.28921217  0.20240924  0.94710807  1
+  O  O12  1  0.14226213  0.62809850  0.72362861  1
+  O  O13  1  0.96687664  0.15938523  0.54108870  1
+  O  O14  1  0.14226213  0.37190150  0.22362861  1
+  O  O15  1  0.96687664  0.84061477  0.04108870  1

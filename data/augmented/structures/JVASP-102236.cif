@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NaFeN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00907647
+_cell_length_b   3.00907105
+_cell_length_c   9.70641601
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00005952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaFeN
+_chemical_formula_sum   'Na2 Fe2 N2'
+_cell_volume   76.11231630
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66666667  0.33333234  0.76168201  1
+  Na  Na1  1  0.33333333  0.66666766  0.26168201  1
+  Fe  Fe2  1  -0.00000085  -0.00000269  0.51790068  1
+  Fe  Fe3  1  0.00000085  0.00000269  0.01790068  1
+  N  N4  1  0.33333192  0.66666483  0.56505631  1
+  N  N5  1  0.66666808  0.33333517  0.06505631  1

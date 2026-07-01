@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_VCuBi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03409729
+_cell_length_b   7.18853662
+_cell_length_c   7.68434456
+_cell_angle_alpha   90.17430639
+_cell_angle_beta   106.76662688
+_cell_angle_gamma   107.35283493
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VCuBi2O7
+_chemical_formula_sum   'V2 Cu2 Bi4 O14'
+_cell_volume   303.17229022
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.88631753  0.73250181  0.07323850  1
+  V  V1  1  0.11368247  0.26749819  0.92676150  1
+  Cu  Cu2  1  -0.00000000  0.50000000  0.50000000  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.50000000  1
+  Bi  Bi4  1  0.47409139  0.87200982  0.71227251  1
+  Bi  Bi5  1  0.52590861  0.12799018  0.28772749  1
+  Bi  Bi6  1  0.53924505  0.38438896  0.72946429  1
+  Bi  Bi7  1  0.46075495  0.61561104  0.27053571  1
+  O  O8  1  0.94360005  0.23545539  0.43170211  1
+  O  O9  1  0.05639995  0.76454461  0.56829789  1
+  O  O10  1  0.67147877  0.43075359  0.47443231  1
+  O  O11  1  0.32852123  0.56924641  0.52556769  1
+  O  O12  1  0.20418612  0.28605550  0.16544233  1
+  O  O13  1  0.79581388  0.71394450  0.83455767  1
+  O  O14  1  0.73800760  0.87743226  0.13959188  1
+  O  O15  1  0.20507166  0.81120064  0.18040497  1
+  O  O16  1  0.26199240  0.12256774  0.86040812  1
+  O  O17  1  0.33905079  0.09664356  0.51976130  1
+  O  O18  1  0.24412229  0.49706018  0.87301788  1
+  O  O19  1  0.75587771  0.50293982  0.12698212  1
+  O  O20  1  0.79492834  0.18879936  0.81959503  1
+  O  O21  1  0.66094921  0.90335644  0.48023870  1

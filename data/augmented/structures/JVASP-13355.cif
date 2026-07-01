@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca(NdTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27393953
+_cell_length_b   8.27394007
+_cell_length_c   8.27394007
+_cell_angle_alpha   109.79855642
+_cell_angle_beta   109.79855380
+_cell_angle_gamma   108.81851539
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(NdTe2)2
+_chemical_formula_sum   'Ca2 Nd4 Te8'
+_cell_volume   435.98644446
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.62500000  0.37500000  0.25000000  1
+  Ca  Ca1  1  0.87500000  0.12500000  0.75000000  1
+  Nd  Nd2  1  0.12544557  0.75000000  0.87544557  1
+  Nd  Nd3  1  0.25000000  0.62544557  0.37544557  1
+  Nd  Nd4  1  0.37455443  0.25000000  0.62455443  1
+  Nd  Nd5  1  0.75000000  0.87455443  0.12455443  1
+  Te  Te6  1  0.00231947  0.85705711  0.50304823  1
+  Te  Te7  1  -0.00072876  0.35400888  0.49695177  1
+  Te  Te8  1  0.49768053  0.00072876  0.85473764  1
+  Te  Te9  1  0.14294289  0.14599112  0.14526236  1
+  Te  Te10  1  0.35705711  0.50231947  0.00304823  1
+  Te  Te11  1  0.64599112  0.64294289  0.64526236  1
+  Te  Te12  1  0.50072876  0.99768053  0.35473764  1
+  Te  Te13  1  0.85400888  0.49927124  0.99695177  1

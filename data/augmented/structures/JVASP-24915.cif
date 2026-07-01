@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CuAsPbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89630227
+_cell_length_b   5.86433462
+_cell_length_c   8.01201231
+_cell_angle_alpha   79.14764314
+_cell_angle_beta   74.42191114
+_cell_angle_gamma   85.11088695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAsPbO4
+_chemical_formula_sum   'Cu2 As2 Pb2 O8'
+_cell_volume   217.49304227
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.36386886  0.80728251  0.99559099  1
+  Cu  Cu1  1  0.63613114  0.19271749  0.00440901  1
+  As  As2  1  0.58053543  0.79630890  0.31308399  1
+  As  As3  1  0.41946457  0.20369110  0.68691601  1
+  Pb  Pb4  1  0.07192295  0.28965470  0.31678092  1
+  Pb  Pb5  1  0.92807705  0.71034530  0.68321908  1
+  O  O6  1  0.78109076  0.03035492  0.18598078  1
+  O  O7  1  0.21890924  0.96964508  0.81401922  1
+  O  O8  1  0.22337838  0.37804835  0.56239040  1
+  O  O9  1  0.49294200  0.37178492  0.82689925  1
+  O  O10  1  0.72765831  0.09121321  0.56332568  1
+  O  O11  1  0.27234169  0.90878679  0.43667432  1
+  O  O12  1  0.77662162  0.62195165  0.43760960  1
+  O  O13  1  0.50705800  0.62821508  0.17310075  1

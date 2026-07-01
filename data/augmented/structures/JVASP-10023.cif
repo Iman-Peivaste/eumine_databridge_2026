@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mg(SnO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49924976
+_cell_length_b   6.49924920
+_cell_length_c   6.34070863
+_cell_angle_alpha   60.80369856
+_cell_angle_beta   60.80370645
+_cell_angle_gamma   65.35509347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(SnO2)2
+_chemical_formula_sum   'Mg2 Sn4 O8'
+_cell_volume   198.38845732
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.12500000  0.62500000  0.62500000  1
+  Mg  Mg1  1  0.62500000  0.12500000  0.62500000  1
+  Sn  Sn2  1  0.01197262  0.01197262  0.98802738  1
+  Sn  Sn3  1  0.23802738  0.23802738  0.26197262  1
+  Sn  Sn4  1  0.62500000  0.62500000  0.12500000  1
+  Sn  Sn5  1  0.62500000  0.62500000  0.62500000  1
+  O  O6  1  0.39022829  0.39022829  0.38278434  1
+  O  O7  1  0.41187793  0.80678546  0.39066831  1
+  O  O8  1  0.39022829  0.39022829  0.83676008  1
+  O  O9  1  0.80678546  0.41187793  0.39066831  1
+  O  O10  1  0.44321454  0.83812207  0.85933169  1
+  O  O11  1  0.83812207  0.44321454  0.85933169  1
+  O  O12  1  0.85977171  0.85977171  0.41323992  1
+  O  O13  1  0.85977171  0.85977171  0.86721566  1

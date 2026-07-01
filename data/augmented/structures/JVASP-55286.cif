@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrCu2GeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17540337
+_cell_length_b   6.17540337
+_cell_length_c   15.31746389
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999259
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCu2GeS4
+_chemical_formula_sum   'Sr3 Cu6 Ge3 S12'
+_cell_volume   505.88079279
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.77890366  0.66665841  0.91713471  1
+  Sr  Sr1  1  0.33334159  0.11224524  0.58380171  1
+  Sr  Sr2  1  0.88775476  0.22109634  0.25046771  1
+  Cu  Cu3  1  0.67462463  0.59218407  0.16200775  1
+  Cu  Cu4  1  0.25892331  0.00798633  0.33890801  1
+  Cu  Cu5  1  0.74906302  0.74107669  0.67224201  1
+  Cu  Cu6  1  0.40781593  0.08244056  0.82867475  1
+  Cu  Cu7  1  0.91755944  0.32537537  0.49534075  1
+  Cu  Cu8  1  0.99201367  0.25093698  0.00557501  1
+  Ge  Ge9  1  0.33331925  0.95403685  0.08379534  1
+  Ge  Ge10  1  0.62071759  0.66668075  0.41712834  1
+  Ge  Ge11  1  0.04596315  0.37928241  0.75046134  1
+  S  S12  1  0.82861639  0.63306974  0.53246101  1
+  S  S13  1  0.09723787  0.76816380  0.74813287  1
+  S  S14  1  0.23183620  0.32907307  0.41479987  1
+  S  S15  1  0.67092693  0.90276213  0.08146687  1
+  S  S16  1  0.43483757  0.43057271  0.75280098  1
+  S  S17  1  0.56942729  0.00426486  0.41946698  1
+  S  S18  1  0.99573514  0.56516243  0.08613398  1
+  S  S19  1  0.29969945  0.16192118  0.96845932  1
+  S  S20  1  0.83807882  0.13777827  0.63512632  1
+  S  S21  1  0.36693026  0.19554665  0.19912701  1
+  S  S22  1  0.80445335  0.17138361  0.86579401  1
+  S  S23  1  0.86222173  0.70030055  0.30179332  1

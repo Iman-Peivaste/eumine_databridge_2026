@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Si2Sn5N6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57782315
+_cell_length_b   7.64664710
+_cell_length_c   15.33051272
+_cell_angle_alpha   89.99999801
+_cell_angle_beta   83.55367632
+_cell_angle_gamma   133.27107337
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2Sn5N6
+_chemical_formula_sum   'Si4 Sn10 N12'
+_cell_volume   470.40235637
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.53059477  0.94266613  0.57048960  1
+  Si  Si1  1  0.46940523  0.41207136  0.92951040  1
+  Si  Si2  1  0.46940523  0.05733387  0.42951040  1
+  Si  Si3  1  0.53059477  0.58792864  0.07048960  1
+  Sn  Sn4  1  0.31101294  0.13952875  0.15459927  1
+  Sn  Sn5  1  0.68898706  0.86047125  0.84540073  1
+  Sn  Sn6  1  0.31101294  0.17148319  0.65459927  1
+  Sn  Sn7  1  0.17160834  0.30285001  0.45450580  1
+  Sn  Sn8  1  0.68898706  0.82851681  0.34540073  1
+  Sn  Sn9  1  0.82839166  0.69714999  0.54549420  1
+  Sn  Sn10  1  0.17160834  0.86875833  0.95450580  1
+  Sn  Sn11  1  0.00000000  0.46470058  0.25000000  1
+  Sn  Sn12  1  -0.00000000  0.53529942  0.75000000  1
+  Sn  Sn13  1  0.82839166  0.13124167  0.04549420  1
+  N  N14  1  0.11095195  0.12541607  0.91332642  1
+  N  N15  1  0.88904805  0.01446413  0.58667358  1
+  N  N16  1  0.61575461  0.41487193  0.02815950  1
+  N  N17  1  0.38424539  0.79911731  0.47184050  1
+  N  N18  1  0.38424539  0.58512807  0.97184050  1
+  N  N19  1  0.19194549  0.37355386  0.15191660  1
+  N  N20  1  0.80805451  0.18160838  0.34808340  1
+  N  N21  1  0.80805451  0.62644614  0.84808340  1
+  N  N22  1  0.19194549  0.81839162  0.65191660  1
+  N  N23  1  0.11095195  0.98553587  0.41332642  1
+  N  N24  1  0.61575461  0.20088269  0.52815950  1
+  N  N25  1  0.88904805  0.87458393  0.08667358  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TlAgTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91059887
+_cell_length_b   8.03644557
+_cell_length_c   8.67367901
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlAgTe
+_chemical_formula_sum   'Tl4 Ag4 Te4'
+_cell_volume   342.29599118
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.25000000  0.17944692  0.98735269  1
+  Tl  Tl1  1  0.75000000  0.67944692  0.51264731  1
+  Tl  Tl2  1  0.25000000  0.32055308  0.48735269  1
+  Tl  Tl3  1  0.75000000  0.82055308  0.01264731  1
+  Ag  Ag4  1  0.25000000  0.58796812  0.17065733  1
+  Ag  Ag5  1  0.75000000  0.41203188  0.82934267  1
+  Ag  Ag6  1  0.75000000  0.08796812  0.32934267  1
+  Ag  Ag7  1  0.25000000  0.91203188  0.67065733  1
+  Te  Te8  1  0.75000000  0.40338262  0.18703858  1
+  Te  Te9  1  0.75000000  0.09661738  0.68703858  1
+  Te  Te10  1  0.25000000  0.59661738  0.81296142  1
+  Te  Te11  1  0.25000000  0.90338262  0.31296142  1

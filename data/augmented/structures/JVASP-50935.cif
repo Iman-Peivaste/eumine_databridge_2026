@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_AlInO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27587663
+_cell_length_b   3.27597414
+_cell_length_c   12.02236494
+_cell_angle_alpha   89.99894128
+_cell_angle_beta   90.00020759
+_cell_angle_gamma   60.00018212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlInO3
+_chemical_formula_sum   'Al2 In2 O6'
+_cell_volume   111.73502708
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.33338841  0.33327554  0.25000044  1
+  Al  Al1  1  0.66671195  0.66662491  0.75000080  1
+  In  In2  1  -0.00000031  -0.00000042  -0.00000122  1
+  In  In3  1  -0.00001042  0.00000969  0.50000430  1
+  O  O4  1  0.00005740  -0.00005825  0.24999876  1
+  O  O5  1  0.00003694  -0.00003534  0.74999850  1
+  O  O6  1  0.33331646  0.33334070  0.40792734  1
+  O  O7  1  0.33332918  0.33333016  0.09207367  1
+  O  O8  1  0.66667988  0.66666199  0.59207715  1
+  O  O9  1  0.66668852  0.66665103  0.90792325  1

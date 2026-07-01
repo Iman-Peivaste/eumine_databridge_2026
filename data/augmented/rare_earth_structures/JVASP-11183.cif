@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaAlO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80081714
+_cell_length_b   6.40999194
+_cell_length_c   6.51737731
+_cell_angle_alpha   106.91273149
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   107.24606406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAlO4
+_chemical_formula_sum   'Ta2 Al2 O8'
+_cell_volume   144.43871130
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.89450500  0.78900900  0.76674901  1
+  Ta  Ta1  1  0.10549500  0.21099100  0.23325099  1
+  Al  Al2  1  0.79953185  0.59906471  0.17966013  1
+  Al  Al3  1  0.20046815  0.40093529  0.82033987  1
+  O  O4  1  0.35816886  0.71633772  0.79715335  1
+  O  O5  1  0.64183114  0.28366228  0.20284665  1
+  O  O6  1  0.94230892  0.88461783  0.13474023  1
+  O  O7  1  0.05769108  0.11538217  0.86525977  1
+  O  O8  1  0.14081317  0.28162633  0.52606030  1
+  O  O9  1  0.85918683  0.71837367  0.47393970  1
+  O  O10  1  0.26239306  0.52478512  0.14217318  1
+  O  O11  1  0.73760694  0.47521488  0.85782682  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tl2Cu2SnTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.52205398
+_cell_length_b   7.06300489
+_cell_length_c   6.97858021
+_cell_angle_alpha   74.73088277
+_cell_angle_beta   53.08568646
+_cell_angle_gamma   52.18343077
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2Cu2SnTe4
+_chemical_formula_sum   'Tl2 Cu2 Sn1 Te4'
+_cell_volume   261.62438139
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.49906679  0.00093321  0.00093321  1
+  Tl  Tl1  1  0.99906679  0.50093321  0.50093321  1
+  Cu  Cu2  1  0.51544740  0.48455260  0.70334900  1
+  Cu  Cu3  1  0.29665100  0.70334900  0.48455260  1
+  Sn  Sn4  1  0.99011744  0.00988256  0.00988256  1
+  Te  Te5  1  0.93080684  0.06919316  0.44040169  1
+  Te  Te6  1  0.55959831  0.44040169  0.06919316  1
+  Te  Te7  1  0.43152545  0.91827902  0.56847455  1
+  Te  Te8  1  0.08172098  0.56847455  0.91827902  1

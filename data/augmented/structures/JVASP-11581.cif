@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr4CaCr2(SO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91374877
+_cell_length_b   3.91374877
+_cell_length_c   16.53874356
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4CaCr2(SO3)2
+_chemical_formula_sum   'Sr4 Ca1 Cr2 S2 O6'
+_cell_volume   253.33103719
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.50000000  0.20411979  1
+  Sr  Sr1  1  0.50000000  0.00000000  0.79588021  1
+  Sr  Sr2  1  0.00000000  0.50000000  0.41711288  1
+  Sr  Sr3  1  0.50000000  0.00000000  0.58288712  1
+  Ca  Ca4  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr5  1  0.50000000  0.00000000  0.31998144  1
+  Cr  Cr6  1  0.00000000  0.50000000  0.68001856  1
+  S  S7  1  0.50000000  0.00000000  0.11309723  1
+  S  S8  1  0.00000000  0.50000000  0.88690277  1
+  O  O9  1  0.50000000  0.50000000  0.30209194  1
+  O  O10  1  0.00000000  0.00000000  0.30191230  1
+  O  O11  1  0.00000000  0.00000000  0.69808770  1
+  O  O12  1  0.50000000  0.50000000  0.69790806  1
+  O  O13  1  0.50000000  0.00000000  0.43403631  1
+  O  O14  1  0.00000000  0.50000000  0.56596369  1

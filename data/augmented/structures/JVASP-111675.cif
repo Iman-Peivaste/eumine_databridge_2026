@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_InAsH2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52275950
+_cell_length_b   5.75604942
+_cell_length_c   6.74997140
+_cell_angle_alpha   98.88812510
+_cell_angle_beta   94.62608215
+_cell_angle_gamma   107.14334941
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InAsH2O5
+_chemical_formula_sum   'In2 As2 H4 O10'
+_cell_volume   200.76302309
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.63101120  0.72598801  0.22147408  1
+  In  In1  1  0.36898880  0.27401199  0.77852592  1
+  As  As2  1  0.73801593  0.87964772  0.74282368  1
+  As  As3  1  0.26198407  0.12035228  0.25717632  1
+  H  H4  1  0.89155460  0.36230170  0.27196352  1
+  H  H5  1  0.10844540  0.63769830  0.72803648  1
+  H  H6  1  0.07146186  0.61567275  0.21094701  1
+  H  H7  1  0.92853814  0.38432725  0.78905299  1
+  O  O8  1  0.94090705  0.07145632  0.27002033  1
+  O  O9  1  0.05909295  0.92854368  0.72997967  1
+  O  O10  1  0.45840863  0.24049005  0.47922276  1
+  O  O11  1  0.54159137  0.75950995  0.52077724  1
+  O  O12  1  0.65152416  0.65188024  0.89171725  1
+  O  O13  1  0.69136606  0.14782858  0.85959840  1
+  O  O14  1  0.34847584  0.34811976  0.10828275  1
+  O  O15  1  0.91798501  0.54263063  0.27636671  1
+  O  O16  1  0.30863394  0.85217142  0.14040160  1
+  O  O17  1  0.08201499  0.45736937  0.72363329  1

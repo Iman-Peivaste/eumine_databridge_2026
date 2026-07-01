@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Sr2PF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61927086
+_cell_length_b   6.61927086
+_cell_length_c   6.61927086
+_cell_angle_alpha   37.92274313
+_cell_angle_beta   37.92274313
+_cell_angle_gamma   37.92274313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2PF
+_chemical_formula_sum   'Sr2 P1 F1'
+_cell_volume   98.32325789
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.74723773  0.74723773  0.74723491  1
+  Sr  Sr1  1  0.25276285  0.25276285  0.25276195  1
+  P  P2  1  0.50000029  0.50000029  0.49999843  1
+  F  F3  1  0.00000000  0.00000000  0.00000000  1

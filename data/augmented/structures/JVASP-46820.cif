@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Li5SbS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27678082
+_cell_length_b   4.27682468
+_cell_length_c   6.36114059
+_cell_angle_alpha   90.00142762
+_cell_angle_beta   89.99987536
+_cell_angle_gamma   90.00022042
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5SbS
+_chemical_formula_sum   'Li5 Sb1 S1'
+_cell_volume   116.35188813
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00075337  0.50346665  0.50000381  1
+  Li  Li1  1  0.00077311  0.00364302  0.78662006  1
+  Li  Li2  1  0.00077009  0.00354649  0.21336679  1
+  Li  Li3  1  0.50076170  0.50361255  0.21337776  1
+  Li  Li4  1  0.50076391  0.50373961  0.78663049  1
+  Sb  Sb5  1  0.50076884  0.00364510  0.50000019  1
+  S  S6  1  0.00076498  0.50364157  -0.00000009  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_H(CO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04357119
+_cell_length_b   5.04357132
+_cell_length_c   5.04418620
+_cell_angle_alpha   105.28375660
+_cell_angle_beta   105.28521202
+_cell_angle_gamma   118.21047719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H(CO)2
+_chemical_formula_sum   'H2 C4 O4'
+_cell_volume   97.03160283
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.48028368  0.02529948  0.50558316  1
+  H  H1  1  0.97432966  0.47768112  0.45200978  1
+  C  C2  1  0.33828531  0.56207114  0.90035645  1
+  C  C3  1  0.44047176  0.34636487  0.78683662  1
+  C  C4  1  0.56065724  0.66177013  0.22242638  1
+  C  C5  1  0.65360788  0.44152395  0.09513283  1
+  O  O6  1  0.14822432  0.63557940  0.78380472  1
+  O  O7  1  0.63736989  0.85050443  0.48787432  1
+  O  O8  1  0.35994169  0.15191163  0.51185432  1
+  O  O9  1  0.84692857  0.35819385  0.20512242  1

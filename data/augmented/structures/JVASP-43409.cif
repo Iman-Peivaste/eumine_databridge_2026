@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaNiBO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99910210
+_cell_length_b   5.00142999
+_cell_length_c   5.54988328
+_cell_angle_alpha   82.18075475
+_cell_angle_beta   101.60457480
+_cell_angle_gamma   119.22111714
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNiBO3
+_chemical_formula_sum   'Na2 Ni2 B2 O6'
+_cell_volume   118.51155581
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.65312662  0.32033112  0.74601152  1
+  Na  Na1  1  0.34380420  0.67424796  0.25068770  1
+  Ni  Ni2  1  0.99845133  0.99729104  0.49836668  1
+  Ni  Ni3  1  0.99843899  0.99725769  0.99836227  1
+  B  B4  1  0.32341545  0.65720724  0.74688595  1
+  B  B5  1  0.67347134  0.33735514  0.24981121  1
+  O  O6  1  0.12879528  0.34432641  0.72836450  1
+  O  O7  1  0.86808263  0.65023432  0.26835462  1
+  O  O8  1  0.62779027  0.78284747  0.70703447  1
+  O  O9  1  0.21330489  0.84201362  0.80642706  1
+  O  O10  1  0.78361649  0.15258594  0.19027158  1
+  O  O11  1  0.36909851  0.21170405  0.28965944  1

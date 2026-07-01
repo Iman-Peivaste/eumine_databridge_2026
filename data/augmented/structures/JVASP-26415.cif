@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pr2Ti2S2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88144079
+_cell_length_b   3.88140535
+_cell_length_c   12.03727559
+_cell_angle_alpha   99.27798046
+_cell_angle_beta   99.27806273
+_cell_angle_gamma   90.00000550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Ti2S2O5
+_chemical_formula_sum   'Pr2 Ti2 S2 O5'
+_cell_volume   176.57014612
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.66571521  0.66571521  0.33143043  1
+  Pr  Pr1  1  0.33428492  0.33428492  0.66856984  1
+  Ti  Ti2  1  0.07718831  0.07718831  0.15437661  1
+  Ti  Ti3  1  0.92281168  0.92281168  0.84562337  1
+  S  S4  1  0.79636197  0.79636197  0.59272493  1
+  S  S5  1  0.20363760  0.20363760  0.40727520  1
+  O  O6  1  0.59598197  0.09598197  0.19196294  1
+  O  O7  1  0.40401813  0.90401813  0.80803726  1
+  O  O8  1  -0.00000040  -0.00000040  0.00000020  1
+  O  O9  1  0.90401815  0.40401815  0.80803729  1
+  O  O10  1  0.09598147  0.59598147  0.19196293  1

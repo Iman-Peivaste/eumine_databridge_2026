@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba3Fe2Cl2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.71918001
+_cell_length_b   8.71899592
+_cell_length_c   8.71887867
+_cell_angle_alpha   109.47086027
+_cell_angle_beta   109.47104938
+_cell_angle_gamma   109.47224392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Fe2Cl2O5
+_chemical_formula_sum   'Ba6 Fe4 Cl4 O10'
+_cell_volume   510.24437582
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.40234918  0.25000099  0.65234912  1
+  Ba  Ba1  1  0.65234887  0.40233180  0.25000492  1
+  Ba  Ba2  1  0.74998814  0.84764206  0.09764485  1
+  Ba  Ba3  1  0.09766498  0.75001239  0.84766977  1
+  Ba  Ba4  1  0.24999849  0.65235616  0.40235660  1
+  Ba  Ba5  1  0.84766048  0.09765871  0.75000457  1
+  Fe  Fe6  1  0.31400664  0.49999333  0.00000227  1
+  Fe  Fe7  1  0.50000522  0.00000360  0.31400477  1
+  Fe  Fe8  1  0.18599227  0.18599656  0.18599760  1
+  Fe  Fe9  1  0.00000599  0.31400832  0.50000161  1
+  Cl  Cl10  1  0.00000555  0.88555029  0.49999142  1
+  Cl  Cl11  1  0.88555311  0.50001110  0.00000476  1
+  Cl  Cl12  1  0.49999431  -0.00001550  0.88553413  1
+  Cl  Cl13  1  0.61444061  0.61445169  0.61445085  1
+  O  O14  1  0.52412113  0.49998011  0.00000451  1
+  O  O15  1  0.50001269  0.00001953  0.52413660  1
+  O  O16  1  -0.00000330  0.52413499  0.50001916  1
+  O  O17  1  0.97587189  0.97586601  0.97587071  1
+  O  O18  1  0.13829886  0.25001893  0.38829511  1
+  O  O19  1  0.24996935  0.38827615  0.13827440  1
+  O  O20  1  0.36172912  0.74999985  0.11170921  1
+  O  O21  1  0.38826640  0.13826943  0.24997553  1
+  O  O22  1  0.75000022  0.11172647  0.36169892  1
+  O  O23  1  0.11172179  0.36170703  0.74999561  1

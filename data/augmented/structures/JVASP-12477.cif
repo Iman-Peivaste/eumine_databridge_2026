@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BiSbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99107875
+_cell_length_b   5.52971377
+_cell_length_c   6.54247125
+_cell_angle_alpha   104.97428888
+_cell_angle_beta   112.42271285
+_cell_angle_gamma   89.99999520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiSbO4
+_chemical_formula_sum   'Bi2 Sb2 O8'
+_cell_volume   160.26221149
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.75390373  0.25000000  0.50000000  1
+  Bi  Bi1  1  0.24609627  0.75000000  0.50000000  1
+  Sb  Sb2  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb3  1  0.50000000  0.50000000  0.00000000  1
+  O  O4  1  0.81018708  0.53650518  0.30853340  1
+  O  O5  1  0.00165368  0.96349482  0.69146660  1
+  O  O6  1  0.18981292  0.46349482  0.69146660  1
+  O  O7  1  0.99834632  0.03650518  0.30853340  1
+  O  O8  1  0.36540498  0.82979680  0.13141192  1
+  O  O9  1  0.73399305  0.67020320  0.86858808  1
+  O  O10  1  0.63459502  0.17020320  0.86858808  1
+  O  O11  1  0.26600695  0.32979680  0.13141192  1

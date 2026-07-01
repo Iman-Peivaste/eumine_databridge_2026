@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16543718
+_cell_length_b   5.46929628
+_cell_length_c   5.29558562
+_cell_angle_alpha   74.48594410
+_cell_angle_beta   71.50628200
+_cell_angle_gamma   64.85947156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SeO7
+_chemical_formula_sum   'Se1 O7'
+_cell_volume   102.33019558
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.69144112  0.31144857  0.74625576  1
+  O  O1  1  0.32136095  0.27741133  0.74705724  1
+  O  O2  1  0.11131007  0.74426851  0.26793828  1
+  O  O3  1  0.84450294  0.76003898  0.19957210  1
+  O  O4  1  0.65080064  0.21162708  0.17964013  1
+  O  O5  1  0.38564781  0.74038460  0.80604916  1
+  O  O6  1  -0.05774298  0.15855427  0.25574733  1
+  O  O7  1  0.05267945  0.79626665  0.79774001  1

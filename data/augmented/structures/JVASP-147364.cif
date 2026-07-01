@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3NbN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.31111326
+_cell_length_b   8.31106387
+_cell_length_c   5.82179838
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3NbN3
+_chemical_formula_sum   'Ba6 Nb2 N6'
+_cell_volume   348.25998815
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.89184440  0.63848239  0.25000000  1
+  Ba  Ba1  1  0.74663866  0.10815490  0.25000000  1
+  Ba  Ba2  1  0.36151787  0.25336200  0.25000000  1
+  Ba  Ba3  1  0.10815560  0.36151761  0.75000000  1
+  Ba  Ba4  1  0.25336134  0.89184510  0.75000000  1
+  Ba  Ba5  1  0.63848213  0.74663800  0.75000000  1
+  Nb  Nb6  1  0.66666709  0.33333403  0.75000000  1
+  Nb  Nb7  1  0.33333291  0.66666597  0.25000000  1
+  N  N8  1  0.86930200  0.59241163  0.75000000  1
+  N  N9  1  0.72310818  0.13069736  0.75000000  1
+  N  N10  1  0.40758685  0.27689075  0.75000000  1
+  N  N11  1  0.13069800  0.40758837  0.25000000  1
+  N  N12  1  0.27689182  0.86930264  0.25000000  1
+  N  N13  1  0.59241315  0.72310925  0.25000000  1

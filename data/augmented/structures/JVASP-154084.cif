@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaCuS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37990385
+_cell_length_b   6.61829361
+_cell_length_c   7.03729460
+_cell_angle_alpha   82.21101901
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCuS2
+_chemical_formula_sum   'La4 Cu4 S8'
+_cell_volume   340.54697956
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.05067302  0.18871608  0.20133686  1
+  La  La1  1  0.55067302  0.81128392  0.29866314  1
+  La  La2  1  0.94932698  0.81128392  0.79866314  1
+  La  La3  1  0.44932698  0.18871608  0.70133686  1
+  Cu  Cu4  1  0.17193583  0.56716961  0.46969531  1
+  Cu  Cu5  1  0.67193583  0.43283039  0.03030469  1
+  Cu  Cu6  1  0.82806417  0.43283039  0.53030469  1
+  Cu  Cu7  1  0.32806417  0.56716961  0.96969531  1
+  S  S8  1  0.61967675  0.58896860  0.71502764  1
+  S  S9  1  0.11967675  0.41103140  0.78497236  1
+  S  S10  1  0.38032325  0.41103140  0.28497236  1
+  S  S11  1  0.88032325  0.58896860  0.21502764  1
+  S  S12  1  0.22657858  0.91077352  0.50017262  1
+  S  S13  1  0.72657858  0.08922648  -0.00017262  1
+  S  S14  1  0.77342142  0.08922648  0.49982738  1
+  S  S15  1  0.27342142  0.91077352  0.00017262  1

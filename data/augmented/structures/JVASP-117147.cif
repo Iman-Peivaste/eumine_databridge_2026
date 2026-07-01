@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Bi3Te4(ClO2)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.95500485
+_cell_length_b   7.95500485
+_cell_length_c   13.26185900
+_cell_angle_alpha   83.51613889
+_cell_angle_beta   83.51613889
+_cell_angle_gamma   29.85378779
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi3Te4(ClO2)5
+_chemical_formula_sum   'Bi3 Te4 Cl5 O10'
+_cell_volume   414.90039027
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi1  1  0.78316374  0.78316374  0.80924125  1
+  Bi  Bi2  1  0.21683626  0.21683626  0.19075875  1
+  Te  Te3  1  0.16035176  0.16035176  0.49464298  1
+  Te  Te4  1  0.83964824  0.83964824  0.50535702  1
+  Te  Te5  1  0.47434449  0.47434449  0.77002737  1
+  Te  Te6  1  0.52565551  0.52565551  0.22997263  1
+  Cl  Cl7  1  0.82327397  0.82327397  0.02665770  1
+  Cl  Cl8  1  0.50000000  0.50000000  0.50000000  1
+  Cl  Cl9  1  0.17672603  0.17672603  0.97334230  1
+  Cl  Cl10  1  0.15559544  0.15559544  0.72281590  1
+  Cl  Cl11  1  0.84440456  0.84440456  0.27718410  1
+  O  O12  1  0.05688439  0.05688439  0.19351270  1
+  O  O13  1  0.29292370  0.29292370  0.49848535  1
+  O  O14  1  0.70707630  0.70707630  0.50151465  1
+  O  O15  1  0.16048710  0.16048710  0.35439507  1
+  O  O16  1  0.83951290  0.83951290  0.64560493  1
+  O  O17  1  0.34778296  0.34778296  0.80589959  1
+  O  O18  1  0.65221704  0.65221704  0.19410041  1
+  O  O19  1  0.51464668  0.51464668  0.89965642  1
+  O  O20  1  0.48535332  0.48535332  0.10034358  1
+  O  O21  1  0.94311561  0.94311561  0.80648730  1

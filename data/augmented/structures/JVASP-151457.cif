@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PaBr3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.71698327
+_cell_length_b   8.71698327
+_cell_length_c   9.74868661
+_cell_angle_alpha   62.12101827
+_cell_angle_beta   62.12101827
+_cell_angle_gamma   26.67090369
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaBr3O
+_chemical_formula_sum   'Pa2 Br6 O2'
+_cell_volume   291.59114348
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.78783234  0.78783234  0.31393852  1
+  Pa  Pa1  1  0.21216766  0.21216766  0.68606148  1
+  Br  Br2  1  0.96052775  0.96052775  0.24755462  1
+  Br  Br3  1  0.03947225  0.03947225  0.75244538  1
+  Br  Br4  1  0.61992045  0.61992045  0.35611316  1
+  Br  Br5  1  0.38007955  0.38007955  0.64388684  1
+  Br  Br6  1  0.33312670  0.33312670  0.06362340  1
+  Br  Br7  1  0.66687330  0.66687330  0.93637660  1
+  O  O8  1  0.27102284  0.27102284  0.41448485  1
+  O  O9  1  0.72897716  0.72897716  0.58551515  1

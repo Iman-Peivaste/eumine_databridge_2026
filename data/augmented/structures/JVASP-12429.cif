@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2PbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40873181
+_cell_length_b   5.40873202
+_cell_length_c   5.49536752
+_cell_angle_alpha   99.87609769
+_cell_angle_beta   99.87609964
+_cell_angle_gamma   120.03373180
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2PbO3
+_chemical_formula_sum   'Li4 Pb2 O6'
+_cell_volume   130.72407394
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25675983  0.74324017  0.75000000  1
+  Li  Li1  1  0.74324017  0.25675983  0.25000000  1
+  Li  Li2  1  0.58151161  0.41848839  0.75000000  1
+  Li  Li3  1  0.41848839  0.58151161  0.25000000  1
+  Pb  Pb4  1  0.08935923  0.91064077  0.25000000  1
+  Pb  Pb5  1  0.91064077  0.08935923  0.75000000  1
+  O  O6  1  0.00000000  0.50000000  -0.00000000  1
+  O  O7  1  0.50000000  -0.00000000  0.50000000  1
+  O  O8  1  0.67258260  0.83386988  0.99269839  1
+  O  O9  1  0.16613012  0.32741740  0.50730161  1
+  O  O10  1  0.32741740  0.16613012  0.00730161  1
+  O  O11  1  0.83386988  0.67258260  0.49269839  1

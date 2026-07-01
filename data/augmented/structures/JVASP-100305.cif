@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sb2AsS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82640906
+_cell_length_b   5.82640939
+_cell_length_c   12.60053038
+_cell_angle_alpha   66.95866518
+_cell_angle_beta   66.95866382
+_cell_angle_gamma   40.20674169
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sb2AsS2
+_chemical_formula_sum   'Sb4 As2 S4'
+_cell_volume   251.00629814
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.27769543  0.27769543  0.67110244  1
+  Sb  Sb1  1  0.72230457  0.72230457  0.32889756  1
+  Sb  Sb2  1  0.91082919  0.91082919  0.89783672  1
+  Sb  Sb3  1  0.08917081  0.08917081  0.10216328  1
+  As  As4  1  0.11775020  0.11775020  0.48942958  1
+  As  As5  1  0.88224980  0.88224980  0.51057042  1
+  S  S6  1  0.67374080  0.67374080  0.92399470  1
+  S  S7  1  0.32625920  0.32625920  0.07600530  1
+  S  S8  1  0.53073840  0.53073840  0.26500722  1
+  S  S9  1  0.46926160  0.46926160  0.73499278  1

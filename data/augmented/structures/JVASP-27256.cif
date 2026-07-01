@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_FeTeCl7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42258060
+_cell_length_b   8.28881175
+_cell_length_c   9.79334773
+_cell_angle_alpha   85.28226441
+_cell_angle_beta   77.55511296
+_cell_angle_gamma   82.56122466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeTeCl7
+_chemical_formula_sum   'Fe2 Te2 Cl14'
+_cell_volume   504.02397604
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.49764193  0.11665748  0.12026820  1
+  Fe  Fe1  1  0.75967819  0.54269733  0.56699351  1
+  Te  Te2  1  0.94564335  0.50032625  0.09059318  1
+  Te  Te3  1  0.19138394  0.92963757  0.54870199  1
+  Cl  Cl4  1  0.31897979  0.17687046  0.57627266  1
+  Cl  Cl5  1  0.73103790  0.33650243  0.71527365  1
+  Cl  Cl6  1  0.65997480  0.48580363  0.37391400  1
+  Cl  Cl7  1  0.55231951  0.75770698  0.66352546  1
+  Cl  Cl8  1  0.09873321  0.59856354  0.50892852  1
+  Cl  Cl9  1  0.64593682  0.62298033  0.00136089  1
+  Cl  Cl10  1  0.05919690  0.74815115  0.13419579  1
+  Cl  Cl11  1  0.97501895  0.91814061  0.77574546  1
+  Cl  Cl12  1  0.40107447  0.04725876  0.93887986  1
+  Cl  Cl13  1  0.48965011  0.90583495  0.27785364  1
+  Cl  Cl14  1  0.29045297  0.32906338  0.22000140  1
+  Cl  Cl15  1  0.83743298  0.17142819  0.06634844  1
+  Cl  Cl16  1  0.17875962  0.47547523  0.86991073  1
+  Cl  Cl17  1  0.91408556  0.04600174  0.43363462  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TePb2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16822353
+_cell_length_b   7.16822353
+_cell_length_c   7.62955276
+_cell_angle_alpha   59.47408381
+_cell_angle_beta   59.47408381
+_cell_angle_gamma   47.73789054
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TePb2O5
+_chemical_formula_sum   'Te2 Pb4 O10'
+_cell_volume   241.26426599
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.04864785  0.04860054  0.18600085  1
+  Te  Te1  1  0.04860054  0.04864785  0.68600085  1
+  Pb  Pb2  1  0.71572612  0.70047233  0.18731250  1
+  Pb  Pb3  1  0.70047233  0.71572612  0.68731250  1
+  Pb  Pb4  1  0.38160919  0.39672643  0.18464831  1
+  Pb  Pb5  1  0.39672643  0.38160919  0.68464831  1
+  O  O6  1  0.10921208  0.32416621  0.05684104  1
+  O  O7  1  0.32416621  0.10921208  0.55684104  1
+  O  O8  1  0.98809211  0.77303408  0.31513580  1
+  O  O9  1  0.77303408  0.98809211  0.81513580  1
+  O  O10  1  0.18267433  0.91457755  0.43600276  1
+  O  O11  1  0.91457755  0.18267433  0.93600276  1
+  O  O12  1  0.80403402  0.40344216  0.55557308  1
+  O  O13  1  0.40344216  0.80403402  0.05557308  1
+  O  O14  1  0.29315011  0.69385488  0.81643566  1
+  O  O15  1  0.69385488  0.29315011  0.31643566  1

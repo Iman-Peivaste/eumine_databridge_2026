@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_ZnCuP2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33592267
+_cell_length_b   5.33592267
+_cell_length_c   4.55742055
+_cell_angle_alpha   79.22864246
+_cell_angle_beta   79.22864246
+_cell_angle_gamma   101.54650311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuP2O7
+_chemical_formula_sum   'Zn1 Cu1 P2 O7'
+_cell_volume   121.45462381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.31892146  0.68107854  0.50000000  1
+  Cu  Cu1  1  0.69942871  0.30057129  0.50000000  1
+  P  P2  1  0.21275467  0.20313162  0.09201593  1
+  P  P3  1  0.79686838  0.78724533  0.90798407  1
+  O  O4  1  0.07333311  0.36907676  0.27896391  1
+  O  O5  1  0.36503943  0.04588274  0.27010362  1
+  O  O6  1  0.95411726  0.63496057  0.72989638  1
+  O  O7  1  0.63092324  0.92666689  0.72103609  1
+  O  O8  1  0.39224733  0.37151611  0.78212408  1
+  O  O9  1  0.62848389  0.60775267  0.21787592  1
+  O  O10  1  -0.01531649  0.01531649  0.00000000  1

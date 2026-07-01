@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CuSb(MoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91513040
+_cell_length_b   5.59601933
+_cell_length_c   11.24430134
+_cell_angle_alpha   100.74207375
+_cell_angle_beta   102.62331831
+_cell_angle_gamma   90.00019682
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSb(MoO4)2
+_chemical_formula_sum   'Cu2 Sb2 Mo4 O16'
+_cell_volume   296.24401969
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.50000000  0.00000000  0.50000000  1
+  Sb  Sb2  1  0.19829248  0.74999750  -0.00000227  1
+  Sb  Sb3  1  0.80170752  0.25000250  0.00000227  1
+  Mo  Mo4  1  0.60536633  0.71977249  0.72542884  1
+  Mo  Mo5  1  0.87992220  0.78022987  0.27456613  1
+  Mo  Mo6  1  0.39463367  0.28022751  0.27457116  1
+  Mo  Mo7  1  0.12007780  0.21977013  0.72543387  1
+  O  O8  1  0.21173100  0.21080032  0.57918168  1
+  O  O9  1  0.43331520  0.51242746  0.79277785  1
+  O  O10  1  0.63253470  0.28919799  0.42081875  1
+  O  O11  1  0.36746530  0.71080201  0.57918125  1
+  O  O12  1  0.12037732  0.46029819  0.32265204  1
+  O  O13  1  0.96224453  0.62050744  0.10484269  1
+  O  O14  1  0.56668480  0.48757254  0.20722215  1
+  O  O15  1  0.14260009  0.12051279  0.10484240  1
+  O  O16  1  0.87962268  0.53970181  0.67734796  1
+  O  O17  1  0.03775547  0.37949256  0.89515731  1
+  O  O18  1  0.64054179  0.98757440  0.20722569  1
+  O  O19  1  0.78826900  0.78919968  0.42081832  1
+  O  O20  1  0.35945821  0.01242560  0.79277431  1
+  O  O21  1  0.20226867  0.96029573  0.32265015  1
+  O  O22  1  0.79773133  0.03970427  0.67734985  1
+  O  O23  1  0.85739991  0.87948721  0.89515760  1

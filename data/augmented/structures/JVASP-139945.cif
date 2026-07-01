@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er4FeS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32638916
+_cell_length_b   6.32638916
+_cell_length_c   10.95716797
+_cell_angle_alpha   76.82971513
+_cell_angle_beta   76.82971513
+_cell_angle_gamma   34.25244414
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4FeS7
+_chemical_formula_sum   'Er4 Fe1 S7'
+_cell_volume   239.71058772
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.70585232  0.70585232  0.20399099  1
+  Er  Er1  1  0.31172925  0.31172925  0.78643870  1
+  Er  Er2  1  0.10026161  0.10026161  0.55202482  1
+  Er  Er3  1  0.00659136  0.00659136  0.01219346  1
+  Fe  Fe4  1  0.88116577  0.88116577  0.43291377  1
+  S  S5  1  0.03536014  0.03536014  0.24542992  1
+  S  S6  1  0.97000814  0.97000814  0.78251064  1
+  S  S7  1  0.34392668  0.34392668  0.04994288  1
+  S  S8  1  0.66610616  0.66610616  0.94459895  1
+  S  S9  1  0.73920502  0.73920502  0.62461177  1
+  S  S10  1  0.28130491  0.28130491  0.35761814  1
+  S  S11  1  0.45848965  0.45848965  0.50772596  1

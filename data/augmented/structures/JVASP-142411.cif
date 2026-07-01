@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NaNi2Mo2H3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60099528
+_cell_length_b   5.60095729
+_cell_length_c   7.54300642
+_cell_angle_alpha   68.66772788
+_cell_angle_beta   68.66885928
+_cell_angle_gamma   67.75137021
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNi2Mo2H3O10
+_chemical_formula_sum   'Na1 Ni2 Mo2 H3 O10'
+_cell_volume   196.87285395
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50002516  0.49626410  0.50072588  1
+  Ni  Ni1  1  0.00566597  0.49464521  0.00326895  1
+  Ni  Ni2  1  0.49837464  0.00199447  0.00317744  1
+  Mo  Mo3  1  0.07782440  0.07405721  0.71916650  1
+  Mo  Mo4  1  0.92241603  0.91860923  0.28397019  1
+  H  H5  1  0.52395241  0.52022984  0.98484552  1
+  H  H6  1  0.68825586  0.68442758  0.76669006  1
+  H  H7  1  0.31366636  0.30982967  0.22817508  1
+  O  O8  1  0.27429130  0.80762211  0.25649832  1
+  O  O9  1  0.81140465  0.27047000  0.25658310  1
+  O  O10  1  0.23722720  0.23332748  0.48458760  1
+  O  O11  1  0.76403874  0.76006408  0.52042929  1
+  O  O12  1  0.35120042  0.34745565  0.08322673  1
+  O  O13  1  0.83121534  0.82753404  0.11135149  1
+  O  O14  1  0.65195751  0.64822530  0.91282592  1
+  O  O15  1  0.18969388  0.72202873  0.74550577  1
+  O  O16  1  0.16697776  0.16330146  0.89354236  1
+  O  O17  1  0.72581035  0.18591386  0.74543078  1

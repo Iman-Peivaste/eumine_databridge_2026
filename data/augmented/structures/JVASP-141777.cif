@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgTl6Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27112269
+_cell_length_b   8.34073244
+_cell_length_c   7.74928517
+_cell_angle_alpha   64.13825542
+_cell_angle_beta   89.19409358
+_cell_angle_gamma   91.13272172
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTl6Si2O7
+_chemical_formula_sum   'Mg1 Tl6 Si2 O7'
+_cell_volume   306.41899678
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.81513018  0.52908640  0.49286264  1
+  Tl  Tl1  1  0.63702703  0.90207081  0.17104655  1
+  Tl  Tl2  1  0.71515687  0.86989621  0.70988796  1
+  Tl  Tl3  1  0.71766292  0.37978838  0.94525981  1
+  Tl  Tl4  1  0.19251045  0.19313534  0.73316390  1
+  Tl  Tl5  1  0.16336236  0.07539796  0.27585599  1
+  Tl  Tl6  1  0.21816338  0.61396871  0.11253910  1
+  Si  Si7  1  0.24244607  0.63838521  0.62561300  1
+  Si  Si8  1  0.62216022  0.28975732  0.39433352  1
+  O  O9  1  0.15771984  0.83824293  0.60196807  1
+  O  O10  1  0.28187306  0.50578131  0.85874348  1
+  O  O11  1  0.53127268  0.66948941  0.51490328  1
+  O  O12  1  0.72450787  0.12122060  0.35873164  1
+  O  O13  1  0.75117752  0.48838974  0.24981193  1
+  O  O14  1  0.69379442  0.27067459  0.61035432  1
+  O  O15  1  0.30953511  0.29811208  0.37108581  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Rb2NbAgSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09875292
+_cell_length_b   7.58038865
+_cell_length_c   12.47461319
+_cell_angle_alpha   84.35676251
+_cell_angle_beta   75.85086857
+_cell_angle_gamma   66.27972528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NbAgSe4
+_chemical_formula_sum   'Rb4 Nb2 Ag2 Se8'
+_cell_volume   511.97445851
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.80641520  0.75000000  0.38716961  1
+  Rb  Rb1  1  0.19358480  0.25000000  0.61283039  1
+  Rb  Rb2  1  0.44358480  0.75000000  0.11283039  1
+  Rb  Rb3  1  0.55641520  0.25000000  0.88716961  1
+  Nb  Nb4  1  0.37500000  0.25000000  0.25000000  1
+  Nb  Nb5  1  0.62500000  0.75000000  0.75000000  1
+  Ag  Ag6  1  0.87500000  0.25000000  0.25000000  1
+  Ag  Ag7  1  0.12500000  0.75000000  0.75000000  1
+  Se  Se8  1  0.75960739  0.04074649  0.13165846  1
+  Se  Se9  1  0.56798766  0.54074649  0.63165846  1
+  Se  Se10  1  0.89126585  0.54074649  0.86834154  1
+  Se  Se11  1  0.80035388  0.95925351  0.63165846  1
+  Se  Se12  1  0.43201234  0.45925351  0.36834154  1
+  Se  Se13  1  0.19964612  0.04074649  0.36834154  1
+  Se  Se14  1  0.10873415  0.45925351  0.13165846  1
+  Se  Se15  1  0.24039261  0.95925351  0.86834154  1

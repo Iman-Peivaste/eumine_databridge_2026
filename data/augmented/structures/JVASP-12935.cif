@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KNaSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80070195
+_cell_length_b   8.03659677
+_cell_length_c   8.64023808
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaSe
+_chemical_formula_sum   'K4 Na4 Se4'
+_cell_volume   333.35166701
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75000000  0.51234534  0.68520890  1
+  K  K1  1  0.75000000  0.01234534  0.81479110  1
+  K  K2  1  0.25000000  0.48765466  0.31479110  1
+  K  K3  1  0.25000000  0.98765466  0.18520890  1
+  Na  Na4  1  0.75000000  0.14680918  0.42506822  1
+  Na  Na5  1  0.25000000  0.85319082  0.57493178  1
+  Na  Na6  1  0.25000000  0.35319082  0.92506822  1
+  Na  Na7  1  0.75000000  0.64680918  0.07493178  1
+  Se  Se8  1  0.75000000  0.77917213  0.39446795  1
+  Se  Se9  1  0.25000000  0.22082787  0.60553205  1
+  Se  Se10  1  0.75000000  0.27917213  0.10553205  1
+  Se  Se11  1  0.25000000  0.72082787  0.89446795  1

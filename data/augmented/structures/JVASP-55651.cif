@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Tl4CrI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.17808682
+_cell_length_b   9.17808705
+_cell_length_c   9.67082243
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   92.20637235
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl4CrI6
+_chemical_formula_sum   'Tl8 Cr2 I12'
+_cell_volume   814.03983143
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.14039197  0.85960803  0.25000000  1
+  Tl  Tl1  1  0.85960803  0.14039197  0.75000000  1
+  Tl  Tl2  1  0.14039197  0.85960803  0.75000000  1
+  Tl  Tl3  1  0.35017520  0.35017520  0.25000000  1
+  Tl  Tl4  1  0.64982480  0.64982480  0.25000000  1
+  Tl  Tl5  1  0.64982480  0.64982480  0.75000000  1
+  Tl  Tl6  1  0.35017520  0.35017520  0.75000000  1
+  Tl  Tl7  1  0.85960803  0.14039197  0.25000000  1
+  Cr  Cr8  1  0.50000000  0.00000000  0.00000000  1
+  Cr  Cr9  1  -0.00000000  0.50000000  0.50000000  1
+  I  I10  1  0.14647980  0.18053698  0.50000000  1
+  I  I11  1  0.36724134  0.71521887  0.00000000  1
+  I  I12  1  -0.00000000  0.50000000  0.21613498  1
+  I  I13  1  0.50000000  0.00000000  0.71613498  1
+  I  I14  1  -0.00000000  0.50000000  0.78386502  1
+  I  I15  1  0.63275866  0.28478113  0.00000000  1
+  I  I16  1  0.71521887  0.36724134  0.50000000  1
+  I  I17  1  0.28478113  0.63275866  0.50000000  1
+  I  I18  1  0.18053698  0.14647980  0.00000000  1
+  I  I19  1  0.81946302  0.85352020  0.00000000  1
+  I  I20  1  0.85352020  0.81946302  0.50000000  1
+  I  I21  1  0.50000000  0.00000000  0.28386502  1

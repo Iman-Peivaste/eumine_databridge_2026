@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScTa(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78353345
+_cell_length_b   5.78357222
+_cell_length_c   5.78344869
+_cell_angle_alpha   59.99850057
+_cell_angle_beta   60.00339561
+_cell_angle_gamma   60.00014312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTa(PbO3)2
+_chemical_formula_sum   'Sc1 Ta1 Pb2 O6'
+_cell_volume   136.79429802
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000107  0.49999860  0.50000108  1
+  Ta  Ta1  1  0.00000041  -0.00000059  0.00000036  1
+  Pb  Pb2  1  0.25001215  0.24998563  0.25001521  1
+  Pb  Pb3  1  0.75001319  0.74998471  0.75001427  1
+  O  O4  1  0.24417334  0.75582435  0.75581788  1
+  O  O5  1  0.75582036  0.24418273  0.24417480  1
+  O  O6  1  0.75580692  0.24419678  0.75580125  1
+  O  O7  1  0.24418981  0.75580901  0.24419295  1
+  O  O8  1  0.24417436  0.24419632  0.75580637  1
+  O  O9  1  0.75580739  0.75582247  0.24417483  1

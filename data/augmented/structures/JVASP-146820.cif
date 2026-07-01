@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sr3AlAs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.16418106
+_cell_length_b   10.16418106
+_cell_length_c   12.74299555
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   142.16036751
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3AlAs3
+_chemical_formula_sum   'Sr12 Al4 As12'
+_cell_volume   807.60303975
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.82556618  0.82556618  0.34906876  1
+  Sr  Sr1  1  0.17443382  0.17443382  0.65093124  1
+  Sr  Sr2  1  0.67443382  0.67443382  0.84906876  1
+  Sr  Sr3  1  0.32556618  0.32556618  0.15093124  1
+  Sr  Sr4  1  0.86439458  0.51026512  0.13113919  1
+  Sr  Sr5  1  0.48973488  0.13560542  0.86886081  1
+  Sr  Sr6  1  0.98973488  0.63560542  0.63113919  1
+  Sr  Sr7  1  0.36439458  0.01026512  0.36886081  1
+  Sr  Sr8  1  0.13560542  0.48973488  0.86886081  1
+  Sr  Sr9  1  0.51026512  0.86439458  0.13113919  1
+  Sr  Sr10  1  0.01026512  0.36439458  0.36886081  1
+  Sr  Sr11  1  0.63560542  0.98973488  0.63113919  1
+  Al  Al12  1  0.41471473  0.58528527  0.50000000  1
+  Al  Al13  1  0.91471473  0.08528527  0.00000000  1
+  Al  Al14  1  0.58528527  0.41471473  0.50000000  1
+  Al  Al15  1  0.08528527  0.91471473  0.00000000  1
+  As  As16  1  0.78969245  0.78969245  0.10319992  1
+  As  As17  1  0.21030755  0.21030755  0.89680008  1
+  As  As18  1  0.71030755  0.71030755  0.60319992  1
+  As  As19  1  0.28969245  0.28969245  0.39680008  1
+  As  As20  1  0.04703594  0.36519659  0.12090989  1
+  As  As21  1  0.63480341  0.95296406  0.87909011  1
+  As  As22  1  0.13480341  0.45296406  0.62090989  1
+  As  As23  1  0.54703594  0.86519659  0.37909011  1
+  As  As24  1  0.95296406  0.63480341  0.87909011  1
+  As  As25  1  0.36519659  0.04703594  0.12090989  1
+  As  As26  1  0.86519659  0.54703594  0.37909011  1
+  As  As27  1  0.45296406  0.13480341  0.62090989  1

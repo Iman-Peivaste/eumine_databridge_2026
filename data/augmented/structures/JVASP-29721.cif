@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_In2Te5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.37242839
+_cell_length_b   8.64054078
+_cell_length_c   13.67147463
+_cell_angle_alpha   89.97891798
+_cell_angle_beta   89.91625486
+_cell_angle_gamma   75.34592466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Te5
+_chemical_formula_sum   'In4 Te10'
+_cell_volume   499.70812480
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.61059301  0.76917713  0.31256190  1
+  In  In1  1  0.99296117  0.00586907  0.14033748  1
+  In  In2  1  0.37948575  0.23084389  0.81255674  1
+  In  In3  1  -0.00123809  0.99411042  0.64034586  1
+  Te  Te4  1  0.30102665  0.38774936  0.23296192  1
+  Te  Te5  1  0.39249019  0.20734987  0.59908117  1
+  Te  Te6  1  0.68859237  0.61225785  0.73297068  1
+  Te  Te7  1  0.15976940  0.67702161  0.57873489  1
+  Te  Te8  1  0.22540026  0.54272084  0.88466276  1
+  Te  Te9  1  0.00422598  0.98190436  0.35436352  1
+  Te  Te10  1  0.98585261  0.01810002  0.85436410  1
+  Te  Te11  1  0.83690575  0.32296464  0.07872371  1
+  Te  Te12  1  0.76824011  0.45728858  0.38465690  1
+  Te  Te13  1  0.59989484  0.79264337  0.09907837  1

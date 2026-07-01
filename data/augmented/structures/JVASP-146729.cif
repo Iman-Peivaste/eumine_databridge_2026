@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CoSO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71561181
+_cell_length_b   4.59806724
+_cell_length_c   7.07599332
+_cell_angle_alpha   40.31768108
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSO4
+_chemical_formula_sum   'Co2 S2 O8'
+_cell_volume   141.37396779
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.50000000  0.00000000  0.00000000  1
+  S  S2  1  0.75000000  0.21261249  0.17573945  1
+  S  S3  1  0.25000000  0.78738751  0.82426055  1
+  O  O4  1  0.25000000  0.41952071  0.85956774  1
+  O  O5  1  0.25000000  0.59279156  0.12154866  1
+  O  O6  1  0.75000000  0.40720844  -0.12154866  1
+  O  O7  1  0.06331770  0.04981593  0.68256985  1
+  O  O8  1  0.75000000  0.58047929  0.14043226  1
+  O  O9  1  0.93668230  -0.04981593  0.31743015  1
+  O  O10  1  0.56331770  -0.04981593  0.31743015  1
+  O  O11  1  0.43668230  0.04981593  0.68256985  1

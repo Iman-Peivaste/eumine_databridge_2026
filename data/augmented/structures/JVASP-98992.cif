@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca5(SnAs3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16649993
+_cell_length_b   12.04342242
+_cell_length_c   13.41202704
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5(SnAs3)2
+_chemical_formula_sum   'Ca10 Sn4 As12'
+_cell_volume   673.00101427
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.62447119  0.74435759  1
+  Ca  Ca1  1  0.00000000  0.37552881  0.25564241  1
+  Ca  Ca2  1  0.00000000  0.12447119  0.75564241  1
+  Ca  Ca3  1  0.00000000  0.87552881  0.24435759  1
+  Ca  Ca4  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca5  1  0.00000000  0.50000000  0.50000000  1
+  Ca  Ca6  1  0.00000000  0.86613938  0.56499892  1
+  Ca  Ca7  1  0.00000000  0.13386062  0.43500108  1
+  Ca  Ca8  1  0.00000000  0.36613938  0.93500108  1
+  Ca  Ca9  1  0.00000000  0.63386062  0.06499892  1
+  Sn  Sn10  1  0.50000000  0.20875846  0.10955120  1
+  Sn  Sn11  1  0.50000000  0.29124154  0.60955120  1
+  Sn  Sn12  1  0.50000000  0.70875846  0.39044880  1
+  Sn  Sn13  1  0.50000000  0.79124154  0.89044880  1
+  As  As14  1  0.00000000  0.62096880  0.29353592  1
+  As  As15  1  0.50000000  0.83480667  0.08394639  1
+  As  As16  1  0.50000000  0.16519333  0.91605361  1
+  As  As17  1  0.50000000  0.33480667  0.41605361  1
+  As  As18  1  0.50000000  0.66519333  0.58394639  1
+  As  As19  1  0.50000000  0.57199412  0.89839523  1
+  As  As20  1  0.50000000  0.42800588  0.10160477  1
+  As  As21  1  0.50000000  0.07199412  0.60160477  1
+  As  As22  1  0.50000000  0.92800588  0.39839523  1
+  As  As23  1  0.00000000  0.12096880  0.20646408  1
+  As  As24  1  0.00000000  0.37903120  0.70646408  1
+  As  As25  1  0.00000000  0.87903120  0.79353592  1

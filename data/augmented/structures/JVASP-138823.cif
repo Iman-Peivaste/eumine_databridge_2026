@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiNiF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00575294
+_cell_length_b   4.51560201
+_cell_length_c   4.52073005
+_cell_angle_alpha   86.10336272
+_cell_angle_beta   88.19707196
+_cell_angle_gamma   88.18927481
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNiF4
+_chemical_formula_sum   'Li1 Ni1 F4'
+_cell_volume   61.16003508
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.49999939  0.50000000  0.50000017  1
+  F  F2  1  0.98281470  0.31052437  0.31220697  1
+  F  F3  1  0.50008726  0.79214530  0.20631085  1
+  F  F4  1  0.49991152  0.20785470  0.79368948  1
+  F  F5  1  0.01718407  0.68947564  0.68779337  1

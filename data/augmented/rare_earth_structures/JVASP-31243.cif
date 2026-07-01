@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2NaTiOF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91269162
+_cell_length_b   5.88830802
+_cell_length_c   5.91269158
+_cell_angle_alpha   60.13632576
+_cell_angle_beta   59.72735794
+_cell_angle_gamma   60.13632402
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaTiOF5
+_chemical_formula_sum   'K2 Na1 Ti1 O1 F5'
+_cell_volume   145.55639514
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25671571  0.24328429  0.25671571  1
+  K  K1  1  0.75671571  0.74328429  0.75671571  1
+  Na  Na2  1  0.50093042  0.49906958  0.50093042  1
+  Ti  Ti3  1  0.01922283  0.98077717  0.01922283  1
+  O  O4  1  0.22359577  0.77640423  0.22359577  1
+  F  F5  1  0.22637432  0.23864835  0.76135165  1
+  F  F6  1  0.22637432  0.77362568  0.76135165  1
+  F  F7  1  0.76135165  0.23864835  0.22637432  1
+  F  F8  1  0.76135165  0.77362568  0.22637432  1
+  F  F9  1  0.76736764  0.23263236  0.76736764  1

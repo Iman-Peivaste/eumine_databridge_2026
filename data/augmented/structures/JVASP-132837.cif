@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_AlSi3AgO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21875109
+_cell_length_b   7.80521235
+_cell_length_c   7.58221431
+_cell_angle_alpha   114.21960129
+_cell_angle_beta   99.23957253
+_cell_angle_gamma   109.35320687
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSi3AgO8
+_chemical_formula_sum   'Al2 Si6 Ag2 O16'
+_cell_volume   345.07749084
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.20052503  0.16986675  0.83913147  1
+  Al  Al1  1  0.79947497  0.83013325  0.16086853  1
+  Si  Si2  1  0.30242309  0.80074799  0.58764591  1
+  Si  Si3  1  0.69757691  0.19925201  0.41235409  1
+  Si  Si4  1  0.23971213  0.81181590  0.18602556  1
+  Si  Si5  1  0.76028787  0.18818410  0.81397444  1
+  Si  Si6  1  0.36218663  0.56141511  0.80633331  1
+  Si  Si7  1  0.63781337  0.43858489  0.19366669  1
+  Ag  Ag8  1  0.83564481  0.72696129  0.71700939  1
+  Ag  Ag9  1  0.16435519  0.27303871  0.28299061  1
+  O  O10  1  0.77727892  0.28805329  0.66037880  1
+  O  O11  1  0.22272108  0.71194671  0.33962120  1
+  O  O12  1  0.61582005  0.70152883  0.90819302  1
+  O  O13  1  0.38417995  0.29847117  0.09180698  1
+  O  O14  1  0.74422114  0.35246246  0.02183893  1
+  O  O15  1  0.25577886  0.64753754  0.97816107  1
+  O  O16  1  0.72530049  0.40682129  0.38918409  1
+  O  O17  1  0.45040595  0.03491486  0.30539999  1
+  O  O18  1  0.83362648  0.09040396  0.30079202  1
+  O  O19  1  0.16637352  0.90959604  0.69920798  1
+  O  O20  1  0.54959405  0.96508514  0.69460001  1
+  O  O21  1  0.28817835  0.31361449  0.71734433  1
+  O  O22  1  0.04062233  0.85498935  0.12955901  1
+  O  O23  1  0.95937767  0.14501065  0.87044099  1
+  O  O24  1  0.27469951  0.59317871  0.61081591  1
+  O  O25  1  0.71182165  0.68638551  0.28265567  1

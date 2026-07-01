@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuTiClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27608343
+_cell_length_b   5.27608343
+_cell_length_c   9.56844710
+_cell_angle_alpha   74.44648870
+_cell_angle_beta   74.44648870
+_cell_angle_gamma   42.68798334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuTiClO3
+_chemical_formula_sum   'Lu2 Ti2 Cl2 O6'
+_cell_volume   172.94650934
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.27554880  0.27554880  0.20201464  1
+  Lu  Lu1  1  0.72445120  0.72445120  0.79798536  1
+  Ti  Ti2  1  0.88315995  0.88315995  0.42576398  1
+  Ti  Ti3  1  0.11684005  0.11684005  0.57423602  1
+  Cl  Cl4  1  0.61354554  0.61354554  0.09431937  1
+  Cl  Cl5  1  0.38645446  0.38645446  0.90568063  1
+  O  O6  1  0.84947208  0.84947208  0.24219131  1
+  O  O7  1  0.15052792  0.15052792  0.75780869  1
+  O  O8  1  0.66850384  0.66850384  0.56827991  1
+  O  O9  1  0.33149616  0.33149616  0.43172009  1
+  O  O10  1  0.92050923  0.92050923  0.62833886  1
+  O  O11  1  0.07949077  0.07949077  0.37166114  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Nd3GaNiS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.78736520
+_cell_length_b   9.78736520
+_cell_length_c   6.27514351
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000349
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3GaNiS7
+_chemical_formula_sum   'Nd6 Ga2 Ni2 S14'
+_cell_volume   520.57806710
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.83554523  0.62417486  0.67627263  1
+  Nd  Nd1  1  0.78862963  0.16445477  0.67627263  1
+  Nd  Nd2  1  0.37582514  0.21137037  0.67627263  1
+  Nd  Nd3  1  0.16445477  0.37582514  0.17627263  1
+  Nd  Nd4  1  0.21137037  0.83554523  0.17627263  1
+  Nd  Nd5  1  0.62417486  0.78862963  0.17627263  1
+  Ga  Ga6  1  0.33333333  0.66666667  0.60078455  1
+  Ga  Ga7  1  0.66666667  0.33333333  0.10078455  1
+  Ni  Ni8  1  0.00000000  0.00000000  0.99695342  1
+  Ni  Ni9  1  0.00000000  0.00000000  0.49695342  1
+  S  S10  1  0.87314675  0.10165809  0.26245750  1
+  S  S11  1  0.10165809  0.22851134  0.76245750  1
+  S  S12  1  0.77148866  0.87314675  0.76245750  1
+  S  S13  1  0.12685325  0.89834191  0.76245750  1
+  S  S14  1  0.66666667  0.33333333  0.46134131  1
+  S  S15  1  0.33333333  0.66666667  0.96134131  1
+  S  S16  1  0.91435670  0.44106599  0.95578111  1
+  S  S17  1  0.08564330  0.55893401  0.45578111  1
+  S  S18  1  0.44106599  0.52670930  0.45578111  1
+  S  S19  1  0.52670930  0.08564330  0.95578111  1
+  S  S20  1  0.22851134  0.12685325  0.26245750  1
+  S  S21  1  0.55893401  0.47329070  0.95578111  1
+  S  S22  1  0.47329070  0.91435670  0.45578111  1
+  S  S23  1  0.89834191  0.77148866  0.26245750  1

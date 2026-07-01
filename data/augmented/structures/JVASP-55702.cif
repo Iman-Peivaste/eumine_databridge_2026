@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TcH4NO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00620975
+_cell_length_b   6.00620976
+_cell_length_c   7.49238794
+_cell_angle_alpha   113.62950478
+_cell_angle_beta   113.62949588
+_cell_angle_gamma   89.99999314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TcH4NO4
+_chemical_formula_sum   'Tc2 H8 N2 O8'
+_cell_volume   222.66681945
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.12500000  0.37500000  0.25000000  1
+  Tc  Tc1  1  0.87500000  0.62500000  0.75000000  1
+  H  H2  1  0.27955786  0.20736506  0.65071230  1
+  H  H3  1  0.72044214  0.79263494  0.34928770  1
+  H  H4  1  0.70736506  0.87115444  0.15071230  1
+  H  H5  1  0.55665276  0.22044214  0.84928770  1
+  H  H6  1  0.37115444  0.94334724  0.65071230  1
+  H  H7  1  0.44334724  0.77955786  0.15071230  1
+  H  H8  1  0.62884556  0.05665276  0.34928770  1
+  H  H9  1  0.29263494  0.12884556  0.84928770  1
+  N  N10  1  0.62500000  0.87500000  0.25000000  1
+  N  N11  1  0.37500000  0.12500000  0.75000000  1
+  O  O12  1  0.84315018  0.41678611  0.09027223  1
+  O  O13  1  0.91678611  0.74712206  0.59027223  1
+  O  O14  1  0.15684982  0.58321389  0.90972777  1
+  O  O15  1  0.32651388  0.65684982  0.40972777  1
+  O  O16  1  0.08321389  0.25287794  0.40972777  1
+  O  O17  1  0.24712206  0.17348612  0.09027223  1
+  O  O18  1  0.67348612  0.34315018  0.59027223  1
+  O  O19  1  0.75287794  0.82651388  0.90972777  1

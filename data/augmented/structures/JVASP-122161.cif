@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ta3Zn2Bi3O14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29683354
+_cell_length_b   7.29683354
+_cell_length_c   7.29683375
+_cell_angle_alpha   62.26214610
+_cell_angle_beta   62.26214610
+_cell_angle_gamma   62.26214938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Zn2Bi3O14
+_chemical_formula_sum   'Ta3 Zn2 Bi3 O14'
+_cell_volume   288.59256243
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50000000  -0.00000000  0.50000000  1
+  Ta  Ta1  1  0.00000000  0.50000000  0.50000000  1
+  Ta  Ta2  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn3  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn4  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi5  1  0.00000000  0.50000000  -0.00000000  1
+  Bi  Bi6  1  0.50000000  -0.00000000  0.00000000  1
+  Bi  Bi7  1  0.00000000  -0.00000000  0.50000000  1
+  O  O8  1  0.18941859  0.57127344  0.18941859  1
+  O  O9  1  0.57127344  0.18941859  0.18941859  1
+  O  O10  1  0.18941859  0.18941859  0.57127344  1
+  O  O11  1  0.59379357  0.14900153  0.59379357  1
+  O  O12  1  0.14900153  0.59379357  0.59379357  1
+  O  O13  1  0.59379357  0.59379357  0.14900153  1
+  O  O14  1  0.40620643  0.85099847  0.40620643  1
+  O  O15  1  0.42872656  0.81058141  0.81058141  1
+  O  O16  1  0.81058141  0.81058141  0.42872656  1
+  O  O17  1  0.10698384  0.10698384  0.10698384  1
+  O  O18  1  0.85099847  0.40620643  0.40620643  1
+  O  O19  1  0.40620643  0.40620643  0.85099847  1
+  O  O20  1  0.81058141  0.42872656  0.81058141  1
+  O  O21  1  0.89301616  0.89301616  0.89301616  1

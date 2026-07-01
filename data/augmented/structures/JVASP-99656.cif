@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mg6SiGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80785151
+_cell_length_b   7.80785151
+_cell_length_c   7.80785151
+_cell_angle_alpha   146.44790311
+_cell_angle_beta   131.81268458
+_cell_angle_gamma   59.99463332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg6SiGe2
+_chemical_formula_sum   'Mg6 Si1 Ge2'
+_cell_volume   194.28762559
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.75080256  0.50000000  0.25080256  1
+  Mg  Mg1  1  0.41580799  0.16622449  0.24958250  1
+  Mg  Mg2  1  0.08335801  0.83377551  0.24958250  1
+  Mg  Mg3  1  0.24919744  0.50000000  0.74919744  1
+  Mg  Mg4  1  0.91664199  0.16622449  0.75041750  1
+  Mg  Mg5  1  0.58419201  0.83377551  0.75041750  1
+  Si  Si6  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge7  1  0.66667641  0.66667641  0.00000000  1
+  Ge  Ge8  1  0.33332359  0.33332359  0.00000000  1

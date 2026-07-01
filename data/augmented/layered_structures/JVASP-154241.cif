@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Fe2Si2BiHO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08850428
+_cell_length_b   5.08850428
+_cell_length_c   7.67400962
+_cell_angle_alpha   83.78122536
+_cell_angle_beta   83.78122536
+_cell_angle_gamma   119.56989877
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2Si2BiHO9
+_chemical_formula_sum   'Fe2 Si2 Bi1 H1 O9'
+_cell_volume   168.77085815
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.65289445  0.32366157  0.98757887  1
+  Fe  Fe1  1  0.32366157  0.65289445  0.98757887  1
+  Si  Si2  1  0.85628298  0.51917628  0.35107263  1
+  Si  Si3  1  0.51917628  0.85628298  0.35107263  1
+  Bi  Bi4  1  0.07689388  0.07689388  0.71506718  1
+  H  H5  1  0.10947764  0.10947764  0.11646824  1
+  O  O6  1  0.03189969  0.40352044  0.85849752  1
+  O  O7  1  0.40352044  0.03189969  0.85849752  1
+  O  O8  1  0.65647512  0.65647512  0.85414806  1
+  O  O9  1  0.94088979  0.59561114  0.13568565  1
+  O  O10  1  0.59561114  0.94088979  0.13568565  1
+  O  O11  1  0.29489135  0.29489135  0.13332853  1
+  O  O12  1  0.15807738  0.72078779  0.43880596  1
+  O  O13  1  0.72078779  0.15807738  0.43880596  1
+  O  O14  1  0.59746049  0.59746049  0.43170674  1

@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Na2Cu3(GeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55721080
+_cell_length_b   6.35551755
+_cell_length_c   7.68728861
+_cell_angle_alpha   87.16324630
+_cell_angle_beta   77.85232075
+_cell_angle_gamma   87.61335601
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Cu3(GeO3)4
+_chemical_formula_sum   'Na2 Cu3 Ge4 O12'
+_cell_volume   264.96663211
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.09051739  0.24775366  0.59666205  1
+  Na  Na1  1  0.90948261  0.75224634  0.40333795  1
+  Cu  Cu2  1  0.50861904  0.16274866  0.81990855  1
+  Cu  Cu3  1  0.49138096  0.83725134  0.18009145  1
+  Cu  Cu4  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge5  1  0.24558339  0.39766606  0.17850190  1
+  Ge  Ge6  1  0.75441661  0.60233394  0.82149810  1
+  Ge  Ge7  1  0.69309915  0.22166824  0.37125495  1
+  Ge  Ge8  1  0.30690085  0.77833176  0.62874505  1
+  O  O9  1  0.23761211  0.99249042  0.77509777  1
+  O  O10  1  0.93555299  0.40824631  0.31531359  1
+  O  O11  1  0.58775530  0.63768870  0.64121392  1
+  O  O12  1  0.41224470  0.36231130  0.35878608  1
+  O  O13  1  0.73398272  0.82723604  0.95296326  1
+  O  O14  1  0.29156186  0.88268936  0.41485818  1
+  O  O15  1  0.71735048  0.34528340  0.91410024  1
+  O  O16  1  0.28264952  0.65471660  0.08589976  1
+  O  O17  1  0.76238789  0.00750958  0.22490223  1
+  O  O18  1  0.70843814  0.11731064  0.58514182  1
+  O  O19  1  0.26601728  0.17276396  0.04703674  1
+  O  O20  1  0.06444701  0.59175369  0.68468641  1

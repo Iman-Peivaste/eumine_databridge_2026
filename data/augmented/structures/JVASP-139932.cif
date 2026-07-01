@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_ZnNiTe3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21195897
+_cell_length_b   6.76486897
+_cell_length_c   11.65666579
+_cell_angle_alpha   98.18096692
+_cell_angle_beta   89.99942092
+_cell_angle_gamma   67.34226919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnNiTe3O8
+_chemical_formula_sum   'Zn2 Ni2 Te6 O16'
+_cell_volume   374.73730827
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.53257921  0.53911756  0.15257130  1
+  Zn  Zn1  1  0.07171843  0.46090339  0.34742618  1
+  Ni  Ni2  1  0.45487083  0.46966013  0.85404215  1
+  Ni  Ni3  1  0.92456398  0.53032557  0.64595102  1
+  Te  Te4  1  0.67131709  0.00000526  0.24999556  1
+  Te  Te5  1  0.44001775  0.73830963  0.45141534  1
+  Te  Te6  1  0.31821929  0.99999437  0.74999727  1
+  Te  Te7  1  0.55895167  0.27051712  0.55895568  1
+  Te  Te8  1  0.82944625  0.72947598  0.94104207  1
+  Te  Te9  1  0.17829412  0.26169390  0.04858969  1
+  O  O10  1  0.46812559  0.77453672  0.86778990  1
+  O  O11  1  0.66884621  0.39103137  0.70038285  1
+  O  O12  1  0.05987142  0.60894060  0.79961758  1
+  O  O13  1  0.74968012  0.77565150  0.36729175  1
+  O  O14  1  0.52530611  0.22436169  0.13270428  1
+  O  O15  1  0.24268635  0.22544945  0.63220076  1
+  O  O16  1  0.63627553  0.83448105  0.64494973  1
+  O  O17  1  0.79199081  0.45824265  0.96088436  1
+  O  O18  1  0.35902310  0.16266906  0.35713859  1
+  O  O19  1  0.52166016  0.83734958  0.14286330  1
+  O  O20  1  0.25026953  0.54176283  0.53912655  1
+  O  O21  1  0.94439489  0.39439986  0.18809920  1
+  O  O22  1  0.76039444  0.47159262  0.47580915  1
+  O  O23  1  0.23194331  0.52841440  0.02419396  1
+  O  O24  1  0.47072991  0.16551564  0.85505179  1
+  O  O25  1  0.33882490  0.60559809  0.31190900  1

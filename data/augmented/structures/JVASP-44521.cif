@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3SiSbCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10170576
+_cell_length_b   6.96547318
+_cell_length_c   9.50816291
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.50785408
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3SiSbCO7
+_chemical_formula_sum   'Na6 Si2 Sb2 C2 O14'
+_cell_volume   337.55651401
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.78396052  0.25000000  0.09632545  1
+  Na  Na1  1  0.24806847  0.00188074  0.24997474  1
+  Na  Na2  1  0.24806847  0.49811926  0.24997474  1
+  Na  Na3  1  0.75193153  0.50188074  0.75002526  1
+  Na  Na4  1  0.75193153  0.99811926  0.75002526  1
+  Na  Na5  1  0.21603948  0.75000000  0.90367455  1
+  Si  Si6  1  0.72021809  0.25000000  0.40763425  1
+  Si  Si7  1  0.27978191  0.75000000  0.59236575  1
+  Sb  Sb8  1  0.24656512  0.25000000  0.63597892  1
+  Sb  Sb9  1  0.75343488  0.75000000  0.36402108  1
+  C  C10  1  0.72376359  0.75000000  0.04991406  1
+  C  C11  1  0.27623641  0.25000000  0.95008594  1
+  O  O12  1  0.50745314  0.25000000  0.89995537  1
+  O  O13  1  0.18897509  0.93757050  0.68294711  1
+  O  O14  1  0.18897509  0.56242950  0.68294711  1
+  O  O15  1  0.60348873  0.75000000  0.58222287  1
+  O  O16  1  0.85480899  0.25000000  0.57217445  1
+  O  O17  1  0.14519101  0.75000000  0.42782555  1
+  O  O18  1  0.24766637  0.25000000  0.08480271  1
+  O  O19  1  0.81102491  0.43757050  0.31705289  1
+  O  O20  1  0.81102491  0.06242950  0.31705289  1
+  O  O21  1  0.49254686  0.75000000  0.10004463  1
+  O  O22  1  0.93357240  0.75000000  0.13485322  1
+  O  O23  1  0.06642760  0.25000000  0.86514678  1
+  O  O24  1  0.39651127  0.25000000  0.41777713  1
+  O  O25  1  0.75233363  0.75000000  0.91519729  1

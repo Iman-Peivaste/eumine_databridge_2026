@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Tl3SbS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09255515
+_cell_length_b   6.09255532
+_cell_length_c   6.09255500
+_cell_angle_alpha   104.35720997
+_cell_angle_beta   104.35721103
+_cell_angle_gamma   104.35721613
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl3SbS3
+_chemical_formula_sum   'Tl3 Sb1 S3'
+_cell_volume   200.37589358
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.55691439  0.55691439  0.17223308  1
+  Tl  Tl1  1  0.55691439  0.17223308  0.55691439  1
+  Tl  Tl2  1  0.17223308  0.55691439  0.55691439  1
+  Sb  Sb3  1  0.99760835  0.99760835  0.99760835  1
+  S  S4  1  0.57796027  0.96893426  0.96893426  1
+  S  S5  1  0.96893426  0.96893426  0.57796027  1
+  S  S6  1  0.96893426  0.57796027  0.96893426  1

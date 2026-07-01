@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_La2Ta2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03166777
+_cell_length_b   8.03166777
+_cell_length_c   6.75480163
+_cell_angle_alpha   69.29531328
+_cell_angle_beta   69.29531328
+_cell_angle_gamma   28.22386630
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Ta2O9
+_chemical_formula_sum   'La2 Ta2 O9'
+_cell_volume   191.88658148
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.30637804  0.30637804  0.19035642  1
+  La  La1  1  0.69362196  0.69362196  0.80964358  1
+  Ta  Ta2  1  0.03952169  0.03952169  0.19667978  1
+  Ta  Ta3  1  0.96047831  0.96047831  0.80332022  1
+  O  O4  1  0.07935667  0.07935667  0.84627338  1
+  O  O5  1  0.92064333  0.92064333  0.15372662  1
+  O  O6  1  0.54677296  0.54677296  0.16386899  1
+  O  O7  1  0.45322704  0.45322704  0.83613101  1
+  O  O8  1  0.00000000  0.00000000  0.50000000  1
+  O  O9  1  0.17501613  0.17501613  0.08544314  1
+  O  O10  1  0.82498387  0.82498387  0.91455686  1
+  O  O11  1  0.72119573  0.72119573  0.43018374  1
+  O  O12  1  0.27880427  0.27880427  0.56981626  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2TiMnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46886519
+_cell_length_b   9.47242436
+_cell_length_c   5.46899149
+_cell_angle_alpha   73.22359596
+_cell_angle_beta   119.99901402
+_cell_angle_gamma   106.77854000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2TiMnO6
+_chemical_formula_sum   'Sr4 Ti2 Mn2 O12'
+_cell_volume   231.32775526
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.37500015  0.12500023  0.62500038  1
+  Sr  Sr1  1  0.87500015  0.62500023  0.12500038  1
+  Sr  Sr2  1  0.12499985  0.37499977  0.87499962  1
+  Sr  Sr3  1  0.62499985  0.87499977  0.37499962  1
+  Ti  Ti4  1  0.75000000  0.25000000  0.25000000  1
+  Ti  Ti5  1  0.25000000  0.75000000  0.75000000  1
+  Mn  Mn6  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.12450471  0.87721176  0.87731637  1
+  O  O9  1  0.62450471  0.37721176  0.37731637  1
+  O  O10  1  0.86909905  0.62366659  0.62347927  1
+  O  O11  1  0.36909905  0.12366659  0.12347927  1
+  O  O12  1  0.63090095  0.87633341  0.87652073  1
+  O  O13  1  0.12331095  0.87688224  0.36965326  1
+  O  O14  1  0.37668905  0.62311776  0.13034674  1
+  O  O15  1  0.87668905  0.12311776  0.63034674  1
+  O  O16  1  0.87549529  0.12278824  0.12268363  1
+  O  O17  1  0.62331095  0.37688224  0.86965326  1
+  O  O18  1  0.13090095  0.37633341  0.37652073  1
+  O  O19  1  0.37549529  0.62278824  0.62268363  1

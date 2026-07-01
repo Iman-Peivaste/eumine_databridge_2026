@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Dy3Mg2MoS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80341559
+_cell_length_b   7.66615189
+_cell_length_c   7.80341398
+_cell_angle_alpha   59.40626347
+_cell_angle_beta   59.99935625
+_cell_angle_gamma   59.40626233
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Mg2MoS8
+_chemical_formula_sum   'Dy3 Mg2 Mo1 S8'
+_cell_volume   327.09459377
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.50000130  0.50000755  0.49999276  1
+  Dy  Dy1  1  0.49999796  0.49999515  0.00000066  1
+  Dy  Dy2  1  0.00000134  0.49999599  0.50000511  1
+  Mg  Mg3  1  0.87495911  0.87512098  0.87496027  1
+  Mg  Mg4  1  0.12504056  0.12487718  0.12504009  1
+  Mo  Mo5  1  0.50000092  0.00000029  0.50000156  1
+  S  S6  1  0.73459504  0.76423974  0.73459730  1
+  S  S7  1  0.26540660  0.23576018  0.73343280  1
+  S  S8  1  0.25454592  0.73636569  0.25454096  1
+  S  S9  1  0.73343296  0.23576294  0.26540096  1
+  S  S10  1  0.74545125  0.26363257  0.74545346  1
+  S  S11  1  0.26656693  0.76423963  0.73459697  1
+  S  S12  1  0.26540182  0.23575371  0.26541072  1
+  S  S13  1  0.73460229  0.76424341  0.26656735  1

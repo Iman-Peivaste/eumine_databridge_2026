@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaCa3MgFe(Si2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04709132
+_cell_length_b   7.80474710
+_cell_length_c   7.88653400
+_cell_angle_alpha   89.70104546
+_cell_angle_beta   88.16633052
+_cell_angle_gamma   89.64104861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCa3MgFe(Si2O7)2
+_chemical_formula_sum   'Na1 Ca3 Mg1 Fe1 Si4 O14'
+_cell_volume   310.49151481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50756564  0.81635019  0.33453929  1
+  Ca  Ca1  1  0.51119865  0.34590869  0.18309917  1
+  Ca  Ca2  1  0.50411569  0.16063406  0.65362615  1
+  Ca  Ca3  1  0.47977015  0.65380358  0.82700612  1
+  Mg  Mg4  1  0.99684019  0.49390799  0.50140438  1
+  Fe  Fe5  1  0.00670264  0.01081594  0.00087854  1
+  Si  Si6  1  0.95168331  0.63735841  0.13686577  1
+  Si  Si7  1  0.06739359  0.14315632  0.36280521  1
+  Si  Si8  1  0.92810899  0.36138975  0.85352477  1
+  Si  Si9  1  0.05217596  0.85942210  0.64219175  1
+  O  O10  1  0.81989718  0.82585983  0.09178437  1
+  O  O11  1  0.23170088  0.30909572  0.42976452  1
+  O  O12  1  0.77534482  0.18733262  0.93022146  1
+  O  O13  1  0.19041902  0.67454199  0.60602855  1
+  O  O14  1  0.21006073  0.93395802  0.81053432  1
+  O  O15  1  0.76667261  0.41015785  0.68372038  1
+  O  O16  1  0.75047743  0.16122791  0.36897496  1
+  O  O17  1  0.80120533  0.56884976  0.30912247  1
+  O  O18  1  0.73481471  0.86830217  0.66343187  1
+  O  O19  1  0.24514581  0.35094141  0.84062046  1
+  O  O20  1  0.17492790  0.98498353  0.48647151  1
+  O  O21  1  0.27030169  0.62389437  0.12117658  1
+  O  O22  1  0.20736234  0.10602851  0.17332323  1
+  O  O23  1  0.81611673  0.51208028  0.98888416  1

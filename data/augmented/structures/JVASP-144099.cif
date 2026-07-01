@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrLiAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51234546
+_cell_length_b   7.62379105
+_cell_length_c   8.07571093
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLiAs
+_chemical_formula_sum   'Sr4 Li4 As4'
+_cell_volume   277.81397672
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.25000000  0.00769583  0.29710786  1
+  Sr  Sr1  1  0.25000000  0.50769583  0.20289214  1
+  Sr  Sr2  1  0.75000000  0.99230417  0.70289214  1
+  Sr  Sr3  1  0.75000000  0.49230417  0.79710786  1
+  Li  Li4  1  0.25000000  0.15399456  0.92918614  1
+  Li  Li5  1  0.25000000  0.65399456  0.57081386  1
+  Li  Li6  1  0.75000000  0.84600544  0.07081386  1
+  Li  Li7  1  0.75000000  0.34600544  0.42918614  1
+  As  As8  1  0.25000000  0.27665148  0.59556722  1
+  As  As9  1  0.25000000  0.77665148  0.90443278  1
+  As  As10  1  0.75000000  0.72334852  0.40443278  1
+  As  As11  1  0.75000000  0.22334852  0.09556722  1

@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Zn3Cu6(AsS3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.35986955
+_cell_length_b   8.41588508
+_cell_length_c   8.44162369
+_cell_angle_alpha   107.49578251
+_cell_angle_beta   107.46933434
+_cell_angle_gamma   107.14274193
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3Cu6(AsS3)4
+_chemical_formula_sum   'Zn3 Cu6 As4 S12'
+_cell_volume   489.54667585
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.40128186  0.16555034  0.46032178  1
+  Zn  Zn1  1  0.07296267  0.21994479  0.70051267  1
+  Zn  Zn2  1  0.23184373  0.70036605  0.07444587  1
+  Cu  Cu3  1  0.16490869  0.45806064  0.39367384  1
+  Cu  Cu4  1  0.45789742  0.39582751  0.16687222  1
+  Cu  Cu5  1  0.70266834  0.07633580  0.21853590  1
+  Cu  Cu6  1  0.29417405  0.91062740  0.76066364  1
+  Cu  Cu7  1  0.91176056  0.76329417  0.30442859  1
+  Cu  Cu8  1  0.76270800  0.30101866  0.91855483  1
+  As  As9  1  0.62421582  0.84138275  0.55791736  1
+  As  As10  1  0.84056779  0.56307011  0.61717054  1
+  As  As11  1  0.97249155  0.98372292  0.97691685  1
+  As  As12  1  0.56663218  0.62382693  0.84982446  1
+  S  S13  1  0.05036225  0.66085150  0.50800996  1
+  S  S14  1  0.22140403  0.13365041  0.92274320  1
+  S  S15  1  0.12875873  0.91451456  0.21526663  1
+  S  S16  1  0.92001529  0.22081353  0.13612954  1
+  S  S17  1  0.29266317  0.36589146  0.60824535  1
+  S  S18  1  0.36499870  0.60885545  0.29724143  1
+  S  S19  1  0.61441525  0.29396711  0.35977513  1
+  S  S20  1  0.44936309  0.82520014  0.97624271  1
+  S  S21  1  0.81587965  0.97836693  0.43950447  1
+  S  S22  1  0.97508683  0.44426594  0.82288190  1
+  S  S23  1  0.51076431  0.05160823  0.66985148  1
+  S  S24  1  0.66377502  0.51058763  0.05586765  1

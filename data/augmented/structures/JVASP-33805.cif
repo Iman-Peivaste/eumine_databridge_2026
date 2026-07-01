@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_InCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.90416547
+_cell_length_b   8.90472978
+_cell_length_c   3.45156516
+_cell_angle_alpha   89.99263471
+_cell_angle_beta   90.00523615
+_cell_angle_gamma   120.00049483
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InCl3
+_chemical_formula_sum   'In2 Cl6'
+_cell_volume   237.00554439
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.66666176  0.33332566  0.25000277  1
+  In  In1  1  0.33333783  0.66667352  0.74999743  1
+  Cl  Cl2  1  0.79132387  0.20868234  0.74999453  1
+  Cl  Cl3  1  0.41734383  0.20867332  0.74999979  1
+  Cl  Cl4  1  0.79131534  0.58262492  0.75000932  1
+  Cl  Cl5  1  0.20867557  0.79131657  0.25000568  1
+  Cl  Cl6  1  0.58265578  0.79132553  0.25000427  1
+  Cl  Cl7  1  0.20868502  0.41737415  0.24999320  1

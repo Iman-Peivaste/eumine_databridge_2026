@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Si2TeN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.69382408
+_cell_length_b   5.65576078
+_cell_length_c   5.01424880
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   114.99007029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2TeN2
+_chemical_formula_sum   'Si4 Te2 N4'
+_cell_volume   172.06082712
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.60539335  0.15884272  0.86281392  1
+  Si  Si1  1  0.39460665  0.55344936  0.86281392  1
+  Si  Si2  1  0.39460665  0.84115728  0.36281392  1
+  Si  Si3  1  0.60539335  0.44655064  0.36281392  1
+  Te  Te4  1  -0.00000000  0.76358620  0.46754468  1
+  Te  Te5  1  0.00000000  0.23641380  0.96754468  1
+  N  N6  1  0.52542232  0.14460265  0.20021374  1
+  N  N7  1  0.47457768  0.61918033  0.20021374  1
+  N  N8  1  0.47457768  0.85539735  0.70021374  1
+  N  N9  1  0.52542232  0.38081967  0.70021374  1

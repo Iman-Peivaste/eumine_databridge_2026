@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_PdPb2Se2(ClO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39411744
+_cell_length_b   8.18790105
+_cell_length_c   13.06829153
+_cell_angle_alpha   56.07206427
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PdPb2Se2(ClO3)2
+_chemical_formula_sum   'Pd2 Pb4 Se4 Cl4 O12'
+_cell_volume   478.91005278
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.50000000  0.50000000  -0.00000000  1
+  Pd  Pd1  1  0.00000000  0.50000000  0.50000000  1
+  Pb  Pb2  1  0.55280741  0.16540190  0.80634722  1
+  Pb  Pb3  1  0.05280741  0.83459810  0.69365278  1
+  Pb  Pb4  1  0.44719259  0.83459810  0.19365278  1
+  Pb  Pb5  1  0.94719259  0.16540190  0.30634722  1
+  Se  Se6  1  0.03030242  0.78565384  0.97728928  1
+  Se  Se7  1  0.53030242  0.21434616  0.52271072  1
+  Se  Se8  1  0.96969758  0.21434616  0.02271072  1
+  Se  Se9  1  0.46969758  0.78565384  0.47728928  1
+  Cl  Cl10  1  0.41725370  0.43819748  0.19324503  1
+  Cl  Cl11  1  0.91725370  0.56180252  0.30675497  1
+  Cl  Cl12  1  0.08274630  0.43819748  0.69324503  1
+  Cl  Cl13  1  0.58274630  0.56180252  0.80675497  1
+  O  O14  1  0.74127663  0.06536356  0.02334997  1
+  O  O15  1  0.87748230  0.93646241  0.83772909  1
+  O  O16  1  0.37748230  0.06353759  0.66227091  1
+  O  O17  1  0.12251770  0.06353759  0.16227091  1
+  O  O18  1  0.62251770  0.93646241  0.33772909  1
+  O  O19  1  0.19391911  0.66295577  0.92114024  1
+  O  O20  1  0.69391911  0.33704423  0.57885976  1
+  O  O21  1  0.80608089  0.33704423  0.07885976  1
+  O  O22  1  0.30608089  0.66295577  0.42114024  1
+  O  O23  1  0.25872337  0.93463644  0.97665003  1
+  O  O24  1  0.75872337  0.06536356  0.52334997  1
+  O  O25  1  0.24127663  0.93463644  0.47665003  1

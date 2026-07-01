@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li6V(OF)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15833323
+_cell_length_b   6.49116482
+_cell_length_c   7.75590132
+_cell_angle_alpha   89.69012944
+_cell_angle_beta   92.53595378
+_cell_angle_gamma   106.09601595
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6V(OF)3
+_chemical_formula_sum   'Li12 V2 O6 F6'
+_cell_volume   249.26423581
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.88558871  0.08233536  0.34217821  1
+  Li  Li1  1  0.76074322  0.66333776  0.21976165  1
+  Li  Li2  1  0.71048948  0.17246141  0.75791306  1
+  Li  Li3  1  0.07647103  0.45182421  0.14227680  1
+  Li  Li4  1  0.39704823  0.80202836  0.90888717  1
+  Li  Li5  1  0.44431445  0.32207031  0.41046562  1
+  Li  Li6  1  0.55453841  0.67768321  0.60035956  1
+  Li  Li7  1  0.61265281  0.19689795  0.09991868  1
+  Li  Li8  1  0.93321118  0.54689805  0.85328263  1
+  Li  Li9  1  0.28033500  0.35067892  0.76351400  1
+  Li  Li10  1  0.32647045  0.83319790  0.23180101  1
+  Li  Li11  1  0.09312050  0.91244993  0.65510945  1
+  V  V12  1  0.98003986  0.99402308  0.01106729  1
+  V  V13  1  0.96249040  0.49332919  0.51166579  1
+  O  O14  1  0.78321856  0.36756662  0.29483589  1
+  O  O15  1  0.96886430  0.27734619  0.94159070  1
+  O  O16  1  0.64976902  0.41508685  0.64333490  1
+  O  O17  1  0.66372175  0.91849205  0.13625178  1
+  O  O18  1  0.06937774  0.72650447  0.05163774  1
+  O  O19  1  0.21543814  0.64973628  0.69193752  1
+  F  F20  1  0.88235293  0.78817884  0.44942725  1
+  F  F21  1  0.23244498  0.11527667  0.23334843  1
+  F  F22  1  0.35288571  0.08191129  0.85814724  1
+  F  F23  1  0.33049964  0.57495880  0.35198750  1
+  F  F24  1  0.76235093  0.88104118  0.77859833  1
+  F  F25  1  0.07155956  0.20468714  0.56070479  1

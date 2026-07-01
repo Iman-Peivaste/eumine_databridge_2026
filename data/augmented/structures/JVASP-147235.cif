@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_HgAs2H2F14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91312753
+_cell_length_b   7.08591572
+_cell_length_c   7.39980507
+_cell_angle_alpha   81.19725014
+_cell_angle_beta   66.10959439
+_cell_angle_gamma   78.06628293
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgAs2H2F14
+_chemical_formula_sum   'Hg1 As2 H2 F14'
+_cell_volume   229.76164969
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  As  As1  1  0.68356468  0.73870395  0.72464532  1
+  As  As2  1  0.31643532  0.26129605  0.27535468  1
+  H  H3  1  0.12191488  0.38655676  0.80090894  1
+  H  H4  1  0.87808512  0.61344324  0.19909106  1
+  F  F5  1  0.03639701  0.39815577  0.18639406  1
+  F  F6  1  0.96360299  0.60184423  0.81360594  1
+  F  F7  1  0.27335368  0.04775456  0.18632773  1
+  F  F8  1  0.72664632  0.95224544  0.81367227  1
+  F  F9  1  0.59821778  0.29802072  0.02933859  1
+  F  F10  1  0.40178222  0.70197928  0.97066141  1
+  F  F11  1  0.95680976  0.79365483  0.49573218  1
+  F  F12  1  0.23648310  0.25630738  0.79869233  1
+  F  F13  1  0.61622280  0.11419928  0.33315837  1
+  F  F14  1  0.38377720  0.88580072  0.66684163  1
+  F  F15  1  0.36874281  0.46771827  0.34878059  1
+  F  F16  1  0.63125719  0.53228173  0.65121941  1
+  F  F17  1  0.04319024  0.20634517  0.50426782  1
+  F  F18  1  0.76351690  0.74369262  0.20130767  1

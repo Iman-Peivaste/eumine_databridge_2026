@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Pr2Cu(GeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.21806017
+_cell_length_b   9.21806017
+_cell_length_c   5.20064437
+_cell_angle_alpha   73.93813241
+_cell_angle_beta   73.93813241
+_cell_angle_gamma   114.86032867
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Cu(GeO4)2
+_chemical_formula_sum   'Pr4 Cu2 Ge4 O16'
+_cell_volume   343.95309398
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.46083189  0.70128252  0.18148878  1
+  Pr  Pr1  1  0.70128252  0.46083189  0.18148878  1
+  Pr  Pr2  1  0.19952974  0.95761141  0.67468906  1
+  Pr  Pr3  1  0.95761141  0.19952974  0.67468906  1
+  Cu  Cu4  1  0.66238413  0.07578788  0.37667418  1
+  Cu  Cu5  1  0.07578788  0.66238413  0.37667418  1
+  Ge  Ge6  1  0.33389144  0.33389144  0.96747195  1
+  Ge  Ge7  1  0.11094955  0.53165595  0.91965646  1
+  Ge  Ge8  1  0.83713772  0.83713772  0.38094900  1
+  Ge  Ge9  1  0.53165595  0.11094955  0.91965646  1
+  O  O10  1  0.24216317  0.42692318  0.75402767  1
+  O  O11  1  0.99867921  0.99867921  0.00283762  1
+  O  O12  1  0.16016510  0.50463493  0.23766320  1
+  O  O13  1  0.50463493  0.16016510  0.23766320  1
+  O  O14  1  0.16915305  0.16915305  0.33655935  1
+  O  O15  1  0.66836928  0.66836928  0.34262257  1
+  O  O16  1  0.42692318  0.24216317  0.75402767  1
+  O  O17  1  0.74799863  0.93499643  0.58286875  1
+  O  O18  1  0.72680802  0.24456443  0.55784207  1
+  O  O19  1  0.50263319  0.50263319  0.00243353  1
+  O  O20  1  0.93499643  0.74799863  0.58286875  1
+  O  O21  1  0.65171151  0.00122869  0.07523294  1
+  O  O22  1  0.90959816  0.37490980  0.93102136  1
+  O  O23  1  0.37490980  0.90959816  0.93102136  1
+  O  O24  1  0.24456443  0.72680802  0.55784207  1
+  O  O25  1  0.00122869  0.65171151  0.07523294  1

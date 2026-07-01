@@ -64,7 +64,7 @@ def banner():
 
 def load_our_predictor() -> object:
     from eumine_databridge.matfed.predictor import LISTEuMINePredictor
-    model_path = ROOT / "models" / "full_retrain"
+    model_path = ROOT / "models" / "combined_retrain"
     print(f"  Loading CataLIST from {model_path} ...")
     p = LISTEuMINePredictor()
     p.load_model(str(model_path))

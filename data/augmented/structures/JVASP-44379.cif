@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ZnCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79707074
+_cell_length_b   6.79707074
+_cell_length_c   6.79282008
+_cell_angle_alpha   79.66009551
+_cell_angle_beta   100.33990449
+_cell_angle_gamma   94.82313219
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCrO4
+_chemical_formula_sum   'Zn4 Cr4 O16'
+_cell_volume   303.28274953
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.20544664  0.79455336  0.86416319  1
+  Zn  Zn1  1  0.18167073  0.18167073  0.50000000  1
+  Zn  Zn2  1  0.81832927  0.81832927  0.50000000  1
+  Zn  Zn3  1  0.79455336  0.20544664  0.13583681  1
+  Cr  Cr4  1  0.27577681  0.72422319  0.41113875  1
+  Cr  Cr5  1  0.25507802  0.25507802  -0.00000000  1
+  Cr  Cr6  1  0.74492198  0.74492198  -0.00000000  1
+  Cr  Cr7  1  0.72422319  0.27577681  0.58886125  1
+  O  O8  1  0.48730509  0.21896219  0.10705182  1
+  O  O9  1  0.78103781  0.51269491  0.10705182  1
+  O  O10  1  0.78486413  0.51309062  0.52058378  1
+  O  O11  1  0.48690938  0.21513587  0.52058378  1
+  O  O12  1  0.11058532  0.19931628  0.18453098  1
+  O  O13  1  0.80068372  0.88941468  0.18453098  1
+  O  O14  1  0.19931628  0.11058532  0.81546902  1
+  O  O15  1  0.21896219  0.48730509  0.89294818  1
+  O  O16  1  0.51309062  0.78486413  0.47941622  1
+  O  O17  1  0.21513587  0.48690938  0.47941622  1
+  O  O18  1  0.78697525  0.21302475  0.83519522  1
+  O  O19  1  0.51269491  0.78103781  0.89294818  1
+  O  O20  1  0.21302475  0.78697525  0.16480478  1
+  O  O21  1  0.14265396  0.85734604  0.53706915  1
+  O  O22  1  0.88941468  0.80068372  0.81546902  1
+  O  O23  1  0.85734604  0.14265396  0.46293085  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_H2C6SO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67121599
+_cell_length_b   6.91821276
+_cell_length_c   9.86039139
+_cell_angle_alpha   73.00235648
+_cell_angle_beta   76.23304884
+_cell_angle_gamma   79.87082866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H2C6SO3
+_chemical_formula_sum   'H4 C12 S2 O6'
+_cell_volume   294.03407686
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.92536420  0.61018799  0.76402200  1
+  H  H1  1  0.92536433  0.11018661  0.26402242  1
+  H  H2  1  0.51445917  0.82121971  0.91429229  1
+  H  H3  1  0.51445872  0.32121874  0.41429201  1
+  C  C4  1  0.93547404  0.66352826  0.37099180  1
+  C  C5  1  0.93547415  0.16352956  0.87099143  1
+  C  C6  1  0.09018436  0.07217241  0.65325345  1
+  C  C7  1  0.09018568  0.57217221  0.15325342  1
+  C  C8  1  0.74120524  0.33608013  0.90665281  1
+  C  C9  1  0.74120420  0.83607945  0.40665339  1
+  C  C10  1  0.35021230  0.53357324  0.04303921  1
+  C  C11  1  0.53706705  0.15697142  0.43516228  1
+  C  C12  1  0.53706805  0.65697232  0.93516214  1
+  C  C13  1  0.75722408  0.04377236  0.35445832  1
+  C  C14  1  0.75722406  0.54377376  0.85445805  1
+  C  C15  1  0.35021169  0.03357249  0.54303887  1
+  S  S16  1  0.44709045  0.27940337  0.04982879  1
+  S  S17  1  0.44708925  0.77940275  0.54982917  1
+  O  O18  1  0.95160347  0.49288643  0.45143166  1
+  O  O19  1  0.87218323  0.48200179  0.18390813  1
+  O  O20  1  0.87218294  0.98200170  0.68390837  1
+  O  O21  1  0.11849172  0.70535118  0.22930341  1
+  O  O22  1  0.11849093  0.20535195  0.72930237  1
+  O  O23  1  0.95160467  0.99288719  0.95143119  1

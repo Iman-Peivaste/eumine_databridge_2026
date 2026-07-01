@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li2CrSi7O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54562470
+_cell_length_b   7.50704607
+_cell_length_c   7.21917246
+_cell_angle_alpha   75.94751971
+_cell_angle_beta   104.00722030
+_cell_angle_gamma   61.82237058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CrSi7O16
+_chemical_formula_sum   'Li2 Cr1 Si7 O16'
+_cell_volume   317.80521760
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.45350939  0.73123735  0.71099593  1
+  Li  Li1  1  0.75577468  0.28233907  0.37659491  1
+  Cr  Cr2  1  0.84796385  0.36195335  0.86447395  1
+  Si  Si3  1  0.52003752  0.23446862  0.82139479  1
+  Si  Si4  1  0.15027531  0.18750281  0.27123472  1
+  Si  Si5  1  0.18754698  0.13040125  0.70977107  1
+  Si  Si6  1  0.80846648  0.85065030  0.28545074  1
+  Si  Si7  1  0.19404790  0.57816645  0.16314687  1
+  Si  Si8  1  0.43654905  0.78918590  0.15925811  1
+  Si  Si9  1  0.82076934  0.83811272  0.71625660  1
+  O  O10  1  0.84657477  0.90782299  0.49102643  1
+  O  O11  1  0.64450691  0.07535890  0.71168805  1
+  O  O12  1  0.93095975  0.24133674  0.65800183  1
+  O  O13  1  0.26774277  0.32219947  0.23365500  1
+  O  O14  1  0.68270417  0.72140275  0.29007498  1
+  O  O15  1  0.51816813  0.45269116  0.76042585  1
+  O  O16  1  0.24253076  0.05198683  0.52466890  1
+  O  O17  1  0.24561205  -0.00942845  0.18755693  1
+  O  O18  1  0.73634696  0.67831350  0.73685271  1
+  O  O19  1  0.26770268  0.29059880  0.74798571  1
+  O  O20  1  0.04730253  0.69414738  0.28336115  1
+  O  O21  1  0.65246021  0.08526976  0.07944605  1
+  O  O22  1  0.36844356  0.87794609  0.90686107  1
+  O  O23  1  0.06260679  0.72360682  0.91047191  1
+  O  O24  1  0.42662867  0.56915857  0.23689697  1
+  O  O25  1  0.88476977  0.33357187  0.16244978  1

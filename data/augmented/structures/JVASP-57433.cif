@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ag5P(S2Cl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23109431
+_cell_length_b   6.42831171
+_cell_length_c   7.41623228
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.99021526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag5P(S2Cl)2
+_chemical_formula_sum   'Ag5 P1 S4 Cl2'
+_cell_volume   259.83935987
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.93966649  0.61118115  0.21864979  1
+  Ag  Ag1  1  0.59055875  0.00000000  0.50000000  1
+  Ag  Ag2  1  0.93966649  0.61118115  0.78134921  1
+  Ag  Ag3  1  0.32848534  0.38881885  0.78134921  1
+  Ag  Ag4  1  0.32848534  0.38881885  0.21864979  1
+  P  P5  1  0.53291210  0.00000000  0.00000000  1
+  S  S6  1  0.34071469  0.00000000  0.23046348  1
+  S  S7  1  0.34071469  0.00000000  0.76953652  1
+  S  S8  1  0.59254027  0.70743438  0.00000000  1
+  S  S9  1  0.88510589  0.29256562  0.00000000  1
+  Cl  Cl10  1  0.05579444  0.33662693  0.50000000  1
+  Cl  Cl11  1  0.71916651  0.66337307  0.50000000  1

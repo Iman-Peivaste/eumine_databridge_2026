@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_KInP2S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25643996
+_cell_length_b   6.69246192
+_cell_length_c   6.69246230
+_cell_angle_alpha   97.59517772
+_cell_angle_beta   95.26547900
+_cell_angle_gamma   95.26548569
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KInP2S7
+_chemical_formula_sum   'K1 In1 P2 S7'
+_cell_volume   275.05277771
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.09216755  0.90783245  1
+  In  In1  1  -0.00000000  0.50058048  0.49941952  1
+  P  P2  1  0.09025291  0.03650383  0.36225235  1
+  P  P3  1  0.90974709  0.63774765  0.96349617  1
+  S  S4  1  -0.00000000  0.96249903  0.03750097  1
+  S  S5  1  0.73852569  0.53012381  0.17835074  1
+  S  S6  1  0.30371863  0.28778601  0.36884986  1
+  S  S7  1  0.69628137  0.63115014  0.71221399  1
+  S  S8  1  0.82374161  0.11042517  0.49213392  1
+  S  S9  1  0.17625839  0.50786608  0.88957483  1
+  S  S10  1  0.26147431  0.82164926  0.46987619  1

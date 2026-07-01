@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ho3Te3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.90307016
+_cell_length_b   8.05658574
+_cell_length_c   8.61938948
+_cell_angle_alpha   70.81553249
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Te3N
+_chemical_formula_sum   'Ho12 Te12 N4'
+_cell_volume   780.67923019
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.02221634  0.60128830  0.13852826  1
+  Ho  Ho1  1  0.79024241  0.76714163  0.84637800  1
+  Ho  Ho2  1  0.29024241  0.23285837  0.65362200  1
+  Ho  Ho3  1  0.20975759  0.23285837  0.15362200  1
+  Ho  Ho4  1  0.08753373  0.84123628  0.70479431  1
+  Ho  Ho5  1  0.58753373  0.15876372  0.79520569  1
+  Ho  Ho6  1  0.70975759  0.76714163  0.34637800  1
+  Ho  Ho7  1  0.41246627  0.84123628  0.20479431  1
+  Ho  Ho8  1  0.47778366  0.60128830  0.63852826  1
+  Ho  Ho9  1  0.97778366  0.39871170  0.86147174  1
+  Ho  Ho10  1  0.52221634  0.39871170  0.36147174  1
+  Ho  Ho11  1  0.91246627  0.15876372  0.29520569  1
+  Te  Te12  1  0.23439316  0.50888786  0.81161336  1
+  Te  Te13  1  0.19112599  0.95344062  0.98306872  1
+  Te  Te14  1  0.69112599  0.04655938  0.51693128  1
+  Te  Te15  1  0.80887401  0.04655938  0.01693128  1
+  Te  Te16  1  0.30887401  0.95344062  0.48306872  1
+  Te  Te17  1  0.73439316  0.49111214  0.68838664  1
+  Te  Te18  1  0.48134022  0.22659968  0.08452926  1
+  Te  Te19  1  0.26560684  0.50888786  0.31161336  1
+  Te  Te20  1  0.51865978  0.77340032  0.91547074  1
+  Te  Te21  1  0.01865978  0.22659968  0.58452926  1
+  Te  Te22  1  0.98134022  0.77340032  0.41547074  1
+  Te  Te23  1  0.76560684  0.49111214  0.18838664  1
+  N  N24  1  0.46485413  0.32594246  0.62353142  1
+  N  N25  1  0.53514587  0.67405754  0.37646858  1
+  N  N26  1  0.03514587  0.32594246  0.12353142  1
+  N  N27  1  0.96485413  0.67405754  0.87646858  1

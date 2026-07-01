@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NbTeBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67213278
+_cell_length_b   7.18070413
+_cell_length_c   12.69736339
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   97.67270133
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbTeBr3
+_chemical_formula_sum   'Nb4 Te4 Br12'
+_cell_volume   602.89194367
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.93076997  0.35212404  0.85285970  1
+  Nb  Nb1  1  0.06923003  0.35212404  0.64714030  1
+  Nb  Nb2  1  0.06923003  0.64787596  0.14714030  1
+  Nb  Nb3  1  0.93076997  0.64787596  0.35285970  1
+  Te  Te4  1  0.18960795  0.06403378  0.80536997  1
+  Te  Te5  1  0.81039205  0.93596622  0.19463003  1
+  Te  Te6  1  0.18960795  0.93596622  0.30536997  1
+  Te  Te7  1  0.81039205  0.06403378  0.69463003  1
+  Br  Br8  1  0.74453421  0.45212879  0.19626351  1
+  Br  Br9  1  0.25546579  0.45212879  0.30373649  1
+  Br  Br10  1  0.15309563  0.31950602  0.04562376  1
+  Br  Br11  1  0.63826016  0.78775843  0.43853798  1
+  Br  Br12  1  0.36173984  0.78775843  0.06146202  1
+  Br  Br13  1  0.36173984  0.21224157  0.56146202  1
+  Br  Br14  1  0.63826016  0.21224157  0.93853798  1
+  Br  Br15  1  0.15309563  0.68049398  0.54562376  1
+  Br  Br16  1  0.84690437  0.68049398  0.95437624  1
+  Br  Br17  1  0.84690437  0.31950602  0.45437624  1
+  Br  Br18  1  0.74453421  0.54787221  0.69626351  1
+  Br  Br19  1  0.25546579  0.54787221  0.80373649  1

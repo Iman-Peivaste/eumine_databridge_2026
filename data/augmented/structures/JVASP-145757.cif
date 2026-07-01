@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Bi2(CN2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41546600
+_cell_length_b   6.64735683
+_cell_length_c   15.42276780
+_cell_angle_alpha   90.00000043
+_cell_angle_beta   143.25755591
+_cell_angle_gamma   58.79693102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2(CN2)3
+_chemical_formula_sum   'Bi2 C3 N6'
+_cell_volume   196.72955188
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.00000000  -0.00000000  0.82408243  1
+  Bi  Bi1  1  -0.00000000  0.00000000  0.17591757  1
+  C  C2  1  0.14966719  0.56688886  0.71655607  1
+  C  C3  1  -0.00000000  0.71655607  -0.00000000  1
+  C  C4  1  0.85033281  0.71655607  0.28344393  1
+  N  N5  1  0.72258477  0.83744875  0.16662366  1
+  N  N6  1  0.04248523  0.56003351  0.60659015  1
+  N  N7  1  0.23493001  0.60251874  0.00407140  1
+  N  N8  1  0.95751477  0.60251874  0.39340985  1
+  N  N9  1  0.76506999  0.83744875  0.99592860  1
+  N  N10  1  0.27741523  0.56003351  0.83337634  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZnCuF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95852713
+_cell_length_b   5.57399569
+_cell_length_c   6.17094397
+_cell_angle_alpha   116.84489533
+_cell_angle_beta   110.54614928
+_cell_angle_gamma   89.99923785
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuF4
+_chemical_formula_sum   'Zn2 Cu2 F8'
+_cell_volume   139.91005445
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.24948577  0.20160902  0.50084492  1
+  Zn  Zn1  1  0.74951210  0.79872321  0.50086674  1
+  Cu  Cu2  1  0.49950444  0.00018194  0.00086759  1
+  Cu  Cu3  1  -0.00051549  0.50015955  0.00083778  1
+  F  F4  1  0.33025874  0.25141346  0.23117455  1
+  F  F5  1  0.17780239  0.00288688  0.71624362  1
+  F  F6  1  0.66868164  0.74889233  0.77052146  1
+  F  F7  1  0.16859261  0.52109602  0.77041931  1
+  F  F8  1  0.82118553  0.99748126  0.28549313  1
+  F  F9  1  0.32119691  0.78741759  0.28544297  1
+  F  F10  1  0.83032461  0.47924666  0.23123182  1
+  F  F11  1  0.67777876  0.21286607  0.71623811  1

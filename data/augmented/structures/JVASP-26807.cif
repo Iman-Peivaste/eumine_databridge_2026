@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyTiClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90433634
+_cell_length_b   5.28164527
+_cell_length_c   9.82264264
+_cell_angle_alpha   74.45452644
+_cell_angle_beta   78.53660355
+_cell_angle_gamma   68.30820856
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTiClO3
+_chemical_formula_sum   'Dy2 Ti2 Cl2 O6'
+_cell_volume   180.19908251
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.77888825  0.23987640  0.20234710  1
+  Dy  Dy1  1  0.22111175  0.76012360  0.79765290  1
+  Ti  Ti2  1  0.61855971  0.19240433  0.57047625  1
+  Ti  Ti3  1  0.38144029  0.80759567  0.42952375  1
+  Cl  Cl4  1  0.11259637  0.67849298  0.09631428  1
+  Cl  Cl5  1  0.88740363  0.32150702  0.90368572  1
+  O  O6  1  0.16769866  0.09936973  0.56523294  1
+  O  O7  1  0.57864919  0.46795742  0.37474519  1
+  O  O8  1  0.64845477  0.95220629  0.75088516  1
+  O  O9  1  0.35154523  0.04779371  0.24911484  1
+  O  O10  1  0.83230134  0.90063027  0.43476706  1
+  O  O11  1  0.42135081  0.53204258  0.62525481  1

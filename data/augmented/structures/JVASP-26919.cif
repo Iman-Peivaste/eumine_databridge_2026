@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K2NaInSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02289786
+_cell_length_b   10.83680412
+_cell_length_c   10.83680490
+_cell_angle_alpha   98.76259900
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaInSb2
+_chemical_formula_sum   'K8 Na4 In4 Sb8'
+_cell_volume   815.11698977
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75000000  0.42293896  0.07706104  1
+  K  K1  1  0.25000000  0.07706104  0.42293896  1
+  K  K2  1  0.25000000  0.57706104  0.92293896  1
+  K  K3  1  0.75000000  0.92293896  0.57706104  1
+  K  K4  1  0.77803375  0.32685607  0.67314393  1
+  K  K5  1  0.27803375  0.17314393  0.82685607  1
+  K  K6  1  0.22196625  0.67314393  0.32685607  1
+  K  K7  1  0.72196625  0.82685607  0.17314393  1
+  Na  Na8  1  0.00000000  0.61883029  0.61883029  1
+  Na  Na9  1  0.50000000  0.88116971  0.88116971  1
+  Na  Na10  1  0.00000000  0.38116971  0.38116971  1
+  Na  Na11  1  0.50000000  0.11883029  0.11883029  1
+  In  In12  1  0.00000000  0.13239627  0.13239627  1
+  In  In13  1  0.50000000  0.36760373  0.36760373  1
+  In  In14  1  0.00000000  0.86760373  0.86760373  1
+  In  In15  1  0.50000000  0.63239627  0.63239627  1
+  Sb  Sb16  1  0.20883299  0.89292800  0.10707200  1
+  Sb  Sb17  1  0.75000000  0.64218616  0.85781384  1
+  Sb  Sb18  1  0.25000000  0.85781384  0.64218616  1
+  Sb  Sb19  1  0.25000000  0.35781284  0.14218716  1
+  Sb  Sb20  1  0.75000000  0.14218716  0.35781284  1
+  Sb  Sb21  1  0.79116701  0.10707200  0.89292800  1
+  Sb  Sb22  1  0.29116701  0.39292800  0.60707200  1
+  Sb  Sb23  1  0.70883299  0.60707200  0.39292800  1

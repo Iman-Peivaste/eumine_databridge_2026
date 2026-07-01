@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_RbPrTiNbO6F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84615432
+_cell_length_b   3.88035972
+_cell_length_c   11.16998110
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbPrTiNbO6F
+_chemical_formula_sum   'Rb1 Pr1 Ti1 Nb1 O6 F1'
+_cell_volume   166.70596165
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000000  0.50000000  0.51541583  1
+  Pr  Pr1  1  0.50000000  0.50000000  0.99854387  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.79251534  1
+  Nb  Nb3  1  0.00000000  0.00000000  0.20726212  1
+  O  O4  1  0.00000000  0.00000000  0.63952475  1
+  O  O5  1  0.00000000  0.00000000  0.36888408  1
+  O  O6  1  0.50000000  0.00000000  0.83194018  1
+  O  O7  1  0.50000000  0.00000000  0.16291618  1
+  O  O8  1  0.00000000  0.50000000  0.16041322  1
+  O  O9  1  0.00000000  0.00000000  0.99457938  1
+  F  F10  1  0.00000000  0.50000000  0.82800406  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiAlNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58241053
+_cell_length_b   5.87421720
+_cell_length_c   8.75836923
+_cell_angle_alpha   109.03148012
+_cell_angle_beta   106.79991149
+_cell_angle_gamma   63.32978525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlNiO3
+_chemical_formula_sum   'Li4 Al4 Ni4 O12'
+_cell_volume   239.13606409
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.94155248  0.13251003  0.37685470  1
+  Li  Li1  1  0.44155217  0.63251146  0.87685975  1
+  Li  Li2  1  0.55844746  0.36748933  0.12314169  1
+  Li  Li3  1  0.05844780  0.86749029  0.62314402  1
+  Al  Al4  1  0.62718617  0.78645022  0.37608527  1
+  Al  Al5  1  0.12718667  0.28645159  0.87608525  1
+  Al  Al6  1  0.87281415  0.71354933  0.12391478  1
+  Al  Al7  1  0.37281338  0.21354899  0.62391467  1
+  Ni  Ni8  1  0.28149741  0.46397357  0.37029568  1
+  Ni  Ni9  1  0.21850318  0.03602926  0.12970478  1
+  Ni  Ni10  1  0.78149642  0.96397102  0.87029508  1
+  Ni  Ni11  1  0.71850286  0.53602627  0.62970415  1
+  O  O12  1  0.86084119  0.02118926  0.11589712  1
+  O  O13  1  0.94250478  0.78964230  0.35934138  1
+  O  O14  1  0.44250370  0.28964300  0.85934190  1
+  O  O15  1  0.55749508  0.71035713  0.14065815  1
+  O  O16  1  0.05749662  0.21035727  0.64065840  1
+  O  O17  1  0.32763608  0.09574826  0.38518041  1
+  O  O18  1  0.82763570  0.59574806  0.88518047  1
+  O  O19  1  0.17236457  0.40425255  0.11481917  1
+  O  O20  1  0.67236286  0.90425179  0.61481927  1
+  O  O21  1  0.63915973  0.47880952  0.38410235  1
+  O  O22  1  0.13915967  0.97880985  0.88410244  1
+  O  O23  1  0.36083887  0.52119165  0.61589810  1

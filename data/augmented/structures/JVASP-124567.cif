@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09692771
+_cell_length_b   5.25012478
+_cell_length_c   5.45503882
+_cell_angle_alpha   67.60202766
+_cell_angle_beta   61.98546381
+_cell_angle_gamma   73.28050426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HeO7
+_chemical_formula_sum   'He1 O7'
+_cell_volume   94.91835293
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  He  He0  1  0.71149058  0.37356331  0.79216241  1
+  O  O1  1  0.40893098  0.17489225  0.59152561  1
+  O  O2  1  0.12133360  0.76820526  0.23649675  1
+  O  O3  1  0.82953874  0.72034394  0.25882026  1
+  O  O4  1  0.64532037  0.19512737  0.29356648  1
+  O  O5  1  0.30448506  0.81920111  0.75376417  1
+  O  O6  1  0.00242433  0.15509374  0.24012008  1
+  O  O7  1  0.97647634  0.79357302  0.83354424  1

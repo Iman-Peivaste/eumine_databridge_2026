@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K2CoO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46304203
+_cell_length_b   6.81632732
+_cell_length_c   9.52764986
+_cell_angle_alpha   89.99995850
+_cell_angle_beta   90.00040589
+_cell_angle_gamma   116.56475329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CoO2
+_chemical_formula_sum   'K8 Co4 O8'
+_cell_volume   375.42166221
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74367605  0.35757458  0.23580088  1
+  K  K1  1  0.25632200  0.14241928  0.73579954  1
+  K  K2  1  0.74367005  0.85757570  0.26420285  1
+  K  K3  1  0.25633107  0.64242805  0.76420128  1
+  K  K4  1  0.21332369  0.39493213  0.41211423  1
+  K  K5  1  0.78667683  0.10506949  0.91211303  1
+  K  K6  1  0.78668223  0.60512235  0.58788222  1
+  K  K7  1  0.21331957  0.89487898  0.08788413  1
+  Co  Co8  1  0.69588096  0.59135506  0.93257750  1
+  Co  Co9  1  0.30411781  0.90864687  0.43257720  1
+  Co  Co10  1  0.69588989  0.09140845  0.56742214  1
+  Co  Co11  1  0.30411192  0.40859218  0.06742161  1
+  O  O12  1  0.49222305  0.19920662  0.48222000  1
+  O  O13  1  0.49221952  0.69915555  0.01778198  1
+  O  O14  1  0.50777850  0.30079375  0.98221934  1
+  O  O15  1  0.50778261  0.80084705  0.51778291  1
+  O  O16  1  0.95260262  0.77698108  0.85041528  1
+  O  O17  1  0.04739120  0.72301386  0.35041374  1
+  O  O18  1  0.04737978  0.22299130  0.14958530  1
+  O  O19  1  0.95262367  0.27701265  0.64958586  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Na3AlTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.71844049
+_cell_length_b   8.04276571
+_cell_length_c   14.09241279
+_cell_angle_alpha   90.62852259
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3AlTe3
+_chemical_formula_sum   'Na12 Al4 Te12'
+_cell_volume   874.77064867
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.47978567  0.72326544  0.77749302  1
+  Na  Na1  1  0.97978567  0.77673456  0.72250698  1
+  Na  Na2  1  0.52021433  0.27673456  0.22250698  1
+  Na  Na3  1  0.02021433  0.22326544  0.27749302  1
+  Na  Na4  1  0.49966445  0.32736826  0.60493029  1
+  Na  Na5  1  0.99966445  0.17263174  0.89506971  1
+  Na  Na6  1  0.50033555  0.67263174  0.39506971  1
+  Na  Na7  1  0.00033555  0.82736826  0.10493029  1
+  Na  Na8  1  0.50124133  0.22109606  0.90115724  1
+  Na  Na9  1  0.00124133  0.27890394  0.59884276  1
+  Na  Na10  1  0.49875867  0.77890394  0.09884276  1
+  Na  Na11  1  -0.00124133  0.72109606  0.40115724  1
+  Al  Al12  1  0.64042091  0.08388787  0.41688420  1
+  Al  Al13  1  0.14042091  0.41611213  0.08311580  1
+  Al  Al14  1  0.35957909  0.91611213  0.58311580  1
+  Al  Al15  1  0.85957909  0.58388787  0.91688420  1
+  Te  Te16  1  0.70929581  0.91857441  0.57426999  1
+  Te  Te17  1  0.20929581  0.58142559  0.92573001  1
+  Te  Te18  1  0.29070419  0.08142559  0.42573001  1
+  Te  Te19  1  0.79070419  0.41857441  0.07426999  1
+  Te  Te20  1  0.25889418  0.07727929  0.73382968  1
+  Te  Te21  1  0.75889418  0.42272071  0.76617032  1
+  Te  Te22  1  0.74110582  0.92272071  0.26617032  1
+  Te  Te23  1  0.24110582  0.57727929  0.23382968  1
+  Te  Te24  1  0.74057873  0.88534809  0.92478751  1
+  Te  Te25  1  0.24057873  0.61465191  0.57521249  1
+  Te  Te26  1  0.25942127  0.11465191  0.07521249  1
+  Te  Te27  1  0.75942127  0.38534809  0.42478751  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_MgFe2(CoO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81962458
+_cell_length_b   5.85790152
+_cell_length_c   6.18958008
+_cell_angle_alpha   62.59284748
+_cell_angle_beta   89.34218975
+_cell_angle_gamma   119.70086211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgFe2(CoO2)4
+_chemical_formula_sum   'Mg1 Fe2 Co4 O8'
+_cell_volume   154.66347111
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.50000000  1.0
+  Fe  Fe1  1  0.50000000  0.00000000  0.00000000  1.0
+  Fe  Fe2  1  0.50000000  0.50000000  0.50000000  1.0
+  Co  Co3  1  0.50000000  0.00000000  0.50000000  1.0
+  Co  Co4  1  0.18820800  0.32669100  0.03655900  1.0
+  Co  Co5  1  0.81179200  0.67330900  0.96344100  1.0
+  Co  Co6  1  0.00000000  0.50000000  0.50000000  1.0
+  O  O7  1  0.71461700  0.44142300  0.32119100  1.0
+  O  O8  1  0.73274100  0.99847100  0.73550100  1.0
+  O  O9  1  0.73782600  0.51209200  0.73027700  1.0
+  O  O10  1  0.26148700  0.01653200  0.72392300  1.0
+  O  O11  1  0.73851300  0.98346800  0.27607700  1.0
+  O  O12  1  0.26217400  0.48790800  0.26972300  1.0
+  O  O13  1  0.26725900  0.00152900  0.26449900  1.0
+  O  O14  1  0.28538300  0.55857700  0.67880900  1.0

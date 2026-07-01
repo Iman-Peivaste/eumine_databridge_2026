@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li5AuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50051936
+_cell_length_b   5.43337013
+_cell_length_c   5.58641290
+_cell_angle_alpha   80.74813580
+_cell_angle_beta   71.79828028
+_cell_angle_gamma   71.22002230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5AuO4
+_chemical_formula_sum   'Li5 Au1 O4'
+_cell_volume   95.34690029
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.81605918  0.97998230  0.38769277  1
+  Li  Li2  1  0.68270177  0.65729354  0.97724372  1
+  Li  Li3  1  0.31729823  0.34270646  0.02275628  1
+  Li  Li4  1  0.18394082  0.02001770  0.61230723  1
+  Au  Au5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.75752758  0.31250238  0.17288099  1
+  O  O7  1  0.57334666  0.14693791  0.70692272  1
+  O  O8  1  0.42665334  0.85306209  0.29307728  1
+  O  O9  1  0.24247242  0.68749762  0.82711901  1

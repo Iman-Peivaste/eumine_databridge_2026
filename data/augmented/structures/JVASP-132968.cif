@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3CrAsCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.29692972
+_cell_length_b   6.70835849
+_cell_length_c   5.25880805
+_cell_angle_alpha   89.99964278
+_cell_angle_beta   88.04063483
+_cell_angle_gamma   89.99762009
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3CrAsCO7
+_chemical_formula_sum   'Na6 Cr2 As2 C2 O14'
+_cell_volume   327.78504473
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.08793722  0.25000837  0.79676000  1
+  Na  Na1  1  0.25444682  -0.00091748  0.25309609  1
+  Na  Na2  1  0.25444532  0.50094184  0.25309188  1
+  Na  Na3  1  0.74555453  0.49905929  0.74691090  1
+  Na  Na4  1  0.74555341  0.00091857  0.74690116  1
+  Na  Na5  1  0.91206301  0.74999455  0.20324095  1
+  Cr  Cr6  1  0.34558401  0.75000845  0.77287581  1
+  Cr  Cr7  1  0.65441607  0.24999035  0.22712364  1
+  As  As8  1  0.57862099  0.74999259  0.31522522  1
+  As  As9  1  0.42137901  0.25000415  0.68477460  1
+  C  C10  1  0.04803747  0.75000668  0.70318483  1
+  C  C11  1  0.95196211  0.24999451  0.29681567  1
+  O  O12  1  0.89721988  0.24998040  0.52498836  1
+  O  O13  1  0.68963658  0.95009615  0.23457411  1
+  O  O14  1  0.68963875  0.54988230  0.23457630  1
+  O  O15  1  0.55540481  0.74999520  0.64658715  1
+  O  O16  1  0.58455790  0.24999755  0.82347716  1
+  O  O17  1  0.41544189  0.75000216  0.17652185  1
+  O  O18  1  0.09002893  0.25002393  0.25334653  1
+  O  O19  1  0.31036069  0.45011731  0.76542178  1
+  O  O20  1  0.31036391  0.04990369  0.76542628  1
+  O  O21  1  0.10278055  0.75002209  0.47501279  1
+  O  O22  1  0.13195697  0.75001844  0.89937099  1
+  O  O23  1  0.86804340  0.24997986  0.10063044  1
+  O  O24  1  0.44459514  0.25000276  0.35341176  1
+  O  O25  1  0.90997164  0.74997830  0.74665376  1

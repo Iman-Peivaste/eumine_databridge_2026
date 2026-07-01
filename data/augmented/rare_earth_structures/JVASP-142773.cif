@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_SrLa4TiAl4O15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.79866681
+_cell_length_b   13.79866681
+_cell_length_c   3.83802712
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   157.43457663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLa4TiAl4O15
+_chemical_formula_sum   'Sr1 La4 Ti1 Al4 O15'
+_cell_volume   280.42532798
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  La  La1  1  0.60266185  0.39733815  0.00000000  1
+  La  La2  1  0.20008129  0.79991871  0.00000000  1
+  La  La3  1  0.79991871  0.20008129  0.00000000  1
+  La  La4  1  0.39733815  0.60266185  0.00000000  1
+  Ti  Ti5  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al6  1  0.10138019  0.89861981  0.50000000  1
+  Al  Al7  1  0.70076271  0.29923729  0.50000000  1
+  Al  Al8  1  0.29923729  0.70076271  0.50000000  1
+  Al  Al9  1  0.89861981  0.10138019  0.50000000  1
+  O  O10  1  0.29981242  0.70018758  0.00000000  1
+  O  O11  1  0.70018758  0.29981242  0.00000000  1
+  O  O12  1  0.89679013  0.10320987  0.00000000  1
+  O  O13  1  0.40231417  0.10037959  0.50000000  1
+  O  O14  1  0.80102086  0.69636032  0.50000000  1
+  O  O15  1  0.59768583  0.89962041  0.50000000  1
+  O  O16  1  0.50000000  0.00000000  0.50000000  1
+  O  O17  1  0.19897914  0.30363968  0.50000000  1
+  O  O18  1  0.30363968  0.19897914  0.50000000  1
+  O  O19  1  0.69636032  0.80102086  0.50000000  1
+  O  O20  1  0.50000000  0.50000000  0.00000000  1
+  O  O21  1  0.89962041  0.59768583  0.50000000  1
+  O  O22  1  0.10037959  0.40231417  0.50000000  1
+  O  O23  1  0.00000000  0.50000000  0.50000000  1
+  O  O24  1  0.10320987  0.89679013  0.00000000  1

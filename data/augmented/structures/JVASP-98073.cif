@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PtCI2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88982719
+_cell_length_b   6.88982769
+_cell_length_c   12.90033981
+_cell_angle_alpha   100.83917379
+_cell_angle_beta   104.73288063
+_cell_angle_gamma   99.88815498
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PtCI2O
+_chemical_formula_sum   'Pt4 C4 I8 O4'
+_cell_volume   565.92450080
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  1  0.81109783  0.09207934  0.08004585  1
+  Pt  Pt1  1  0.18890217  0.90792066  0.91995415  1
+  Pt  Pt2  1  0.51203350  0.73105198  0.41995415  1
+  Pt  Pt3  1  0.48796650  0.26894802  0.58004585  1
+  C  C4  1  0.70272066  0.57120165  0.41198509  1
+  C  C5  1  0.65921657  0.29073557  0.08801491  1
+  C  C6  1  0.34078343  0.70926443  0.91198509  1
+  C  C7  1  0.29727934  0.42879835  0.58801491  1
+  I  I8  1  0.77151966  0.05005809  0.57620713  1
+  I  I9  1  0.97385096  0.19531252  0.92379287  1
+  I  I10  1  0.33955832  0.04809098  0.77069927  1
+  I  I11  1  0.77739172  0.56885905  0.72930073  1
+  I  I12  1  0.22848034  0.94994191  0.42379287  1
+  I  I13  1  0.66044168  0.95190902  0.22930073  1
+  I  I14  1  0.22260828  0.43114095  0.27069927  1
+  I  I15  1  0.02614904  0.80468748  0.07620713  1
+  O  O16  1  0.56670204  0.41419269  0.09622045  1
+  O  O17  1  0.43329796  0.58580731  0.90377955  1
+  O  O18  1  0.18202776  0.52951840  0.59622045  1
+  O  O19  1  0.81797224  0.47048160  0.40377955  1

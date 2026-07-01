@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na4IrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73187372
+_cell_length_b   5.57889369
+_cell_length_c   5.57889353
+_cell_angle_alpha   79.63898239
+_cell_angle_beta   64.90710043
+_cell_angle_gamma   64.90710639
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4IrO4
+_chemical_formula_sum   'Na4 Ir1 O4'
+_cell_volume   120.78768050
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.41005528  0.78709994  0.39278850  1
+  Na  Na1  1  0.58994472  0.21290006  0.60721050  1
+  Na  Na2  1  0.80284478  0.60721050  0.78709994  1
+  Na  Na3  1  0.19715522  0.39278850  0.21290006  1
+  Ir  Ir4  1  0.00000000  0.00000000  0.00000000  1
+  O  O5  1  0.74237798  0.34286358  0.17237947  1
+  O  O6  1  0.25762202  0.65713642  0.82762053  1
+  O  O7  1  0.91475845  0.82762053  0.34286358  1
+  O  O8  1  0.08524155  0.17237947  0.65713642  1

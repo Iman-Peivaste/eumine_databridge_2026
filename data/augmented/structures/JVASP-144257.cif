@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li2Co2Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81264119
+_cell_length_b   13.11846393
+_cell_length_c   4.81265002
+_cell_angle_alpha   89.99796613
+_cell_angle_beta   62.88842563
+_cell_angle_gamma   90.00151042
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Co2Si2O7
+_chemical_formula_sum   'Li4 Co4 Si4 O14'
+_cell_volume   270.45790511
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25454229  0.58349696  0.34348443  1
+  Li  Li1  1  0.25475997  0.91651770  0.34327927  1
+  Li  Li2  1  0.65671786  0.08348152  0.74520987  1
+  Li  Li3  1  0.65650987  0.41650167  0.74549545  1
+  Co  Co4  1  0.97548944  -0.00000247  0.02449524  1
+  Co  Co5  1  0.97508520  0.49999810  0.02492998  1
+  Co  Co6  1  0.99618929  0.75002115  0.00875619  1
+  Co  Co7  1  0.99123775  0.24995710  0.00381699  1
+  Si  Si8  1  0.60456020  0.86305481  0.70038945  1
+  Si  Si9  1  0.60436562  0.63693598  0.70051304  1
+  Si  Si10  1  0.29960620  0.13694869  0.39541293  1
+  Si  Si11  1  0.29948695  0.36306848  0.39566925  1
+  O  O12  1  0.25144092  0.62907440  0.72558818  1
+  O  O13  1  0.06999767  0.44866238  0.37131259  1
+  O  O14  1  0.07015953  0.05134804  0.37098495  1
+  O  O15  1  0.27463907  0.12902040  0.74827836  1
+  O  O16  1  0.27437653  0.37091522  0.74861344  1
+  O  O17  1  0.25167890  0.87096850  0.72538468  1
+  O  O18  1  0.13798482  0.25000621  0.37374548  1
+  O  O19  1  0.87271597  0.86289206  0.33802876  1
+  O  O20  1  0.66187488  0.36294873  0.12761911  1
+  O  O21  1  0.66195534  0.13712290  0.12722447  1
+  O  O22  1  0.62626179  0.74999821  0.86200775  1
+  O  O23  1  0.62871789  0.55134168  0.93001132  1
+  O  O24  1  0.87245071  0.63706485  0.33812920  1
+  O  O25  1  0.62898734  0.94865574  0.92982761  1

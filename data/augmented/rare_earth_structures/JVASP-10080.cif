@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CaZrSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72928112
+_cell_length_b   5.55930274
+_cell_length_c   5.55930327
+_cell_angle_alpha   103.31910023
+_cell_angle_beta   97.10851437
+_cell_angle_gamma   97.10852622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaZrSi2O7
+_chemical_formula_sum   'Ca1 Zr1 Si2 O7'
+_cell_volume   139.37218575
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.29290473  0.70709527  1
+  Zr  Zr1  1  0.50000000  0.68489680  0.31510320  1
+  Si  Si2  1  0.91906816  0.22117968  0.20638154  1
+  Si  Si3  1  0.08093184  0.79361846  0.77882032  1
+  O  O4  1  0.71274708  0.41289299  0.11775304  1
+  O  O5  1  0.28725292  0.88224696  0.58710701  1
+  O  O6  1  0.73623115  0.03669371  0.34531652  1
+  O  O7  1  0.26376885  0.65468348  0.96330629  1
+  O  O8  1  0.00000000  0.06039781  0.93960219  1
+  O  O9  1  0.77919465  0.62359614  0.62371077  1
+  O  O10  1  0.22080535  0.37628923  0.37640386  1

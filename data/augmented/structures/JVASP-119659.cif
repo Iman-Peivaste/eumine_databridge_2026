@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_GaFeNiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88455529
+_cell_length_b   5.88455529
+_cell_length_c   5.88455529
+_cell_angle_alpha   120.32981178
+_cell_angle_beta   119.72657843
+_cell_angle_gamma   89.95196614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaFeNiO4
+_chemical_formula_sum   'Ga2 Fe2 Ni2 O8'
+_cell_volume   144.02092594
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.50000000  0.50000000  0.00000000  1
+  Ga  Ga1  1  -0.00000000  0.50000000  0.50000000  1
+  Fe  Fe2  1  0.11896290  0.86896290  0.25000000  1
+  Fe  Fe3  1  0.88103710  0.13103710  0.75000000  1
+  Ni  Ni4  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni5  1  0.50000000  0.00000000  0.00000000  1
+  O  O6  1  0.25719755  0.73872992  0.98153237  1
+  O  O7  1  0.25719755  0.27566519  0.51846763  1
+  O  O8  1  0.25450868  0.74116459  0.51334509  1
+  O  O9  1  0.72781950  0.74116459  0.98665491  1
+  O  O10  1  0.74280245  0.26127008  0.01846763  1
+  O  O11  1  0.74280245  0.72433481  0.48153237  1
+  O  O12  1  0.74549132  0.25883541  0.48665491  1
+  O  O13  1  0.27218050  0.25883541  0.01334509  1

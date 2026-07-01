@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K6CoSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.12191454
+_cell_length_b   10.12191523
+_cell_length_c   7.82174816
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K6CoSe4
+_chemical_formula_sum   'K12 Co2 Se8'
+_cell_volume   694.00055547
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.14641636  0.85358364  0.54768984  1
+  K  K1  1  0.47335661  0.52664339  0.86497911  1
+  K  K2  1  0.52664339  0.05328777  0.36497911  1
+  K  K3  1  0.47335661  0.94671223  0.86497911  1
+  K  K4  1  0.05328777  0.52664339  0.86497911  1
+  K  K5  1  0.52664339  0.47335661  0.36497911  1
+  K  K6  1  0.94671223  0.47335661  0.36497911  1
+  K  K7  1  0.70716729  0.85358364  0.54768984  1
+  K  K8  1  0.14641636  0.29283271  0.54768984  1
+  K  K9  1  0.85358364  0.70716729  0.04768984  1
+  K  K10  1  0.29283271  0.14641636  0.04768984  1
+  K  K11  1  0.85358364  0.14641636  0.04768984  1
+  Co  Co12  1  0.33333300  0.66666700  0.25037190  1
+  Co  Co13  1  0.66666700  0.33333300  0.75037190  1
+  Se  Se14  1  0.60334793  0.80167347  0.15133880  1
+  Se  Se15  1  0.33333300  0.66666700  0.56730685  1
+  Se  Se16  1  0.66666700  0.33333300  0.06730685  1
+  Se  Se17  1  0.19832653  0.80167347  0.15133880  1
+  Se  Se18  1  0.39665207  0.19832653  0.65133880  1
+  Se  Se19  1  0.80167347  0.60334793  0.65133880  1
+  Se  Se20  1  0.19832653  0.39665207  0.15133880  1
+  Se  Se21  1  0.80167347  0.19832653  0.65133880  1

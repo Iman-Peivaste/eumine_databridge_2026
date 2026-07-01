@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KInSeO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44430635
+_cell_length_b   4.14215382
+_cell_length_c   8.16715634
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99930156
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KInSeO
+_chemical_formula_sum   'K2 In2 Se2 O2'
+_cell_volume   218.00842088
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.61604954  0.50000000  0.28845976  1
+  K  K1  1  0.11605591  0.50000000  0.71151366  1
+  In  In2  1  0.03867846  0.00000000  0.11644675  1
+  In  In3  1  0.53869447  0.00000000  0.88351961  1
+  Se  Se4  1  0.12162169  0.50000000  0.30318534  1
+  Se  Se5  1  0.62161438  0.50000000  0.69680109  1
+  O  O6  1  0.71368849  0.00000000  0.09567957  1
+  O  O7  1  0.21369707  0.00000000  0.90429421  1

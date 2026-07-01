@@ -44,6 +44,7 @@ def main():
         "--model_path",
         type=str,
         default=str(ROOT / "models" / "combined_retrain"),
+        help="Path to model directory (combined_retrain or full_retrain)",
     )
     parser.add_argument(
         "--cpu_only",

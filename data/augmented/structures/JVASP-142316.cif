@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KUSiHO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01613926
+_cell_length_b   6.63849279
+_cell_length_c   6.51236341
+_cell_angle_alpha   73.58650393
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KUSiHO6
+_chemical_formula_sum   'K2 U2 Si2 H2 O12'
+_cell_volume   290.96246379
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.68543764  0.78444564  0.55964666  1
+  K  K1  1  0.18543764  0.21555436  0.44035334  1
+  U  U2  1  0.04403937  0.85660342  0.02963911  1
+  U  U3  1  0.54403937  0.14339658  0.97036089  1
+  Si  Si4  1  0.53578842  0.64015232  0.08878214  1
+  Si  Si5  1  0.03578842  0.35984768  0.91121786  1
+  H  H6  1  0.55301829  0.39013149  0.42362688  1
+  H  H7  1  0.05301829  0.60986851  0.57637312  1
+  O  O8  1  0.55716663  0.48564093  0.93670573  1
+  O  O9  1  0.05716663  0.51435907  0.06329427  1
+  O  O10  1  0.51188037  0.09491069  0.26255954  1
+  O  O11  1  0.01188037  0.90508931  0.73744046  1
+  O  O12  1  0.22041415  0.20162290  0.93062346  1
+  O  O13  1  0.57126378  0.17415105  0.67867214  1
+  O  O14  1  0.86929873  0.18198626  -0.00178765  1
+  O  O15  1  0.36929873  0.81801374  0.00178765  1
+  O  O16  1  0.49069363  0.52222721  0.34365142  1
+  O  O17  1  0.07126378  0.82584895  0.32132786  1
+  O  O18  1  0.72041415  0.79837710  0.06937654  1
+  O  O19  1  -0.00930637  0.47777279  0.65634858  1

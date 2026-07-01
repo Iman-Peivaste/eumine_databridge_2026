@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba5Hf2N6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72571896
+_cell_length_b   7.33404678
+_cell_length_c   14.89107616
+_cell_angle_alpha   89.99999956
+_cell_angle_beta   96.12633403
+_cell_angle_gamma   123.03997741
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5Hf2N6
+_chemical_formula_sum   'Ba10 Hf4 N12'
+_cell_volume   610.73770783
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.08229958  0.76948558  0.98313139  1
+  Ba  Ba1  1  0.91770042  0.68718600  0.51686861  1
+  Ba  Ba2  1  0.91770042  0.23051442  0.01686861  1
+  Ba  Ba3  1  0.08229958  0.31281400  0.48313139  1
+  Ba  Ba4  1  0.31162052  0.09559204  0.70819575  1
+  Ba  Ba5  1  0.68837948  0.78397152  0.79180425  1
+  Ba  Ba6  1  0.68837948  0.90440796  0.29180425  1
+  Ba  Ba7  1  0.31162052  0.21602848  0.20819575  1
+  Ba  Ba8  1  -0.00000000  0.39249492  0.75000000  1
+  Ba  Ba9  1  0.00000000  0.60750508  0.25000000  1
+  Hf  Hf10  1  0.55255668  0.65316620  0.07607327  1
+  Hf  Hf11  1  0.44744332  0.10060952  0.42392673  1
+  Hf  Hf12  1  0.55255668  0.89939048  0.57607327  1
+  Hf  Hf13  1  0.44744332  0.34683380  0.92392673  1
+  N  N14  1  0.40438644  0.79787288  0.44068628  1
+  N  N15  1  0.88468348  0.96521732  0.62163278  1
+  N  N16  1  0.11531652  0.08053384  0.87836722  1
+  N  N17  1  0.11531652  0.03478268  0.37836722  1
+  N  N18  1  0.88468348  0.91946616  0.12163278  1
+  N  N19  1  0.29050884  0.72794059  0.65774384  1
+  N  N20  1  0.70949116  0.43743275  0.84225616  1
+  N  N21  1  0.70949116  0.27205941  0.34225616  1
+  N  N22  1  0.29050884  0.56256725  0.15774384  1
+  N  N23  1  0.59561356  0.20212712  0.55931372  1
+  N  N24  1  0.40438644  0.60651356  0.94068628  1
+  N  N25  1  0.59561356  0.39348644  0.05931372  1

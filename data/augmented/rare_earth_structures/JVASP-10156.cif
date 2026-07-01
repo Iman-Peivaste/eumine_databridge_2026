@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyTaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14297301
+_cell_length_b   5.46840490
+_cell_length_c   5.33684162
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   96.49682324
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTaO4
+_chemical_formula_sum   'Dy2 Ta2 O8'
+_cell_volume   149.12870529
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  -0.00000000  0.76481486  0.25000000  1
+  Dy  Dy1  1  -0.00000000  0.23518514  0.75000000  1
+  Ta  Ta2  1  0.50000000  0.69601241  0.75000000  1
+  Ta  Ta3  1  0.50000000  0.30398759  0.25000000  1
+  O  O4  1  0.26683160  0.56169684  0.99085309  1
+  O  O5  1  0.73316840  0.56169684  0.50914691  1
+  O  O6  1  0.73316840  0.43830316  0.00914691  1
+  O  O7  1  0.26683160  0.43830316  0.49085309  1
+  O  O8  1  0.74940591  0.08081989  0.40134283  1
+  O  O9  1  0.25059409  0.08081989  0.09865717  1
+  O  O10  1  0.25059409  0.91918011  0.59865717  1
+  O  O11  1  0.74940591  0.91918011  0.90134283  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tl2SiS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71039459
+_cell_length_b   6.73143714
+_cell_length_c   8.43654563
+_cell_angle_alpha   90.02869343
+_cell_angle_beta   111.92325667
+_cell_angle_gamma   112.84871839
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2SiS3
+_chemical_formula_sum   'Tl4 Si2 S6'
+_cell_volume   321.03394275
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.73718406  0.31221458  0.11025804  1
+  Tl  Tl1  1  0.26281594  0.68778542  0.88974196  1
+  Tl  Tl2  1  0.88638768  0.06091201  0.67304358  1
+  Tl  Tl3  1  0.11361232  0.93908799  0.32695642  1
+  Si  Si4  1  0.43186399  0.54750211  0.32143839  1
+  Si  Si5  1  0.56813601  0.45249789  0.67856161  1
+  S  S6  1  0.75439063  0.69659976  0.90002204  1
+  S  S7  1  0.24560937  0.30340024  0.09997796  1
+  S  S8  1  0.51550354  0.87065950  0.27351472  1
+  S  S9  1  0.48449646  0.12934050  0.72648528  1
+  S  S10  1  0.24755382  0.47764751  0.49647466  1
+  S  S11  1  0.75244618  0.52235249  0.50352534  1

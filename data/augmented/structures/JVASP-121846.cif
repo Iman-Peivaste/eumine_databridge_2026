@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Rb2MnI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.09410139
+_cell_length_b   7.70542857
+_cell_length_c   10.27625253
+_cell_angle_alpha   70.48068368
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2MnI4
+_chemical_formula_sum   'Rb4 Mn2 I8'
+_cell_volume   604.08059243
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75000000  0.79734655  0.54083220  1
+  Rb  Rb1  1  0.25000000  0.20265345  0.45916780  1
+  Rb  Rb2  1  0.75000000  0.71565313  0.08227888  1
+  Rb  Rb3  1  0.25000000  0.28434687  0.91772112  1
+  Mn  Mn4  1  0.75000000  0.20580372  0.71057118  1
+  Mn  Mn5  1  0.25000000  0.79419628  0.28942882  1
+  I  I6  1  0.75000000  0.37948233  0.43537870  1
+  I  I7  1  0.25000000  0.62051767  0.56462130  1
+  I  I8  1  0.99254931  0.02623704  0.22453030  1
+  I  I9  1  0.00745069  -0.02623704  0.77546970  1
+  I  I10  1  0.49254931  -0.02623704  0.77546970  1
+  I  I11  1  0.50745069  0.02623704  0.22453030  1
+  I  I12  1  0.75000000  0.42005625  0.86815742  1
+  I  I13  1  0.25000000  0.57994375  0.13184258  1

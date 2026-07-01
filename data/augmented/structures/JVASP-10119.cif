@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KAgF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87461363
+_cell_length_b   5.87461331
+_cell_length_c   7.14426173
+_cell_angle_alpha   114.27659769
+_cell_angle_beta   114.27659979
+_cell_angle_gamma   89.99999978
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAgF4
+_chemical_formula_sum   'K2 Ag2 F8'
+_cell_volume   200.59501600
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.25000000  0.50000000  1
+  K  K1  1  0.75000000  0.75000000  0.50000000  1
+  Ag  Ag2  1  -0.00000000  0.50000000  0.00000000  1
+  Ag  Ag3  1  0.50000000  0.00000000  0.00000000  1
+  F  F4  1  0.94795624  0.44795624  0.23201924  1
+  F  F5  1  0.71593700  0.21593700  0.76798076  1
+  F  F6  1  0.05204376  0.55204376  0.76798076  1
+  F  F7  1  0.21593700  0.05204376  0.76798076  1
+  F  F8  1  0.28406300  0.78406300  0.23201924  1
+  F  F9  1  0.44795624  0.28406300  0.23201924  1
+  F  F10  1  0.78406300  0.94795624  0.23201924  1
+  F  F11  1  0.55204376  0.71593700  0.76798076  1

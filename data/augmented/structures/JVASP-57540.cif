@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K3Na2LiTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81167636
+_cell_length_b   7.57336911
+_cell_length_c   7.57336894
+_cell_angle_alpha   104.27639331
+_cell_angle_beta   92.26016251
+_cell_angle_gamma   92.26016371
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Na2LiTeO6
+_chemical_formula_sum   'K6 Na4 Li2 Te2 O12'
+_cell_volume   377.84201622
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.77695062  0.37225465  0.40465007  1
+  K  K1  1  0.43567265  0.01108256  0.10912018  1
+  K  K2  1  0.24409061  0.78272517  0.70135091  1
+  K  K3  1  0.27695062  0.40465007  0.37225465  1
+  K  K4  1  0.93567265  0.10912018  0.01108256  1
+  K  K5  1  0.74409061  0.70135091  0.78272517  1
+  Na  Na6  1  0.89573360  0.07131893  0.61302771  1
+  Na  Na7  1  0.39573360  0.61302771  0.07131893  1
+  Na  Na8  1  0.59272954  0.85773360  0.43195213  1
+  Na  Na9  1  0.09272954  0.43195213  0.85773360  1
+  Li  Li10  1  0.24642884  0.03362870  0.47189796  1
+  Li  Li11  1  0.74642884  0.47189796  0.03362870  1
+  Te  Te12  1  0.49745531  0.24298848  0.75811734  1
+  Te  Te13  1  -0.00254469  0.75811734  0.24298848  1
+  O  O14  1  0.50972472  0.32441243  0.03194087  1
+  O  O15  1  0.59898346  0.00548715  0.76830365  1
+  O  O16  1  0.89980439  0.74424306  0.48182580  1
+  O  O17  1  0.22135925  0.14171433  0.74314559  1
+  O  O18  1  0.09898346  0.76830365  0.00548715  1
+  O  O19  1  0.72135925  0.74314559  0.14171433  1
+  O  O20  1  0.00972472  0.03194087  0.32441243  1
+  O  O21  1  0.49597202  0.16155275  0.48650093  1
+  O  O22  1  0.99597202  0.48650093  0.16155275  1
+  O  O23  1  0.27289300  0.76994213  0.34588094  1
+  O  O24  1  0.39980439  0.48182580  0.74424306  1
+  O  O25  1  0.77289300  0.34588094  0.76994213  1

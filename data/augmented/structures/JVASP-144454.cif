@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaBrO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45726886
+_cell_length_b   5.28506328
+_cell_length_c   6.95285355
+_cell_angle_alpha   92.67398661
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBrO2
+_chemical_formula_sum   'Na4 Br4 O8'
+_cell_volume   273.72845053
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.69445199  0.03582638  0.89627660  1
+  Na  Na1  1  0.19445199  0.96417362  0.60372340  1
+  Na  Na2  1  0.30554801  0.96417362  0.10372340  1
+  Na  Na3  1  0.80554801  0.03582638  0.39627660  1
+  Br  Br4  1  0.43597477  0.49239946  0.76628223  1
+  Br  Br5  1  -0.06402523  0.50760054  0.73371777  1
+  Br  Br6  1  0.56402523  0.50760054  0.23371777  1
+  Br  Br7  1  0.06402523  0.49239946  0.26628223  1
+  O  O8  1  0.74473889  0.33306147  0.64922269  1
+  O  O9  1  0.24473889  0.66693853  0.85077731  1
+  O  O10  1  0.25526111  0.66693853  0.35077731  1
+  O  O11  1  0.75526111  0.33306147  0.14922269  1
+  O  O12  1  0.89236604  0.82842503  0.67878521  1
+  O  O13  1  0.39236604  0.17157497  0.82121479  1
+  O  O14  1  0.10763396  0.17157497  0.32121479  1
+  O  O15  1  0.60763396  0.82842503  0.17878521  1

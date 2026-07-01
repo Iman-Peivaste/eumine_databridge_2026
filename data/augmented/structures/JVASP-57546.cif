@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba3In2Cl2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28305065
+_cell_length_b   4.28305127
+_cell_length_c   12.97165937
+_cell_angle_alpha   99.50261768
+_cell_angle_beta   99.50261850
+_cell_angle_gamma   90.00000884
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3In2Cl2O5
+_chemical_formula_sum   'Ba3 In2 Cl2 O5'
+_cell_volume   231.38234376
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66191391  0.66191391  0.32382682  1
+  Ba  Ba1  1  0.50000000  0.50000000  0.00000000  1
+  Ba  Ba2  1  0.33808609  0.33808609  0.67617318  1
+  In  In3  1  0.91735093  0.91735093  0.83470286  1
+  In  In4  1  0.08264907  0.08264907  0.16529714  1
+  Cl  Cl5  1  0.20599342  0.20599342  0.41198585  1
+  Cl  Cl6  1  0.79400658  0.79400658  0.58801415  1
+  O  O7  1  0.09401542  0.59401542  0.18803184  1
+  O  O8  1  0.40598458  0.90598458  0.81196816  1
+  O  O9  1  0.90598458  0.40598458  0.81196816  1
+  O  O10  1  0.00000000  0.00000000  0.00000000  1
+  O  O11  1  0.59401542  0.09401542  0.18803184  1

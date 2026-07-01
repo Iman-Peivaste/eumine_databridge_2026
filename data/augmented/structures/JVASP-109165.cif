@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiBi3(ClO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63514071
+_cell_length_b   6.63514071
+_cell_length_c   5.48720356
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   131.07959054
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiBi3(ClO2)2
+_chemical_formula_sum   'Li1 Bi3 Cl2 O4'
+_cell_volume   182.09836458
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.69608065  0.30391935  0.50000000  1
+  Bi  Bi1  1  0.14960929  0.85039071  0.00000000  1
+  Bi  Bi2  1  0.84114467  0.15885533  0.00000000  1
+  Bi  Bi3  1  0.34535289  0.65464711  0.50000000  1
+  Cl  Cl4  1  0.49535709  0.50464291  0.00000000  1
+  Cl  Cl5  1  0.98701855  0.01298145  0.50000000  1
+  O  O6  1  0.49423559  0.00151816  0.75073972  1
+  O  O7  1  -0.00151816  0.50576441  0.24926028  1
+  O  O8  1  -0.00151816  0.50576441  0.75073972  1
+  O  O9  1  0.49423559  0.00151816  0.24926028  1

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_La6Fe(SiS7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.26840312
+_cell_length_b   10.26840312
+_cell_length_c   5.77349838
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000190
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6Fe(SiS7)2
+_chemical_formula_sum   'La6 Fe1 Si2 S14'
+_cell_volume   527.20010950
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.45779488  0.43572022  0.25426022  1
+  La  La1  1  0.56427978  0.02207466  0.25426022  1
+  La  La2  1  0.97792534  0.54220512  0.25426022  1
+  La  La3  1  0.20690876  0.89488124  0.75418643  1
+  La  La4  1  0.10511876  0.31202752  0.75418643  1
+  La  La5  1  0.68797248  0.79309124  0.75418643  1
+  Fe  Fe6  1  0.33333333  0.66666667  0.48900085  1
+  Si  Si7  1  0.66666667  0.33333333  0.83175223  1
+  Si  Si8  1  0.00000000  0.00000000  0.33822823  1
+  S  S9  1  0.91840804  0.77828960  0.47522226  1
+  S  S10  1  0.80983179  0.25511813  0.97011121  1
+  S  S11  1  0.44528735  0.19016821  0.97011121  1
+  S  S12  1  0.74488187  0.55471265  0.97011121  1
+  S  S13  1  0.56380047  0.74571334  0.26645836  1
+  S  S14  1  0.18191287  0.43619953  0.26645836  1
+  S  S15  1  0.41615760  0.51926656  0.71866817  1
+  S  S16  1  0.10310896  0.58384240  0.71866817  1
+  S  S17  1  0.48073344  0.89689104  0.71866817  1
+  S  S18  1  0.22171040  0.14011844  0.47522226  1
+  S  S19  1  0.00000000  0.00000000  0.97308503  1
+  S  S20  1  0.66666667  0.33333333  0.46700068  1
+  S  S21  1  0.25428666  0.81808713  0.26645836  1
+  S  S22  1  0.85988156  0.08159196  0.47522226  1

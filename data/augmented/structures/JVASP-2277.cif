@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cd(GaSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80042531
+_cell_length_b   5.80042528
+_cell_length_c   6.82958760
+_cell_angle_alpha   115.12877222
+_cell_angle_beta   115.12877559
+_cell_angle_gamma   89.99999880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd(GaSe2)2
+_chemical_formula_sum   'Cd1 Ga2 Se4'
+_cell_volume   183.72968067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga1  1  0.25000000  0.75000000  0.50000000  1
+  Ga  Ga2  1  0.50000000  0.50000000  -0.00000000  1
+  Se  Se3  1  0.86266310  0.88267232  0.27929215  1
+  Se  Se4  1  0.41662805  0.39661983  0.27929215  1
+  Se  Se5  1  0.11732768  0.58337195  0.72070785  1
+  Se  Se6  1  0.60338017  0.13733690  0.72070785  1

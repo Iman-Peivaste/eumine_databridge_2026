@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89907999
+_cell_length_b   6.24648409
+_cell_length_c   11.54731255
+_cell_angle_alpha   63.15303085
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAs
+_chemical_formula_sum   'Na8 As8'
+_cell_volume   379.63898626
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.39118816  0.77894241  0.32983697  1
+  Na  Na1  1  0.89118816  0.22105759  0.17016303  1
+  Na  Na2  1  0.60881184  0.22105759  0.67016303  1
+  Na  Na3  1  0.10881184  0.77894241  0.82983697  1
+  Na  Na4  1  0.66278518  0.76657308  0.03319910  1
+  Na  Na5  1  0.16278518  0.23342692  0.46680090  1
+  Na  Na6  1  0.33721482  0.23342692  0.96680090  1
+  Na  Na7  1  0.83721482  0.76657308  0.53319910  1
+  As  As8  1  0.89356023  0.68374199  0.29063320  1
+  As  As9  1  0.39356023  0.31625801  0.20936680  1
+  As  As10  1  0.10643977  0.31625801  0.70936680  1
+  As  As11  1  0.60643977  0.68374199  0.79063320  1
+  As  As12  1  0.16153498  0.69231354  0.11575852  1
+  As  As13  1  0.66153498  0.30768646  0.38424148  1
+  As  As14  1  0.83846502  0.30768646  0.88424148  1
+  As  As15  1  0.33846502  0.69231354  0.61575852  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr3Ca(SnO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.11148317
+_cell_length_b   5.71240560
+_cell_length_c   5.78259586
+_cell_angle_alpha   90.07345562
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ca(SnO3)4
+_chemical_formula_sum   'Sr3 Ca1 Sn4 O12'
+_cell_volume   267.94261524
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00578685  0.96396595  1
+  Sr  Sr1  1  0.50000000  0.50882502  0.53371464  1
+  Sr  Sr2  1  0.50000000  0.98996513  0.04047035  1
+  Ca  Ca3  1  0.00000000  0.48931192  0.45115958  1
+  Sn  Sn4  1  0.24808374  0.50032958  0.99799565  1
+  Sn  Sn5  1  0.75255623  0.99930587  0.50052859  1
+  Sn  Sn6  1  0.75191626  0.50032958  0.99799565  1
+  Sn  Sn7  1  0.24744377  0.99930587  0.50052859  1
+  O  O8  1  0.00000000  0.90021368  0.51842762  1
+  O  O9  1  0.00000000  0.57727856  0.04115712  1
+  O  O10  1  0.19783481  0.29823292  0.70290001  1
+  O  O11  1  0.79256791  0.21209424  0.21340035  1
+  O  O12  1  0.70799403  0.71070687  0.28740797  1
+  O  O13  1  0.80216519  0.29823292  0.70290001  1
+  O  O14  1  0.29200597  0.71070687  0.28740797  1
+  O  O15  1  0.71138386  0.79469350  0.79246195  1
+  O  O16  1  0.50000000  0.42141106  0.97506515  1
+  O  O17  1  0.20743209  0.21209424  0.21340035  1
+  O  O18  1  0.28861614  0.79469350  0.79246195  1
+  O  O19  1  0.50000000  0.07648083  0.48665153  1

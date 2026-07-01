@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3MnSiBO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22347618
+_cell_length_b   6.41481122
+_cell_length_c   8.88460614
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.41898660
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3MnSiBO7
+_chemical_formula_sum   'Na6 Mn2 Si2 B2 O14'
+_cell_volume   297.43666709
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.22980050  0.75000000  0.08180445  1
+  Na  Na1  1  0.74669343  0.98974945  0.26316021  1
+  Na  Na2  1  0.74669343  0.51025055  0.26316021  1
+  Na  Na3  1  0.25330657  0.48974945  0.73683979  1
+  Na  Na4  1  0.25330657  0.01025055  0.73683979  1
+  Na  Na5  1  0.77019950  0.25000000  0.91819555  1
+  Mn  Mn6  1  0.21542827  0.25000000  0.33289724  1
+  Mn  Mn7  1  0.78457173  0.75000000  0.66710276  1
+  Si  Si8  1  0.72121534  0.25000000  0.57117604  1
+  Si  Si9  1  0.27878466  0.75000000  0.42882396  1
+  B  B10  1  0.27803326  0.25000000  0.06749126  1
+  B  B11  1  0.72196674  0.75000000  0.93250874  1
+  O  O12  1  0.52891603  0.75000000  0.81729611  1
+  O  O13  1  0.78591817  0.05012846  0.68315396  1
+  O  O14  1  0.78591817  0.44987154  0.68315396  1
+  O  O15  1  0.41236774  0.25000000  0.51917213  1
+  O  O16  1  0.10676160  0.75000000  0.57710696  1
+  O  O17  1  0.89323840  0.25000000  0.42289304  1
+  O  O18  1  0.68460888  0.75000000  0.08002741  1
+  O  O19  1  0.21408183  0.55012846  0.31684604  1
+  O  O20  1  0.21408183  0.94987154  0.31684604  1
+  O  O21  1  0.47108397  0.25000000  0.18270389  1
+  O  O22  1  0.03894905  0.25000000  0.13404893  1
+  O  O23  1  0.96105095  0.75000000  0.86595107  1
+  O  O24  1  0.58763226  0.75000000  0.48082787  1
+  O  O25  1  0.31539112  0.25000000  0.91997259  1

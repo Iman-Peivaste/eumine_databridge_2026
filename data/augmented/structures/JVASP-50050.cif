@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li5BiS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93389794
+_cell_length_b   7.84420313
+_cell_length_c   7.23230813
+_cell_angle_alpha   62.55494187
+_cell_angle_beta   90.00000002
+_cell_angle_gamma   75.47799249
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5BiS4
+_chemical_formula_sum   'Li5 Bi1 S4'
+_cell_volume   189.98835481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.17910773  0.64178354  0.96979729  1
+  Li  Li1  1  0.17906640  0.64186720  0.38846311  1
+  Li  Li2  1  0.82093360  0.35813280  0.61153689  1
+  Li  Li3  1  0.82089227  0.35821646  0.03020271  1
+  Li  Li4  1  0.50000000  0.00000000  0.50000000  1
+  Bi  Bi5  1  0.50000000  0.00000000  0.00000000  1
+  S  S6  1  0.99996537  0.00006725  0.27633797  1
+  S  S7  1  0.71597289  0.56805423  0.21599404  1
+  S  S8  1  0.28402711  0.43194577  0.78400596  1
+  S  S9  1  0.00003463  0.99993275  0.72366203  1

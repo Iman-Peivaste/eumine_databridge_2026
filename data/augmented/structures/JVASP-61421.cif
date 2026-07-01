@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Y3AlNiS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.51281118
+_cell_length_b   9.51281118
+_cell_length_c   6.18702660
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999412
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3AlNiS7
+_chemical_formula_sum   'Y6 Al2 Ni2 S14'
+_cell_volume   484.87567170
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.78178651  0.62389711  0.77630504  1
+  Y  Y1  1  0.84211160  0.21821349  0.77630504  1
+  Y  Y2  1  0.37610289  0.15788840  0.77630504  1
+  Y  Y3  1  0.21821349  0.37610289  0.27630504  1
+  Y  Y4  1  0.15788840  0.78178651  0.27630504  1
+  Y  Y5  1  0.62389711  0.84211160  0.27630504  1
+  Al  Al6  1  0.66666700  0.33333300  0.34802314  1
+  Al  Al7  1  0.33333300  0.66666700  0.84802314  1
+  Ni  Ni8  1  0.00000000  0.00000000  0.94897466  1
+  Ni  Ni9  1  0.00000000  0.00000000  0.44897466  1
+  S  S10  1  0.47717485  0.56461531  0.00236440  1
+  S  S11  1  0.43538469  0.91255954  0.00236440  1
+  S  S12  1  0.08744046  0.52282515  0.00236440  1
+  S  S13  1  0.52282515  0.43538469  0.50236440  1
+  S  S14  1  0.56461531  0.08744046  0.50236440  1
+  S  S15  1  0.91255954  0.47717485  0.50236440  1
+  S  S16  1  0.89813667  0.13127271  0.18419270  1
+  S  S17  1  0.10186333  0.86872729  0.68419270  1
+  S  S18  1  0.13127271  0.23313704  0.68419270  1
+  S  S19  1  0.23313704  0.10186333  0.18419270  1
+  S  S20  1  0.66666700  0.33333300  0.98642377  1
+  S  S21  1  0.86872729  0.76686296  0.18419270  1
+  S  S22  1  0.76686296  0.89813667  0.68419270  1
+  S  S23  1  0.33333300  0.66666700  0.48642377  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CaVBiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02113414
+_cell_length_b   5.33964858
+_cell_length_c   7.50648858
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.25522406
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaVBiO6
+_chemical_formula_sum   'Ca2 V2 Bi2 O12'
+_cell_volume   272.75578530
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.74253596  0.74630189  0.94507274  1
+  Ca  Ca1  1  0.25746404  0.24630189  0.05492726  1
+  V  V2  1  0.21683537  0.70928826  0.78248397  1
+  V  V3  1  0.78316463  0.20928826  0.21751603  1
+  Bi  Bi4  1  0.39559313  0.23615606  0.56749188  1
+  Bi  Bi5  1  0.60440687  0.73615606  0.43250812  1
+  O  O6  1  0.76851243  0.54415912  0.24525669  1
+  O  O7  1  0.95625594  0.13707877  0.10373698  1
+  O  O8  1  0.65568746  0.47147697  0.65774145  1
+  O  O9  1  0.60135275  0.95131765  0.68061293  1
+  O  O10  1  0.04374406  0.63707877  0.89626302  1
+  O  O11  1  0.17984099  0.52582757  0.57996872  1
+  O  O12  1  0.82015901  0.02582757  0.42003128  1
+  O  O13  1  0.57829749  0.08485972  0.07775589  1
+  O  O14  1  0.23148757  0.04415912  0.75474331  1
+  O  O15  1  0.34431254  0.97147697  0.34225855  1
+  O  O16  1  0.39864725  0.45131765  0.31938707  1
+  O  O17  1  0.42170251  0.58485972  0.92224411  1

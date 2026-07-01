@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_InCoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11513380
+_cell_length_b   5.31235274
+_cell_length_c   7.41469129
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InCoO3
+_chemical_formula_sum   'In4 Co4 O12'
+_cell_volume   201.48233594
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.02131527  0.93774663  0.25000000  1
+  In  In1  1  0.47868473  0.43774663  0.25000000  1
+  In  In2  1  0.52131527  0.56225337  0.75000000  1
+  In  In3  1  0.97868473  0.06225337  0.75000000  1
+  Co  Co4  1  0.00000000  0.50000000  0.50000000  1
+  Co  Co5  1  0.00000000  0.50000000  0.00000000  1
+  Co  Co6  1  0.50000000  0.00000000  0.50000000  1
+  Co  Co7  1  0.50000000  0.00000000  0.00000000  1
+  O  O8  1  0.80149043  0.79746818  0.56365870  1
+  O  O9  1  0.69850957  0.29746818  0.56365870  1
+  O  O10  1  0.69850957  0.29746818  0.93634130  1
+  O  O11  1  0.61858557  0.04966227  0.25000000  1
+  O  O12  1  0.38141443  0.95033773  0.75000000  1
+  O  O13  1  0.19850957  0.20253182  0.06365870  1
+  O  O14  1  0.30149043  0.70253182  0.43634130  1
+  O  O15  1  0.19850957  0.20253182  0.43634130  1
+  O  O16  1  0.80149043  0.79746818  0.93634130  1
+  O  O17  1  0.11858557  0.45033773  0.75000000  1
+  O  O18  1  0.30149043  0.70253182  0.06365870  1
+  O  O19  1  0.88141443  0.54966227  0.25000000  1

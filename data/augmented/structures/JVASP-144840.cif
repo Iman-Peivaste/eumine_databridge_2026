@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba2AlCuF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35401073
+_cell_length_b   5.45780339
+_cell_length_c   9.15025364
+_cell_angle_alpha   89.97839636
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2AlCuF9
+_chemical_formula_sum   'Ba4 Al2 Cu2 F18'
+_cell_volume   367.26136842
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.65757397  0.24979605  0.94123168  1
+  Ba  Ba1  1  0.15757397  0.75020395  0.05876832  1
+  Ba  Ba2  1  0.38073482  0.75003564  0.58238918  1
+  Ba  Ba3  1  0.88073482  0.24996436  0.41761082  1
+  Al  Al4  1  0.36270705  0.25021723  0.32890630  1
+  Al  Al5  1  0.86270705  0.74978277  0.67109370  1
+  Cu  Cu6  1  0.67621601  0.75003934  0.23027044  1
+  Cu  Cu7  1  0.17621601  0.24996066  0.76972956  1
+  F  F8  1  0.88239918  0.74935245  0.86375167  1
+  F  F9  1  0.38239918  0.25064755  0.13624833  1
+  F  F10  1  0.04484694  0.98643164  0.65021813  1
+  F  F11  1  0.54484694  0.01356836  0.34978187  1
+  F  F12  1  0.85288931  0.74998940  0.46925684  1
+  F  F13  1  0.35288931  0.25001060  0.53074316  1
+  F  F14  1  0.02328732  0.24909502  0.94950723  1
+  F  F15  1  0.52328732  0.75090498  0.05049277  1
+  F  F16  1  0.84239085  0.50061483  0.16793169  1
+  F  F17  1  0.19475387  0.49107769  0.32923754  1
+  F  F18  1  0.34239085  0.49938517  0.83206831  1
+  F  F19  1  0.54480887  0.48685781  0.34986233  1
+  F  F20  1  0.69481919  0.99067775  0.67087406  1
+  F  F21  1  0.19481919  0.00932225  0.32912594  1
+  F  F22  1  0.34257261  0.00076572  0.83193329  1
+  F  F23  1  0.84257261  0.99923428  0.16806671  1
+  F  F24  1  0.69475387  0.50892231  0.67076246  1
+  F  F25  1  0.04480887  0.51314219  0.65013767  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba6Br2N3Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.07439545
+_cell_length_b   10.07439545
+_cell_length_c   9.17630821
+_cell_angle_alpha   69.14623450
+_cell_angle_beta   69.14623450
+_cell_angle_gamma   23.71485630
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6Br2N3Cl
+_chemical_formula_sum   'Ba6 Br2 N3 Cl1'
+_cell_volume   348.91056498
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.48691324  0.48691324  0.71988006  1
+  Ba  Ba1  1  0.15195291  0.15195291  0.38085695  1
+  Ba  Ba2  1  0.82052790  0.82052790  0.04924331  1
+  Ba  Ba3  1  0.51308365  0.51308365  0.28011325  1
+  Ba  Ba4  1  0.17946886  0.17946886  0.95075040  1
+  Ba  Ba5  1  0.84804415  0.84804415  0.61913608  1
+  Br  Br6  1  0.66700973  0.66700973  0.66542690  1
+  Br  Br7  1  0.33298660  0.33298660  0.33456487  1
+  N  N8  1  -0.00000173  -0.00000173  0.49999620  1
+  N  N9  1  0.66575640  0.66575640  0.16464320  1
+  N  N10  1  0.33424049  0.33424049  0.83535080  1
+  Cl  Cl11  1  -0.00000188  -0.00000188  -0.00000235  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Rb4CuSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11688689
+_cell_length_b   6.28918265
+_cell_length_c   7.52954718
+_cell_angle_alpha   112.50889299
+_cell_angle_beta   107.71483573
+_cell_angle_gamma   107.44418784
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4CuSi2O7
+_chemical_formula_sum   'Rb4 Cu1 Si2 O7'
+_cell_volume   261.30344649
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.63861724  0.40417112  0.72461156  1
+  Rb  Rb1  1  0.36138276  0.59582888  0.27538844  1
+  Rb  Rb2  1  0.76735148  0.28818754  0.22425021  1
+  Rb  Rb3  1  0.23264852  0.71181246  0.77574979  1
+  Cu  Cu4  1  0.00000000  -0.00000000  0.50000000  1
+  Si  Si5  1  0.14650448  0.00556586  0.22405016  1
+  Si  Si6  1  -0.14650448  -0.00556586  0.77594984  1
+  O  O7  1  0.38309128  0.03092770  0.23732445  1
+  O  O8  1  0.16806439  0.25088791  0.43652043  1
+  O  O9  1  0.83193561  0.74911209  0.56347957  1
+  O  O10  1  0.00891588  0.24776145  0.77189222  1
+  O  O11  1  -0.00891588  0.75223855  0.22810778  1
+  O  O12  1  0.61690872  -0.03092770  0.76267555  1
+  O  O13  1  0.00000000  0.00000000  0.00000000  1

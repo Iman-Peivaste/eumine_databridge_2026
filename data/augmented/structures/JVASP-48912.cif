@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg11Mn2O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.01820504
+_cell_length_b   19.84505002
+_cell_length_c   4.26693116
+_cell_angle_alpha   96.17157496
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   85.63877355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg11Mn2O13
+_chemical_formula_sum   'Mg11 Mn2 O13'
+_cell_volume   253.34838856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.92179103  0.15641894  0.07820897  1
+  Mg  Mg1  1  0.61477168  0.77045564  0.38522832  1
+  Mg  Mg2  1  0.53880823  0.92238554  0.46119177  1
+  Mg  Mg3  1  0.77051697  0.45896606  0.22948303  1
+  Mg  Mg4  1  0.84615400  0.30769200  0.15384600  1
+  Mg  Mg5  1  0.38415073  0.23169853  0.61584927  1
+  Mg  Mg6  1  0.46028462  0.07943076  0.53971538  1
+  Mg  Mg7  1  0.30815727  0.38368647  0.69184273  1
+  Mg  Mg8  1  0.23202338  0.53595424  0.76797662  1
+  Mg  Mg9  1  0.15349977  0.69299946  0.84650023  1
+  Mg  Mg10  1  0.07753532  0.84492936  0.92246468  1
+  Mn  Mn11  1  0.99963502  0.00072997  0.00036498  1
+  Mn  Mn12  1  0.69267298  0.61465403  0.30732702  1
+  O  O13  1  0.61565871  0.76868158  0.88434129  1
+  O  O14  1  0.45864412  0.08271177  0.04135588  1
+  O  O15  1  0.30837803  0.38324594  0.19162197  1
+  O  O16  1  0.38392997  0.23213906  0.11607003  1
+  O  O17  1  0.23366388  0.53267323  0.26633612  1
+  O  O18  1  0.15165181  0.69669738  0.34834819  1
+  O  O19  1  0.07664829  0.84670242  0.42335171  1
+  O  O20  1  0.76998733  0.46002434  0.73001267  1
+  O  O21  1  0.92232067  0.15536066  0.57767933  1
+  O  O22  1  0.84615400  0.30769200  0.65384600  1
+  O  O23  1  0.69276928  0.61446044  0.80723072  1
+  O  O24  1  0.99953872  0.00092456  0.50046128  1
+  O  O25  1  0.54065519  0.91868762  0.95934481  1

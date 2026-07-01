@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Sr2Ti6N2O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84956719
+_cell_length_b   7.75380497
+_cell_length_c   9.31836297
+_cell_angle_alpha   98.91460802
+_cell_angle_beta   89.99965256
+_cell_angle_gamma   104.37429319
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Ti6N2O11
+_chemical_formula_sum   'Sr2 Ti6 N2 O11'
+_cell_volume   265.96480586
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.45961736  0.91642647  0.21145882  1
+  Sr  Sr1  1  0.55351329  0.10422238  0.75336635  1
+  Ti  Ti2  1  0.87835133  0.75387248  0.90000293  1
+  Ti  Ti3  1  0.83555978  0.66831937  0.57183717  1
+  Ti  Ti4  1  0.76875450  0.53472996  0.23750334  1
+  Ti  Ti5  1  0.23754839  0.47230504  0.76837188  1
+  Ti  Ti6  1  0.16572530  0.32865931  0.43354257  1
+  Ti  Ti7  1  0.12344186  0.24411046  0.07889581  1
+  N  N8  1  0.76753153  0.53226916  0.75197677  1
+  N  N9  1  0.15982045  0.31687572  0.90221899  1
+  O  O10  1  0.12793562  0.25307916  0.61232818  1
+  O  O11  1  0.63763485  0.27249350  0.12432553  1
+  O  O12  1  0.70237670  0.40195763  0.42911435  1
+  O  O13  1  0.24064298  0.47849897  0.24475298  1
+  O  O14  1  0.93895408  0.87510178  0.71100621  1
+  O  O15  1  0.36740758  0.73200720  0.89705635  1
+  O  O16  1  0.83552782  0.66823643  0.09174618  1
+  O  O17  1  0.87348356  0.74421295  0.38234684  1
+  O  O18  1  0.06371622  0.12462425  0.30706896  1
+  O  O19  1  0.30599880  0.60920068  0.56625101  1
+  O  O20  1  -0.00086901  0.99547710  0.01298878  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_RbCuTeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.57013086
+_cell_length_b   7.38626313
+_cell_length_c   8.08321492
+_cell_angle_alpha   74.08570826
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCuTeS3
+_chemical_formula_sum   'Rb4 Cu4 Te4 S12'
+_cell_volume   606.89933633
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.23984708  0.47445571  0.88338327  1
+  Rb  Rb1  1  0.76015292  0.52554429  0.11661673  1
+  Rb  Rb2  1  0.73984708  0.52554429  0.61661673  1
+  Rb  Rb3  1  0.26015292  0.47445571  0.38338327  1
+  Cu  Cu4  1  0.24950735  0.91466065  0.52033632  1
+  Cu  Cu5  1  0.75049265  0.08533935  0.47966368  1
+  Cu  Cu6  1  0.74950735  0.08533935  0.97966368  1
+  Cu  Cu7  1  0.25049265  0.91466065  0.02033632  1
+  Te  Te8  1  0.99917150  0.06392731  0.73293584  1
+  Te  Te9  1  0.00082850  0.93607269  0.26706416  1
+  Te  Te10  1  0.49917150  0.93607269  0.76706416  1
+  Te  Te11  1  0.50082850  0.06392731  0.23293584  1
+  S  S12  1  0.93811632  0.26325939  0.91480493  1
+  S  S13  1  0.06020131  0.73854180  0.54860485  1
+  S  S14  1  0.93979869  0.26145820  0.45139515  1
+  S  S15  1  0.56020131  0.26145820  0.95139515  1
+  S  S16  1  0.43979869  0.73854180  0.04860485  1
+  S  S17  1  0.72992108  0.89297686  0.77618084  1
+  S  S18  1  0.27007892  0.10702314  0.22381916  1
+  S  S19  1  0.22992108  0.10702314  0.72381916  1
+  S  S20  1  0.77007892  0.89297686  0.27618084  1
+  S  S21  1  0.43811632  0.73674061  0.58519507  1
+  S  S22  1  0.56188368  0.26325939  0.41480493  1
+  S  S23  1  0.06188368  0.73674061  0.08519507  1

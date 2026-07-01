@@ -112,7 +112,7 @@ class LISTEuMINePredictor(MatFedPredictor):
     """
 
     API_VERSION = "1.0"
-    MODEL_VERSION = "v2_fullretrain"
+    MODEL_VERSION = "v4_combined"
     TEAM_NAME = "CataLIST"
 
     def __init__(self) -> None:
@@ -125,7 +125,10 @@ class LISTEuMINePredictor(MatFedPredictor):
         self._model_base: Optional[Path] = None
         self._performance: Dict = {}
 
-        model_path = os.environ.get("MATFED_MODEL_PATH")
+        model_path = os.environ.get(
+            "MATFED_MODEL_PATH",
+            str(_PROJECT_ROOT / "models" / "combined_retrain"),
+        )
         if model_path:
             self.load_model(model_path)
 
@@ -169,7 +172,9 @@ class LISTEuMINePredictor(MatFedPredictor):
         self._calibrator.load(paths["calibration_dir"])
         print("  Calibration layer loaded")
 
-        if (self._model_base / "alignn_ef_full").exists():
+        if (self._model_base / "alignn_ef_combined").exists():
+            self.MODEL_VERSION = "v4_combined"
+        elif (self._model_base / "alignn_ef_full").exists():
             self.MODEL_VERSION = "v2_fullretrain"
         else:
             self.MODEL_VERSION = "v1_ensemble"
@@ -246,7 +251,7 @@ class LISTEuMINePredictor(MatFedPredictor):
             ],
             "architecture": {
                 "alignn_layers_ef": 4,
-                "alignn_layers_bg": 6,
+                "alignn_layers_bg": 8,
                 "gcn_layers": 4,
                 "hidden_features": 256,
                 "mace_model": "medium",
@@ -254,12 +259,15 @@ class LISTEuMINePredictor(MatFedPredictor):
                 "calibration": "isotonic_regression",
             },
             "training": {
-                "n_train_structures": 850,
+                "n_train_structures": 14287,
                 "cv_folds": 5,
                 "pretrained_from": (
                     "JARVIS-DFT (ALIGNN), Materials Project (MACE)"
                 ),
-                "fine_tuned_on": "EuMINe Bridge Dataset",
+                "fine_tuned_on": (
+                    "EuMINe Bridge Dataset + augmented "
+                    "(semiconductors, layered/2D, rare-earth)"
+                ),
             },
             "performance": perf,
             "uncertainty_available": True,

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Dy6Mn(SiS7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.69802435
+_cell_length_b   9.69802435
+_cell_length_c   5.75178590
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000246
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy6Mn(SiS7)2
+_chemical_formula_sum   'Dy6 Mn1 Si2 S14'
+_cell_volume   468.48951202
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.97504479  0.44624328  0.73756591  1
+  Dy  Dy1  1  0.47119850  0.02495521  0.73756591  1
+  Dy  Dy2  1  0.55375672  0.52880150  0.73756591  1
+  Dy  Dy3  1  0.68938325  0.88537717  0.23731533  1
+  Dy  Dy4  1  0.19599492  0.31061675  0.23731533  1
+  Dy  Dy5  1  0.11462283  0.80400508  0.23731533  1
+  Mn  Mn6  1  0.33333333  0.66666667  0.54243592  1
+  Si  Si7  1  0.66666667  0.33333333  0.16026928  1
+  Si  Si8  1  0.00000000  0.00000000  0.65093446  1
+  S  S9  1  0.85803685  0.76751322  0.50357732  1
+  S  S10  1  0.43387447  0.24429506  0.01343227  1
+  S  S11  1  0.75570494  0.18957940  0.01343227  1
+  S  S12  1  0.81042060  0.56612553  0.01343227  1
+  S  S13  1  0.18266621  0.76024651  0.76647401  1
+  S  S14  1  0.23975349  0.42241970  0.76647401  1
+  S  S15  1  0.09480071  0.52308158  0.30255270  1
+  S  S16  1  0.47691842  0.57171913  0.30255270  1
+  S  S17  1  0.42828087  0.90519929  0.30255270  1
+  S  S18  1  0.90947736  0.14196315  0.50357732  1
+  S  S19  1  0.00000000  0.00000000  0.01943808  1
+  S  S20  1  0.66666667  0.33333333  0.52820563  1
+  S  S21  1  0.57758030  0.81733379  0.76647401  1
+  S  S22  1  0.23248678  0.09052264  0.50357732  1

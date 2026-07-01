@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sb4Br2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18182860
+_cell_length_b   6.63589139
+_cell_length_c   13.65693818
+_cell_angle_alpha   97.22111733
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sb4Br2O5
+_chemical_formula_sum   'Sb8 Br4 O10'
+_cell_volume   465.88345893
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.77822733  0.82087839  0.94839653  1
+  Sb  Sb1  1  0.27822733  0.17912161  0.55160347  1
+  Sb  Sb2  1  0.22177267  0.17912161  0.05160347  1
+  Sb  Sb3  1  0.72177267  0.82087839  0.44839653  1
+  Sb  Sb4  1  0.87604544  0.19556831  0.79789233  1
+  Sb  Sb5  1  0.37604544  0.80443169  0.70210767  1
+  Sb  Sb6  1  0.12395456  0.80443169  0.20210767  1
+  Sb  Sb7  1  0.62395456  0.19556831  0.29789233  1
+  Br  Br8  1  0.79139945  0.50328177  0.61793200  1
+  Br  Br9  1  0.29139945  0.49671823  0.88206800  1
+  Br  Br10  1  0.20860055  0.49671823  0.38206800  1
+  Br  Br11  1  0.70860055  0.50328177  0.11793200  1
+  O  O12  1  0.16256895  0.07503630  0.70986460  1
+  O  O13  1  0.33743105  0.07503630  0.20986460  1
+  O  O14  1  0.83743105  0.92496370  0.29013540  1
+  O  O15  1  0.99345657  0.93199679  0.08253866  1
+  O  O16  1  0.49345657  0.06800321  0.41746134  1
+  O  O17  1  0.00654343  0.06800321  0.91746134  1
+  O  O18  1  0.50654343  0.93199679  0.58253866  1
+  O  O19  1  0.50000000  0.00000000  0.00000000  1
+  O  O20  1  0.00000000  0.00000000  0.50000000  1
+  O  O21  1  0.66256895  0.92496370  0.79013540  1

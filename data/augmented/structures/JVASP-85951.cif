@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Pr2Ta2Cl2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95730595
+_cell_length_b   6.97753510
+_cell_length_c   8.00126901
+_cell_angle_alpha   112.89402543
+_cell_angle_beta   104.31717121
+_cell_angle_gamma   90.00004124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Ta2Cl2O7
+_chemical_formula_sum   'Pr2 Ta2 Cl2 O7'
+_cell_volume   196.05919764
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.30859553  0.83378419  0.61718883  1
+  Pr  Pr1  1  0.69140447  0.16621581  0.38281117  1
+  Ta  Ta2  1  0.96568649  0.20271291  0.93138330  1
+  Ta  Ta3  1  0.03431351  0.79728709  0.06861670  1
+  Cl  Cl4  1  0.67716909  0.56641452  0.35433477  1
+  Cl  Cl5  1  0.32283091  0.43358548  0.64566523  1
+  O  O6  1  0.45649798  0.16550784  0.91299720  1
+  O  O7  1  0.54350202  0.83449216  0.08700280  1
+  O  O8  1  0.91870990  0.84780246  0.83741980  1
+  O  O9  1  0.00000000  0.50000000  0.00000000  1
+  O  O10  1  0.82605357  0.07155223  0.65211020  1
+  O  O11  1  0.08129010  0.15219754  0.16258020  1
+  O  O12  1  0.17394643  0.92844777  0.34788980  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbNbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14665876
+_cell_length_b   5.35481881
+_cell_length_c   6.59313028
+_cell_angle_alpha   112.11735997
+_cell_angle_beta   111.07086346
+_cell_angle_gamma   94.34729233
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbNbO4
+_chemical_formula_sum   'Tb2 Nb2 O8'
+_cell_volume   152.31865780
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.87864818  0.12864818  0.75729736  1
+  Tb  Tb1  1  0.12135182  0.87135182  0.24270264  1
+  Nb  Nb2  1  0.35681189  0.60681189  0.71362477  1
+  Nb  Nb3  1  0.64318811  0.39318811  0.28637523  1
+  O  O4  1  0.28922284  0.12871922  0.07736577  1
+  O  O5  1  0.78814293  0.44864655  0.07736577  1
+  O  O6  1  0.71077716  0.87128078  0.92263523  1
+  O  O7  1  0.21185707  0.55135345  0.92263523  1
+  O  O8  1  0.50997167  0.71613230  0.43672075  1
+  O  O9  1  0.92674908  0.22058844  0.43672075  1
+  O  O10  1  0.49002833  0.28386770  0.56327925  1
+  O  O11  1  0.07325092  0.77941156  0.56327925  1

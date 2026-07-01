@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaSrNiWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67928558
+_cell_length_b   5.67928160
+_cell_length_c   9.83673102
+_cell_angle_alpha   73.22074185
+_cell_angle_beta   89.99954208
+_cell_angle_gamma   59.99993335
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrNiWO6
+_chemical_formula_sum   'Ba2 Sr2 Ni2 W2 O12'
+_cell_volume   259.05429967
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.12499940  0.75000077  0.37500013  1
+  Ba  Ba1  1  0.62500044  0.75000140  0.87500044  1
+  Sr  Sr2  1  0.37499880  0.25000091  0.12499984  1
+  Sr  Sr3  1  0.87500112  0.25000015  0.62500079  1
+  Ni  Ni4  1  0.25000172  0.50000218  0.74999986  1
+  Ni  Ni5  1  0.74999886  0.49999824  0.25000112  1
+  W  W6  1  0.50000027  0.00000000  0.50000140  1
+  W  W7  1  -0.00000014  0.00000063  -0.00000111  1
+  O  O8  1  0.37904362  0.24191216  0.62095719  1
+  O  O9  1  0.87904443  0.24191216  0.12095610  1
+  O  O10  1  0.37904476  0.75808694  0.62095719  1
+  O  O11  1  0.87904477  0.75808527  0.12095532  1
+  O  O12  1  0.12095632  0.75808775  0.87904232  1
+  O  O13  1  0.63713010  0.24191408  0.87904269  1
+  O  O14  1  0.12095536  0.24191442  0.87904223  1
+  O  O15  1  0.62095535  0.24191287  0.37904333  1
+  O  O16  1  0.36287012  0.75808516  0.12095554  1
+  O  O17  1  0.13713176  0.24191304  0.37904292  1
+  O  O18  1  0.62095703  0.75808661  0.37904427  1
+  O  O19  1  0.86286893  0.75808626  0.62095740  1

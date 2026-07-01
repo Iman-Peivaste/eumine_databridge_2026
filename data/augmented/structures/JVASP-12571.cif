@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HgHOF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97750811
+_cell_length_b   6.04203100
+_cell_length_c   6.97463973
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgHOF
+_chemical_formula_sum   'Hg4 H4 O4 F4'
+_cell_volume   209.75711672
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.25419492  0.49328717  0.14076093  1
+  Hg  Hg1  1  0.75419492  0.00671283  0.85923907  1
+  Hg  Hg2  1  0.74580508  -0.00671283  0.35923907  1
+  Hg  Hg3  1  0.24580508  0.50671283  0.64076093  1
+  H  H4  1  0.64375140  0.50916173  0.39413099  1
+  H  H5  1  0.14375140  0.99083827  0.60586901  1
+  H  H6  1  0.35624860  0.00916173  0.10586901  1
+  H  H7  1  0.85624860  0.49083827  0.89413099  1
+  O  O8  1  0.46592381  0.59821826  0.39065716  1
+  O  O9  1  0.03407619  0.40178174  0.89065716  1
+  O  O10  1  0.53407619  0.09821826  0.10934284  1
+  O  O11  1  0.96592381  0.90178174  0.60934284  1
+  F  F12  1  0.39934639  0.10799435  0.60830235  1
+  F  F13  1  0.60065361  0.60799435  0.89169765  1
+  F  F14  1  0.89934639  0.39200565  0.39169765  1
+  F  F15  1  0.10065361  0.89200565  0.10830235  1

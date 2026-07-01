@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KPuCO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09587035
+_cell_length_b   5.09587035
+_cell_length_c   9.77113770
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00243003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KPuCO5
+_chemical_formula_sum   'K2 Pu2 C2 O10'
+_cell_volume   219.73633182
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  K  K1  1  0.00000000  0.00000000  0.50000000  1
+  Pu  Pu2  1  0.33333540  0.66666460  0.25000000  1
+  Pu  Pu3  1  0.66666460  0.33333540  0.75000000  1
+  C  C4  1  0.66666471  0.33333529  0.25000000  1
+  C  C5  1  0.33333529  0.66666471  0.75000000  1
+  O  O6  1  0.81340326  0.62679357  0.25000000  1
+  O  O7  1  0.37320643  0.18659674  0.25000000  1
+  O  O8  1  0.81338876  0.18661124  0.25000000  1
+  O  O9  1  0.18659674  0.37320643  0.75000000  1
+  O  O10  1  0.62679357  0.81340326  0.75000000  1
+  O  O11  1  0.18661124  0.81338876  0.75000000  1
+  O  O12  1  0.33333365  0.66666635  0.43779062  1
+  O  O13  1  0.66666635  0.33333365  0.93779062  1
+  O  O14  1  0.66666635  0.33333365  0.56220938  1
+  O  O15  1  0.33333365  0.66666635  0.06220938  1

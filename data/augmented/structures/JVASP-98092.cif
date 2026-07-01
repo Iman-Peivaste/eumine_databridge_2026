@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tl3SiTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.55351782
+_cell_length_b   9.78732422
+_cell_length_c   10.59224305
+_cell_angle_alpha   89.04120927
+_cell_angle_beta   83.44642286
+_cell_angle_gamma   79.03476121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl3SiTe3
+_chemical_formula_sum   'Tl12 Si4 Te12'
+_cell_volume   965.96214348
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.09816973  0.96209255  0.64641750  1
+  Tl  Tl1  1  0.48660658  0.61867437  0.64544243  1
+  Tl  Tl2  1  0.19622005  0.15056975  0.15803039  1
+  Tl  Tl3  1  0.64173819  0.22053524  0.91623362  1
+  Tl  Tl4  1  0.80377995  0.84943025  0.84196961  1
+  Tl  Tl5  1  0.68336000  0.71238683  0.23900094  1
+  Tl  Tl6  1  0.09813218  0.56854951  0.34450422  1
+  Tl  Tl7  1  0.35826181  0.77946476  0.08376638  1
+  Tl  Tl8  1  0.31664000  0.28761317  0.76099906  1
+  Tl  Tl9  1  0.90186782  0.43145049  0.65549578  1
+  Tl  Tl10  1  0.51339342  0.38132563  0.35455757  1
+  Tl  Tl11  1  0.90183027  0.03790745  0.35358250  1
+  Si  Si12  1  0.57486080  0.98204922  0.58226014  1
+  Si  Si13  1  0.42513920  0.01795078  0.41773986  1
+  Si  Si14  1  0.08778633  0.57080460  0.98519864  1
+  Si  Si15  1  0.91221367  0.42919540  0.01480136  1
+  Te  Te16  1  0.31187692  0.44268468  0.07730638  1
+  Te  Te17  1  0.31875609  0.79807063  0.40638776  1
+  Te  Te18  1  0.12735131  0.61954927  0.74818036  1
+  Te  Te19  1  0.22163341  0.22593899  0.47299671  1
+  Te  Te20  1  0.00285022  0.20173393  0.89482883  1
+  Te  Te21  1  0.77836659  0.77406101  0.52700329  1
+  Te  Te22  1  0.68124391  0.20192937  0.59361224  1
+  Te  Te23  1  0.58030839  0.06741784  0.21672984  1
+  Te  Te24  1  0.68812308  0.55731532  0.92269362  1
+  Te  Te25  1  0.87264869  0.38045073  0.25181964  1
+  Te  Te26  1  0.41969161  0.93258216  0.78327016  1
+  Te  Te27  1  0.99714978  0.79826607  0.10517117  1

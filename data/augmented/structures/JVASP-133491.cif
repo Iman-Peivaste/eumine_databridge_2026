@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ca2Ga2GeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93308726
+_cell_length_b   5.22068079
+_cell_length_c   7.96469591
+_cell_angle_alpha   88.57428091
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Ga2GeO7
+_chemical_formula_sum   'Ca4 Ga4 Ge2 O14'
+_cell_volume   329.76465257
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.64970557  0.47464763  0.56931925  1
+  Ca  Ca1  1  0.14970557  0.52535237  0.43068075  1
+  Ca  Ca2  1  0.33462250  0.49756242  0.89488079  1
+  Ca  Ca3  1  0.83462250  0.50243758  0.10511921  1
+  Ga  Ga4  1  0.50138828  -0.00461358  0.24405226  1
+  Ga  Ga5  1  0.00138828  0.00461358  0.75594774  1
+  Ga  Ga6  1  0.85688394  0.02943478  0.39728603  1
+  Ga  Ga7  1  0.35688394  0.97056522  0.60271397  1
+  Ge  Ge8  1  0.14598181  0.04700036  0.10739502  1
+  Ge  Ge9  1  0.64598181  0.95299964  0.89260498  1
+  O  O10  1  0.16707797  0.78771136  0.68043972  1
+  O  O11  1  0.66707797  0.21228864  0.31956028  1
+  O  O12  1  0.89936283  0.20602457  0.59338676  1
+  O  O13  1  0.39936283  0.79397543  0.40661324  1
+  O  O14  1  0.08031483  0.22348550  0.92091791  1
+  O  O15  1  0.58031483  0.77651450  0.07908209  1
+  O  O16  1  0.02087505  0.19977518  0.26266462  1
+  O  O17  1  0.14122282  0.71340089  0.10968341  1
+  O  O18  1  0.35761149  0.31531700  0.61100667  1
+  O  O19  1  0.85761149  0.68468300  0.38899333  1
+  O  O20  1  0.34495290  0.20239356  0.13123683  1
+  O  O21  1  0.52087505  0.80022482  0.73733538  1
+  O  O22  1  0.64122282  0.28659911  0.89031659  1
+  O  O23  1  0.84495290  0.79760644  0.86876317  1

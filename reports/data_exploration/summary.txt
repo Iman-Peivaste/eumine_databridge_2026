@@ -1,0 +1,4 @@
+Bridge Dataset summary
+Train: 700 | Val: 150 | Test: 150 (labels hidden)
+Mean |MP−JARVIS| EF: 0.1338 eV/atom
+Mean |MP−JARVIS| BG: 0.1796 eV

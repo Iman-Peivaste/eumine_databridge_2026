@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca5(SiN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90079462
+_cell_length_b   5.90079462
+_cell_length_c   12.01750337
+_cell_angle_alpha   94.83199769
+_cell_angle_beta   94.83199769
+_cell_angle_gamma   115.99521250
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5(SiN3)2
+_chemical_formula_sum   'Ca10 Si4 N12'
+_cell_volume   371.32710704
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.72989216  0.37937143  0.26143870  1
+  Ca  Ca1  1  0.37937143  0.72989216  0.26143870  1
+  Ca  Ca2  1  0.27010784  0.62062857  0.73856130  1
+  Ca  Ca3  1  0.62062857  0.27010784  0.73856130  1
+  Ca  Ca4  1  0.08997936  0.08997936  0.20705557  1
+  Ca  Ca5  1  0.91002064  0.91002064  0.79294443  1
+  Ca  Ca6  1  0.81199533  0.18800467  0.50000000  1
+  Ca  Ca7  1  0.18800467  0.81199533  0.50000000  1
+  Ca  Ca8  1  0.75879623  0.24120377  0.00000000  1
+  Ca  Ca9  1  0.24120377  0.75879623  0.00000000  1
+  Si  Si10  1  0.32340905  0.32340905  0.93117144  1
+  Si  Si11  1  0.67659095  0.67659095  0.06882856  1
+  Si  Si12  1  0.34903729  0.34903729  0.42514091  1
+  Si  Si13  1  0.65096271  0.65096271  0.57485909  1
+  N  N14  1  0.35629449  0.35629449  0.57486269  1
+  N  N15  1  0.09366153  0.38835976  0.36212045  1
+  N  N16  1  0.38835976  0.09366153  0.36212045  1
+  N  N17  1  0.90633847  0.61164024  0.63787955  1
+  N  N18  1  0.61164024  0.90633847  0.63787955  1
+  N  N19  1  0.94741665  0.65731996  0.12739424  1
+  N  N20  1  0.65731996  0.94741665  0.12739424  1
+  N  N21  1  0.05258335  0.34268004  0.87260576  1
+  N  N22  1  0.34268004  0.05258335  0.87260576  1
+  N  N23  1  0.39018239  0.39018239  0.08516103  1
+  N  N24  1  0.60981761  0.60981761  0.91483897  1
+  N  N25  1  0.64370551  0.64370551  0.42513731  1

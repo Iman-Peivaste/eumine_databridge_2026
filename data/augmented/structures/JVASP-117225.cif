@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_BaSrSi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59553364
+_cell_length_b   8.97586427
+_cell_length_c   11.28180763
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrSi4
+_chemical_formula_sum   'Ba4 Sr4 Si16'
+_cell_volume   667.88994734
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.02004446  0.31196004  1
+  Ba  Ba1  1  0.25000000  0.52004446  0.18803996  1
+  Ba  Ba2  1  0.75000000  0.97995554  0.68803996  1
+  Ba  Ba3  1  0.75000000  0.47995554  0.81196004  1
+  Sr  Sr4  1  0.25000000  0.85033071  0.90590888  1
+  Sr  Sr5  1  0.25000000  0.35033071  0.59409112  1
+  Sr  Sr6  1  0.75000000  0.14966929  0.09409112  1
+  Sr  Sr7  1  0.75000000  0.64966929  0.40590888  1
+  Si  Si8  1  0.56688644  0.31337900  0.35379135  1
+  Si  Si9  1  0.93311356  0.81337900  0.14620865  1
+  Si  Si10  1  0.93311356  0.31337900  0.35379135  1
+  Si  Si11  1  0.56688644  0.81337900  0.14620865  1
+  Si  Si12  1  0.43311356  0.68662100  0.64620865  1
+  Si  Si13  1  0.06688644  0.18662100  0.85379135  1
+  Si  Si14  1  0.75000000  0.08778913  0.40407982  1
+  Si  Si15  1  0.75000000  0.30271405  0.53921975  1
+  Si  Si16  1  0.25000000  0.91221087  0.59592018  1
+  Si  Si17  1  0.25000000  0.41221087  0.90407982  1
+  Si  Si18  1  0.43311356  0.18662100  0.85379135  1
+  Si  Si19  1  0.75000000  0.80271405  0.96078025  1
+  Si  Si20  1  0.25000000  0.69728595  0.46078025  1
+  Si  Si21  1  0.25000000  0.19728595  0.03921975  1
+  Si  Si22  1  0.75000000  0.58778913  0.09592018  1
+  Si  Si23  1  0.06688644  0.68662100  0.64620865  1

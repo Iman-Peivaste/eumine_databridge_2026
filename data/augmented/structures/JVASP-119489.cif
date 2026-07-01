@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaHoTi2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29131340
+_cell_length_b   5.51400710
+_cell_length_c   7.58620720
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHoTi2O6
+_chemical_formula_sum   'Na2 Ho2 Ti4 O12'
+_cell_volume   221.33775802
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49485612  0.71437121  0.50000000  1
+  Na  Na1  1  0.99485612  0.28562879  0.00000000  1
+  Ho  Ho2  1  0.01660037  0.17717760  0.50000000  1
+  Ho  Ho3  1  0.51660037  0.82282240  0.00000000  1
+  Ti  Ti4  1  0.51190903  0.26530869  0.75245579  1
+  Ti  Ti5  1  0.01190903  0.73469131  0.25245579  1
+  Ti  Ti6  1  0.51190903  0.26530869  0.24754421  1
+  Ti  Ti7  1  0.01190903  0.73469131  0.74754421  1
+  O  O8  1  0.60260131  0.27736506  0.50000000  1
+  O  O9  1  0.91942123  0.77416083  0.50000000  1
+  O  O10  1  0.28282636  0.96043311  0.70863752  1
+  O  O11  1  0.18852509  0.44242944  0.30339648  1
+  O  O12  1  0.68852509  0.55757056  0.19660352  1
+  O  O13  1  0.28282636  0.96043311  0.29136248  1
+  O  O14  1  0.68852509  0.55757056  0.80339648  1
+  O  O15  1  0.78282636  0.03956689  0.20863752  1
+  O  O16  1  0.10260131  0.72263494  0.00000000  1
+  O  O17  1  0.18852509  0.44242944  0.69660352  1
+  O  O18  1  0.78282636  0.03956689  0.79136248  1
+  O  O19  1  0.41942123  0.22583917  0.00000000  1

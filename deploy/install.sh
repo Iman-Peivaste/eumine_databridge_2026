@@ -36,7 +36,7 @@ fi
 
 echo "[4/4] Running health check..."
 conda run -n catallist_stage2 python "$SCRIPT_DIR/verify.py" \
-    --model_path "$REPO_ROOT/models/full_retrain"
+    --model_path "$REPO_ROOT/models/combined_retrain"
 
 echo ""
 echo "================================================"

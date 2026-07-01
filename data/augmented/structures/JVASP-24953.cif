@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KNaGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80182202
+_cell_length_b   6.90716304
+_cell_length_c   10.73645287
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaGeO3
+_chemical_formula_sum   'K4 Na4 Ge4 O12'
+_cell_volume   356.09558424
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.52508804  0.88600252  0.73580731  1
+  K  K1  1  0.52508804  0.38600252  0.76419269  1
+  K  K2  1  0.02508804  0.61399748  0.23580731  1
+  K  K3  1  0.02508804  0.11399748  0.26419269  1
+  Na  Na4  1  0.53945539  0.87853368  0.41710133  1
+  Na  Na5  1  0.03945539  0.62146632  0.91710133  1
+  Na  Na6  1  0.53945539  0.37853368  0.08289867  1
+  Na  Na7  1  0.03945539  0.12146632  0.58289867  1
+  Ge  Ge8  1  0.00124365  0.13193885  0.95027848  1
+  Ge  Ge9  1  0.50124365  0.86806115  0.04972152  1
+  Ge  Ge10  1  0.50124365  0.36806115  0.45027848  1
+  Ge  Ge11  1  0.00124365  0.63193885  0.54972152  1
+  O  O12  1  0.05772042  0.83938797  0.45813485  1
+  O  O13  1  0.12281553  0.91360261  0.03177801  1
+  O  O14  1  0.55772042  0.16061203  0.54186515  1
+  O  O15  1  0.56837696  0.86045035  0.20825405  1
+  O  O16  1  0.62281553  0.58639739  0.53177801  1
+  O  O17  1  0.12281553  0.41360261  0.46822199  1
+  O  O18  1  0.06837696  0.63954965  0.70825405  1
+  O  O19  1  0.62281553  0.08639739  0.96822199  1
+  O  O20  1  0.05772042  0.33938797  0.04186515  1
+  O  O21  1  0.55772042  0.66061203  0.95813485  1
+  O  O22  1  0.56837696  0.36045035  0.29174595  1
+  O  O23  1  0.06837696  0.13954965  0.79174595  1

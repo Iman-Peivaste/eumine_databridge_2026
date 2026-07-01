@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na2SnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15291937
+_cell_length_b   6.65742146
+_cell_length_c   9.65558468
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SnO2
+_chemical_formula_sum   'Na8 Sn4 O8'
+_cell_volume   331.23633888
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00614651  0.62352570  0.42257415  1
+  Na  Na1  1  0.00862317  0.12886235  0.75930475  1
+  Na  Na2  1  0.49137683  0.87113765  0.25930475  1
+  Na  Na3  1  0.50614651  0.37647430  0.92257415  1
+  Na  Na4  1  0.49385349  0.87647430  0.57742585  1
+  Na  Na5  1  0.50862317  0.37113765  0.24069525  1
+  Na  Na6  1  0.99137683  0.62886235  0.74069525  1
+  Na  Na7  1  0.00614651  0.12352570  0.07742585  1
+  Sn  Sn8  1  0.01502580  0.60156911  0.07406866  1
+  Sn  Sn9  1  0.48497420  0.39843089  0.57406866  1
+  Sn  Sn10  1  0.51502580  0.89843089  0.92593134  1
+  Sn  Sn11  1  -0.01502580  0.10156911  0.42593134  1
+  O  O12  1  0.00139430  0.89175625  0.58021994  1
+  O  O13  1  0.07776214  0.34318633  0.55756814  1
+  O  O14  1  0.42223786  0.65681367  0.05756814  1
+  O  O15  1  0.49860570  0.10824375  0.08021994  1
+  O  O16  1  0.50139430  0.60824375  0.41978006  1
+  O  O17  1  0.57776214  0.15681367  0.44243186  1
+  O  O18  1  0.92223786  0.84318633  0.94243186  1
+  O  O19  1  0.99860570  0.39175625  0.91978006  1

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Ba6Mn2Zn(ClF2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.12618510
+_cell_length_b   10.12618510
+_cell_length_c   5.86084668
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000296
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6Mn2Zn(ClF2)6
+_chemical_formula_sum   'Ba6 Mn2 Zn1 Cl6 F12'
+_cell_volume   520.45442130
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.40244479  0.09192355  0.74766608  1
+  Ba  Ba1  1  0.68947977  0.59755521  0.74766608  1
+  Ba  Ba2  1  0.90807645  0.31052023  0.74766608  1
+  Ba  Ba3  1  0.59755521  0.90807645  0.25233392  1
+  Ba  Ba4  1  0.31052023  0.40244479  0.25233392  1
+  Ba  Ba5  1  0.09192355  0.68947977  0.25233392  1
+  Mn  Mn6  1  0.66666667  0.33333333  0.24746622  1
+  Mn  Mn7  1  0.33333333  0.66666667  0.75253378  1
+  Zn  Zn8  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl9  1  0.05002247  0.82395129  0.76279264  1
+  Cl  Cl10  1  0.77392882  0.94997753  0.76279264  1
+  Cl  Cl11  1  0.17604871  0.22607118  0.76279264  1
+  Cl  Cl12  1  0.82395129  0.77392882  0.23720736  1
+  Cl  Cl13  1  0.22607118  0.05002247  0.23720736  1
+  Cl  Cl14  1  0.94997753  0.17604871  0.23720736  1
+  F  F15  1  0.83828691  0.48266881  0.48566366  1
+  F  F16  1  0.51997500  0.35908496  0.01270559  1
+  F  F17  1  0.83910996  0.48002500  0.01270559  1
+  F  F18  1  0.64091504  0.16089004  0.01270559  1
+  F  F19  1  0.48266881  0.64438189  0.51433634  1
+  F  F20  1  0.16171309  0.51733119  0.51433634  1
+  F  F21  1  0.35561811  0.83828691  0.51433634  1
+  F  F22  1  0.48002500  0.64091504  0.98729441  1
+  F  F23  1  0.16089004  0.51997500  0.98729441  1
+  F  F24  1  0.35908496  0.83910996  0.98729441  1
+  F  F25  1  0.51733119  0.35561811  0.48566366  1
+  F  F26  1  0.64438189  0.16171309  0.48566366  1

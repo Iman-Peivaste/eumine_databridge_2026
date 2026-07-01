@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Dy2Cu(SiO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77774917
+_cell_length_b   7.11591597
+_cell_length_c   7.87957527
+_cell_angle_alpha   114.71636937
+_cell_angle_beta   86.07983718
+_cell_angle_gamma   103.47026722
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Cu(SiO3)4
+_chemical_formula_sum   'Dy2 Cu1 Si4 O12'
+_cell_volume   236.52639694
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.96311633  0.77300333  0.55183208  1
+  Dy  Dy1  1  0.03688367  0.22699667  0.44816792  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si3  1  0.42206478  0.60785593  0.79706784  1
+  Si  Si4  1  0.57793522  0.39214407  0.20293216  1
+  Si  Si5  1  0.55040047  0.18218636  0.78491493  1
+  Si  Si6  1  0.44959953  0.81781364  0.21508507  1
+  O  O7  1  0.54770254  0.64419469  0.27756361  1
+  O  O8  1  0.45229746  0.35580531  0.72243639  1
+  O  O9  1  0.26084736  0.01470907  0.79691650  1
+  O  O10  1  0.73915264  0.98529093  0.20308350  1
+  O  O11  1  0.21046632  0.57702795  0.62983459  1
+  O  O12  1  0.71514431  0.31584223  0.99351128  1
+  O  O13  1  0.28485569  0.68415777  0.00648872  1
+  O  O14  1  0.77199907  0.07337389  0.62733650  1
+  O  O15  1  0.27017165  0.23055902  0.19304889  1
+  O  O16  1  0.72982835  0.76944098  0.80695111  1
+  O  O17  1  0.78953368  0.42297205  0.37016541  1
+  O  O18  1  0.22800093  0.92662611  0.37266350  1

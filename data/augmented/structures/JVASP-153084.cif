@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr3Li4(SiN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73302460
+_cell_length_b   5.73302460
+_cell_length_c   6.20924851
+_cell_angle_alpha   89.79741048
+_cell_angle_beta   89.79741048
+_cell_angle_gamma   115.35643485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Li4(SiN3)2
+_chemical_formula_sum   'Sr3 Li4 Si2 N6'
+_cell_volume   184.41777540
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.30897216  0.69102784  0.50000000  1
+  Sr  Sr1  1  0.69102784  0.30897216  0.50000000  1
+  Sr  Sr2  1  0.50000000  0.50000000  0.00000000  1
+  Li  Li3  1  0.96230310  0.31531828  0.12056790  1
+  Li  Li4  1  0.68468172  0.03769690  0.87943210  1
+  Li  Li5  1  0.03769690  0.68468172  0.87943210  1
+  Li  Li6  1  0.31531828  0.96230310  0.12056790  1
+  Si  Si7  1  0.89000960  0.89000960  0.32642075  1
+  Si  Si8  1  0.10999040  0.10999040  0.67357925  1
+  N  N9  1  0.95165636  0.65046909  0.20351600  1
+  N  N10  1  0.34953091  0.04834364  0.79648400  1
+  N  N11  1  0.04834364  0.34953091  0.79648400  1
+  N  N12  1  0.65046909  0.95165636  0.20351600  1
+  N  N13  1  0.18282914  0.18282914  0.37794173  1
+  N  N14  1  0.81717086  0.81717086  0.62205827  1

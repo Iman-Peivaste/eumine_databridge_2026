@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ga2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.47491046
+_cell_length_b   12.67071856
+_cell_length_c   7.30464635
+_cell_angle_alpha   30.14613412
+_cell_angle_beta   54.39708766
+_cell_angle_gamma   59.77314991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2Te3
+_chemical_formula_sum   'Ga4 Te6'
+_cell_volume   320.29270288
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.12140795  0.99310899  0.24617935  1
+  Ga  Ga1  1  0.12591299  0.66746428  0.25811891  1
+  Ga  Ga2  1  0.62140795  0.34022401  0.22550734  1
+  Ga  Ga3  1  0.62591299  0.66586972  0.26051175  1
+  Te  Te4  1  0.97723113  0.00487298  0.99834210  1
+  Te  Te5  1  0.01030960  0.32140602  0.03793050  1
+  Te  Te6  1  0.51030960  0.01192698  0.00214854  1
+  Te  Te7  1  0.01513933  0.63378924  0.02846737  1
+  Te  Te8  1  0.47723113  0.32846002  0.01296105  1
+  Te  Te9  1  0.51513933  0.69954476  0.92983308  1

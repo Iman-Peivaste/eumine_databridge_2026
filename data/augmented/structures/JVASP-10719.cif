@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Tb2Cu(GeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95526363
+_cell_length_b   7.27621392
+_cell_length_c   7.98455608
+_cell_angle_alpha   113.13532013
+_cell_angle_beta   87.29959909
+_cell_angle_gamma   102.67083223
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Cu(GeO3)4
+_chemical_formula_sum   'Tb2 Cu1 Ge4 O12'
+_cell_volume   258.04324883
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.94982072  0.76795509  0.54686005  1
+  Tb  Tb1  1  0.05017928  0.23204491  0.45313995  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge3  1  0.46022093  0.83323959  0.22258778  1
+  Ge  Ge4  1  0.53977907  0.16676041  0.77741222  1
+  Ge  Ge5  1  0.41793770  0.61723480  0.79628206  1
+  Ge  Ge6  1  0.58206230  0.38276520  0.20371794  1
+  O  O7  1  0.25036094  0.98858433  0.79851783  1
+  O  O8  1  0.74980929  0.77159098  0.80973280  1
+  O  O9  1  0.25019071  0.22840902  0.19026720  1
+  O  O10  1  0.26001753  0.69066353  0.01120674  1
+  O  O11  1  0.40746173  0.34207631  0.71140423  1
+  O  O12  1  0.22029521  0.57832447  0.60398605  1
+  O  O13  1  0.77970479  0.42167553  0.39601395  1
+  O  O14  1  0.74963906  0.01141567  0.20148217  1
+  O  O15  1  0.77294123  0.06528766  0.61119103  1
+  O  O16  1  0.22705877  0.93471234  0.38880897  1
+  O  O17  1  0.59253827  0.65792369  0.28859577  1
+  O  O18  1  0.73998247  0.30933647  0.98879326  1

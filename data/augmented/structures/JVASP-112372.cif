@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cu3Ag3(PS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31088812
+_cell_length_b   6.41112986
+_cell_length_c   7.72071968
+_cell_angle_alpha   89.44986203
+_cell_angle_beta   89.59771563
+_cell_angle_gamma   89.51592393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3Ag3(PS4)2
+_chemical_formula_sum   'Cu3 Ag3 P2 S8'
+_cell_volume   312.34665472
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50924104  0.68197732  0.74897351  1
+  Cu  Cu1  1  0.50296758  0.70109196  0.25477384  1
+  Cu  Cu2  1  0.01656311  0.32545244  0.75154570  1
+  Ag  Ag3  1  0.02380268  0.31064594  0.24292469  1
+  Ag  Ag4  1  0.01126473  0.84252503  0.50136660  1
+  Ag  Ag5  1  0.49441933  0.13703864  0.99640568  1
+  P  P6  1  0.50673688  0.18785666  0.50536123  1
+  P  P7  1  0.99342224  0.81372951  0.99562214  1
+  S  S8  1  0.40945445  0.87189448  0.50470065  1
+  S  S9  1  0.89838755  0.12418467  0.98017034  1
+  S  S10  1  0.83371832  0.20329041  0.51747423  1
+  S  S11  1  0.32690772  0.77504272  0.99946450  1
+  S  S12  1  0.87305525  0.65593694  0.77932913  1
+  S  S13  1  0.86644908  0.68268136  0.22099687  1
+  S  S14  1  0.37604269  0.34266635  0.72188238  1
+  S  S15  1  0.41356734  0.34398456  0.27900752  1

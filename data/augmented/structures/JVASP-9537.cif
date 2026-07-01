@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZnNiF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95997141
+_cell_length_b   5.47090312
+_cell_length_c   6.22801575
+_cell_angle_alpha   106.96186338
+_cell_angle_beta   120.13937036
+_cell_angle_gamma   89.91362056
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnNiF4
+_chemical_formula_sum   'Zn2 Ni2 F8'
+_cell_volume   137.63119056
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.76663384  0.81393141  0.51951529  1
+  Zn  Zn1  1  0.23397247  0.18931051  0.47960144  1
+  Ni  Ni2  1  0.00036518  0.50170101  -0.00041892  1
+  Ni  Ni3  1  0.50032685  0.00169729  -0.00044012  1
+  F  F4  1  0.09760357  0.17506510  0.76876506  1
+  F  F5  1  0.43935235  0.52235039  0.25381382  1
+  F  F6  1  0.90298544  0.82823441  0.23027782  1
+  F  F7  1  0.89386995  0.29174570  0.18494718  1
+  F  F8  1  0.56137185  0.48085179  0.74525093  1
+  F  F9  1  0.50615864  -0.05439937  0.68326450  1
+  F  F10  1  0.10687351  0.71156165  0.81415185  1
+  F  F11  1  0.49437335  0.05755310  0.31578415  1

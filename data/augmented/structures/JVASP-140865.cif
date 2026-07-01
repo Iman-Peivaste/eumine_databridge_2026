@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_KAlSi3Ni3(HO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30477192
+_cell_length_b   5.30576815
+_cell_length_c   10.21298918
+_cell_angle_alpha   99.96247678
+_cell_angle_beta   85.06411233
+_cell_angle_gamma   119.99867491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAlSi3Ni3(HO6)2
+_chemical_formula_sum   'K1 Al1 Si3 Ni3 H2 O12'
+_cell_volume   245.19168500
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.99937752  0.00191732  0.00657151  1
+  Al  Al1  1  0.66603931  0.40764108  0.22416873  1
+  Si  Si2  1  0.33301483  0.74008807  0.22109851  1
+  Si  Si3  1  0.33300894  0.59051102  0.77170927  1
+  Si  Si4  1  0.66644654  0.25647607  0.77148642  1
+  Ni  Ni5  1  0.33677004  0.16683768  0.49587274  1
+  Ni  Ni6  1  0.66500140  0.82796364  0.49602838  1
+  Ni  Ni7  1  0.99795359  0.50170689  0.49601282  1
+  H  H8  1  -0.00043951  0.10301447  0.30428887  1
+  H  H9  1  0.00545613  0.90014835  0.69978227  1
+  O  O10  1  0.51444653  0.94455663  0.83439665  1
+  O  O11  1  0.48500428  0.42934099  0.83361210  1
+  O  O12  1  0.40607242  0.04104383  0.16541473  1
+  O  O13  1  0.57920529  0.64809358  0.16534609  1
+  O  O14  1  0.66645908  0.20204953  0.61169716  1
+  O  O15  1  0.99953107  0.13477361  0.40128128  1
+  O  O16  1  0.33375487  0.79579664  0.38726930  1
+  O  O17  1  0.66529331  0.46553127  0.39923007  1
+  O  O18  1  0.00273318  0.87004937  0.60303878  1
+  O  O19  1  0.01312723  0.47498623  0.16569343  1
+  O  O20  1  0.33211691  0.53822647  0.61187770  1
+  O  O21  1  0.99963002  0.45924626  0.83412517  1

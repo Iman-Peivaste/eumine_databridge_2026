@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_KCrP2S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25300312
+_cell_length_b   6.45294466
+_cell_length_c   6.45294465
+_cell_angle_alpha   96.43867721
+_cell_angle_beta   94.94362321
+_cell_angle_gamma   94.94362854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCrP2S7
+_chemical_formula_sum   'K1 Cr1 P2 S7'
+_cell_volume   256.56255497
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.89856069  0.10143931  1
+  Cr  Cr1  1  0.00000000  0.49992956  0.50007044  1
+  P  P2  1  0.91977459  0.95152862  0.64303669  1
+  P  P3  1  0.08022541  0.35696331  0.04847138  1
+  S  S4  1  0.00000000  0.02194096  0.97805904  1
+  S  S5  1  0.23316743  0.47419987  0.81630584  1
+  S  S6  1  0.71413921  0.68724372  0.63317880  1
+  S  S7  1  0.28586079  0.36682120  0.31275628  1
+  S  S8  1  0.81910646  0.49153772  0.14801983  1
+  S  S9  1  0.18089354  0.85198017  0.50846228  1
+  S  S10  1  0.76683257  0.18369416  0.52580013  1

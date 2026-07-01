@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ScTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11542948
+_cell_length_b   5.50544584
+_cell_length_c   7.51768566
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTiO3
+_chemical_formula_sum   'Sc4 Ti4 O12'
+_cell_volume   211.71847589
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.97345627  0.92581496  0.75803745  1
+  Sc  Sc1  1  0.52654373  0.42581496  0.75803745  1
+  Sc  Sc2  1  0.47345627  0.57418504  0.25803745  1
+  Sc  Sc3  1  0.02654373  0.07418504  0.25803745  1
+  Ti  Ti4  1  0.00000527  0.49998946  0.50804579  1
+  Ti  Ti5  1  0.49999473  -0.00001054  0.50804579  1
+  Ti  Ti6  1  0.50000527  0.00001054  0.00804579  1
+  Ti  Ti7  1  -0.00000527  0.50001054  0.00804579  1
+  O  O8  1  0.18104715  0.80957291  0.07863502  1
+  O  O9  1  0.31897124  0.30956863  0.43748116  1
+  O  O10  1  0.31895285  0.30957291  0.07863502  1
+  O  O11  1  0.35225342  0.06622120  0.75805059  1
+  O  O12  1  0.64774658  0.93377880  0.25805059  1
+  O  O13  1  0.81895285  0.19042709  0.57863502  1
+  O  O14  1  0.68104715  0.69042709  0.57863502  1
+  O  O15  1  0.81897124  0.19043137  0.93748116  1
+  O  O16  1  0.18102876  0.80956863  0.43748116  1
+  O  O17  1  0.85225342  0.43377880  0.25805059  1
+  O  O18  1  0.68102876  0.69043137  0.93748116  1
+  O  O19  1  0.14774658  0.56622120  0.75805059  1

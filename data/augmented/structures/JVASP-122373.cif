@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2FeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73718458
+_cell_length_b   5.73718458
+_cell_length_c   5.20243460
+_cell_angle_alpha   82.36288721
+_cell_angle_beta   82.36288721
+_cell_angle_gamma   122.58851889
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2FeO3
+_chemical_formula_sum   'Na4 Fe2 O6'
+_cell_volume   138.64683629
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.40543233  0.58733793  0.50812770  1
+  Na  Na1  1  0.74833255  0.25924037  0.49036831  1
+  Na  Na2  1  0.25924037  0.74833255  0.99036831  1
+  Na  Na3  1  0.58733793  0.40543233  0.00812770  1
+  Fe  Fe4  1  0.08301936  0.95147613  0.48927335  1
+  Fe  Fe5  1  0.95147613  0.08301936  0.98927335  1
+  O  O6  1  0.13759223  0.28665696  0.22977454  1
+  O  O7  1  0.28665696  0.13759223  0.72977454  1
+  O  O8  1  0.37526652  0.95591672  0.32979524  1
+  O  O9  1  0.85435103  0.75297486  0.25486087  1
+  O  O10  1  0.95591672  0.37526652  0.82979524  1
+  O  O11  1  0.75297486  0.85435103  0.75486087  1

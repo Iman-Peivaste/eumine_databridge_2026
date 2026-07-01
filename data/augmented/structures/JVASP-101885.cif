@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SnH4(CO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73950167
+_cell_length_b   5.61139809
+_cell_length_c   5.71617333
+_cell_angle_alpha   108.52717427
+_cell_angle_beta   92.89281416
+_cell_angle_gamma   88.85292255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH4(CO2)3
+_chemical_formula_sum   'Sn1 H4 C3 O6'
+_cell_volume   143.95910643
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.29413872  0.93243213  0.07466439  1
+  H  H1  1  0.76503056  0.19255621  0.72993789  1
+  H  H2  1  0.46867926  0.36745185  0.65793449  1
+  H  H3  1  0.39757468  0.60825005  0.28939997  1
+  H  H4  1  0.24500928  0.95067048  0.64562892  1
+  C  C5  1  0.84404046  0.57460845  0.82175577  1
+  C  C6  1  0.78798067  0.25659072  0.38811793  1
+  C  C7  1  0.69792801  0.34404283  0.65276509  1
+  O  O8  1  0.35563319  0.78937283  0.35245587  1
+  O  O9  1  0.19128239  0.06938914  0.80844330  1
+  O  O10  1  0.11303837  0.57881464  0.83932780  1
+  O  O11  1  0.70513699  0.76179336  0.95365710  1
+  O  O12  1  0.59632365  0.23896575  0.21670102  1
+  O  O13  1  0.04523377  0.20196556  0.34756447  1

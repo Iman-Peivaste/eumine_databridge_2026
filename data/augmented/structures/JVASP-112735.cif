@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CuSi2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34145537
+_cell_length_b   5.32904479
+_cell_length_c   4.90323642
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.92317570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSi2N3
+_chemical_formula_sum   'Cu2 Si4 N6'
+_cell_volume   120.96455224
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  -0.00000000  0.63236189  0.50881001  1
+  Cu  Cu1  1  0.00000000  0.36763811  0.00881001  1
+  Si  Si2  1  0.33601481  0.32724309  0.49023770  1
+  Si  Si3  1  0.66398519  0.99122828  0.49023770  1
+  Si  Si4  1  0.66398519  0.67275691  0.99023770  1
+  Si  Si5  1  0.33601481  0.00877172  0.99023770  1
+  N  N6  1  0.39792140  0.33967147  0.84623596  1
+  N  N7  1  0.60207860  0.94175007  0.84623596  1
+  N  N8  1  0.60207860  0.66032853  0.34623596  1
+  N  N9  1  0.39792140  0.05824993  0.34623596  1
+  N  N10  1  0.00000000  0.73766059  0.90624267  1
+  N  N11  1  -0.00000000  0.26233941  0.40624267  1

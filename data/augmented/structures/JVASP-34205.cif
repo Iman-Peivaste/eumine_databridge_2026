@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiAlAs2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69911393
+_cell_length_b   5.22473535
+_cell_length_c   5.22474330
+_cell_angle_alpha   101.02053601
+_cell_angle_beta   99.07387688
+_cell_angle_gamma   99.07385612
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlAs2O7
+_chemical_formula_sum   'Li1 Al1 As2 O7'
+_cell_volume   121.97721450
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.49999935  0.24607720  0.75392285  1
+  Al  Al1  1  0.50000006  0.62136048  0.37863952  1
+  As  As2  1  0.90528298  0.17955849  0.25040601  1
+  As  As3  1  0.09471776  0.74959367  0.82044205  1
+  O  O4  1  0.65166275  0.35775747  0.14609042  1
+  O  O5  1  0.76935107  0.54480992  0.65958368  1
+  O  O6  1  0.23187881  0.62838297  0.07907306  1
+  O  O7  1  0.00000047  0.06237912  0.93762143  1
+  O  O8  1  0.23064863  0.34041667  0.45519060  1
+  O  O9  1  0.76812094  0.92092623  0.37161684  1
+  O  O10  1  0.34833717  0.85390978  0.64224255  1

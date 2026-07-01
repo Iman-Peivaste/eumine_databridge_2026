@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HfZrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20322353
+_cell_length_b   7.20311123
+_cell_length_c   7.29371350
+_cell_angle_alpha   119.59102132
+_cell_angle_beta   119.59203887
+_cell_angle_gamma   90.00045007
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZrO4
+_chemical_formula_sum   'Hf4 Zr4 O16'
+_cell_volume   270.86625942
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.86459148  0.62332024  0.74257929  1
+  Hf  Hf1  1  0.36418327  0.12376392  0.24258821  1
+  Hf  Hf2  1  0.86505925  0.12375009  0.24256402  1
+  Hf  Hf3  1  0.86459424  0.12421408  0.74258553  1
+  Zr  Zr4  1  0.86625607  0.62499194  0.24504152  1
+  Zr  Zr5  1  0.36581755  0.12543271  0.74503496  1
+  Zr  Zr6  1  0.36582084  0.62456649  0.74503942  1
+  Zr  Zr7  1  0.36538558  0.62498540  0.24502974  1
+  O  O8  1  0.21260945  0.72604967  0.94228485  1
+  O  O9  1  0.76689255  0.27624072  0.54753224  1
+  O  O10  1  0.51745385  0.02668059  0.04830451  1
+  O  O11  1  0.71626651  0.22127793  0.94228039  1
+  O  O12  1  0.26489647  0.77420945  0.54346188  1
+  O  O13  1  0.96191145  0.47178150  0.44228170  1
+  O  O14  1  0.01459253  0.52383041  0.04260641  1
+  O  O15  1  0.51502612  0.52426044  0.04347124  1
+  O  O16  1  0.76733339  0.77662533  0.54829416  1
+  O  O17  1  0.01706927  0.02628999  0.04753053  1
+  O  O18  1  0.46668523  0.97544443  0.44228356  1
+  O  O19  1  0.71626877  0.72605325  0.94228702  1
+  O  O20  1  0.26446873  0.27378890  0.54261062  1
+  O  O21  1  0.96192212  0.97546068  0.44228413  1
+  O  O22  1  0.21260507  0.22127828  0.94227907  1
+  O  O23  1  0.46669320  0.47179656  0.44227997  1

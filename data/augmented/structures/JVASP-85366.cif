@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K2FeCu(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95951875
+_cell_length_b   6.97067161
+_cell_length_c   6.97033496
+_cell_angle_alpha   58.74249632
+_cell_angle_beta   63.41974472
+_cell_angle_gamma   63.41250090
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2FeCu(CN)6
+_chemical_formula_sum   'K2 Fe1 Cu1 C6 N6'
+_cell_volume   248.04045443
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.71112172  0.75605176  0.75561966  1
+  K  K1  1  0.28891207  0.24395324  0.24434273  1
+  Fe  Fe2  1  -0.00000087  -0.00000535  -0.00000294  1
+  Cu  Cu3  1  0.49997729  0.50001923  0.50001840  1
+  C  C4  1  0.09067096  0.82348335  0.82299409  1
+  C  C5  1  0.90932384  0.17650703  0.17701023  1
+  C  C6  1  0.21965079  0.77860109  0.15449679  1
+  C  C7  1  0.78049880  0.84532585  0.22116783  1
+  C  C8  1  0.78035242  0.22139257  0.84549999  1
+  C  C9  1  0.21949991  0.15467119  0.77882650  1
+  N  N10  1  0.62944560  0.35554287  0.76570901  1
+  N  N11  1  0.85400917  0.28553898  0.28638067  1
+  N  N12  1  0.37032875  0.23457270  0.64480813  1
+  N  N13  1  0.62966296  0.76543585  0.35519803  1
+  N  N14  1  0.14599310  0.71444082  0.71363202  1
+  N  N15  1  0.37055448  0.64447282  0.23429888  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_InTeCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17013771
+_cell_length_b   7.43795400
+_cell_length_c   14.25832018
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   94.37933938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InTeCl
+_chemical_formula_sum   'In8 Te8 Cl8'
+_cell_volume   758.19253854
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.12579643  0.79312816  0.02536227  1
+  In  In1  1  0.37420357  0.20687184  0.52536227  1
+  In  In2  1  0.87420357  0.20687184  0.97463773  1
+  In  In3  1  0.62579643  0.79312816  0.47463773  1
+  In  In4  1  0.12700717  0.81500151  0.31288582  1
+  In  In5  1  0.37299283  0.18499849  0.81288582  1
+  In  In6  1  0.87299283  0.18499849  0.68711418  1
+  In  In7  1  0.62700717  0.81500151  0.18711418  1
+  Te  Te8  1  0.76884935  0.59409769  0.32724480  1
+  Te  Te9  1  0.73115065  0.40590231  0.82724480  1
+  Te  Te10  1  0.23115065  0.40590231  0.67275520  1
+  Te  Te11  1  0.26884935  0.59409769  0.17275520  1
+  Te  Te12  1  0.76563841  0.16345452  0.49579062  1
+  Te  Te13  1  0.73436159  0.83654548  0.99579062  1
+  Te  Te14  1  0.23436159  0.83654548  0.50420938  1
+  Te  Te15  1  0.26563841  0.16345452  0.00420938  1
+  Cl  Cl16  1  0.98098035  0.06445612  0.23452414  1
+  Cl  Cl17  1  0.51901965  0.93554388  0.73452414  1
+  Cl  Cl18  1  0.01901965  0.93554388  0.76547586  1
+  Cl  Cl19  1  0.48098035  0.06445612  0.26547586  1
+  Cl  Cl20  1  0.26487095  0.38733200  0.39620444  1
+  Cl  Cl21  1  0.23512905  0.61266800  0.89620444  1
+  Cl  Cl22  1  0.73512905  0.61266800  0.60379556  1
+  Cl  Cl23  1  0.76487095  0.38733200  0.10379556  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AlGa(CuSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87026534
+_cell_length_b   6.87026534
+_cell_length_c   6.87026534
+_cell_angle_alpha   131.40384878
+_cell_angle_beta   131.40384878
+_cell_angle_gamma   71.17222842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlGa(CuSe2)2
+_chemical_formula_sum   'Al1 Ga1 Cu2 Se4'
+_cell_volume   178.60992807
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50000000  0.50000000  -0.00000000  1
+  Ga  Ga1  1  0.75000000  0.25000000  0.50000000  1
+  Cu  Cu2  1  0.25000000  0.75000000  0.50000000  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se4  1  0.62358827  0.62806602  0.49891970  1
+  Se  Se5  1  0.12914631  0.12466857  0.50108030  1
+  Se  Se6  1  0.87533143  0.37641173  0.00447675  1
+  Se  Se7  1  0.37193398  0.87085369  0.99552325  1

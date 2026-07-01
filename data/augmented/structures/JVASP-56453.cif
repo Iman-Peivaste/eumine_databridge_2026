@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ThBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36212958
+_cell_length_b   8.36212914
+_cell_length_c   8.36212934
+_cell_angle_alpha   132.37815878
+_cell_angle_beta   132.37816153
+_cell_angle_gamma   69.63241595
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThBr4
+_chemical_formula_sum   'Th2 Br8'
+_cell_volume   312.97317957
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.37500000  0.12500000  0.25000000  1
+  Th  Th1  1  0.62500000  0.87500000  0.75000000  1
+  Br  Br2  1  0.67609986  0.53871499  0.81343907  1
+  Br  Br3  1  0.36266079  0.17609986  0.63738487  1
+  Br  Br4  1  0.32390014  0.46128501  0.18656093  1
+  Br  Br5  1  0.96128501  0.27472408  0.13738487  1
+  Br  Br6  1  0.03871499  0.72527592  0.86261513  1
+  Br  Br7  1  0.77472408  0.13733921  0.31343907  1
+  Br  Br8  1  0.63733921  0.82390014  0.36261513  1
+  Br  Br9  1  0.22527592  0.86266079  0.68656093  1

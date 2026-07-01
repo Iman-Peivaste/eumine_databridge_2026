@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Rb2CaH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46458725
+_cell_length_b   4.46458723
+_cell_length_c   8.00860256
+_cell_angle_alpha   106.18484405
+_cell_angle_beta   106.18484282
+_cell_angle_gamma   89.99999644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CaH4
+_chemical_formula_sum   'Rb2 Ca1 H4'
+_cell_volume   146.70597889
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.64813281  0.64813281  0.29626462  1
+  Rb  Rb1  1  0.35186719  0.35186719  0.70373538  1
+  Ca  Ca2  1  0.00000000  0.00000000  0.00000000  1
+  H  H3  1  0.50000000  0.00000000  0.00000000  1
+  H  H4  1  -0.00000000  0.50000000  0.00000000  1
+  H  H5  1  0.84327698  0.84327698  0.68655396  1
+  H  H6  1  0.15672302  0.15672302  0.31344604  1

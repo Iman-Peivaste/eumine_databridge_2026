@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Tb2Cu(GeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.95781891
+_cell_length_b   8.95781891
+_cell_length_c   5.12731234
+_cell_angle_alpha   73.60178594
+_cell_angle_beta   73.60178594
+_cell_angle_gamma   115.44712289
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Cu(GeO4)2
+_chemical_formula_sum   'Tb4 Cu2 Ge4 O16'
+_cell_volume   315.35038545
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.46131369  0.69967156  0.18097902  1
+  Tb  Tb1  1  0.69967156  0.46131369  0.18097902  1
+  Tb  Tb2  1  0.19829596  0.95827478  0.67859208  1
+  Tb  Tb3  1  0.95827478  0.19829596  0.67859208  1
+  Cu  Cu4  1  0.66583131  0.07911520  0.37540257  1
+  Cu  Cu5  1  0.07911520  0.66583131  0.37540257  1
+  Ge  Ge6  1  0.33298144  0.33298144  0.96815709  1
+  Ge  Ge7  1  0.11123924  0.53297252  0.91816826  1
+  Ge  Ge8  1  0.83420611  0.83420611  0.38748422  1
+  Ge  Ge9  1  0.53297252  0.11123924  0.91816826  1
+  O  O10  1  0.24043787  0.42564477  0.74548415  1
+  O  O11  1  0.00298107  0.00298107  0.99605007  1
+  O  O12  1  0.16273272  0.49977339  0.23934540  1
+  O  O13  1  0.49977339  0.16273272  0.23934540  1
+  O  O14  1  0.16172258  0.16172258  0.35143063  1
+  O  O15  1  0.66052548  0.66052548  0.34402432  1
+  O  O16  1  0.42564477  0.24043787  0.74548415  1
+  O  O17  1  0.74439610  0.93231797  0.59784672  1
+  O  O18  1  0.73919851  0.25619991  0.54764343  1
+  O  O19  1  0.50826996  0.50826996  0.00274294  1
+  O  O20  1  0.93231797  0.74439610  0.59784672  1
+  O  O21  1  0.65352041  0.99742575  0.07564602  1
+  O  O22  1  0.90310609  0.37344464  0.92354872  1
+  O  O23  1  0.37344464  0.90310609  0.92354872  1
+  O  O24  1  0.25619991  0.73919851  0.54764343  1
+  O  O25  1  0.99742575  0.65352041  0.07564602  1

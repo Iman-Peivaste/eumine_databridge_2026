@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_RbCdAg3(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87092112
+_cell_length_b   6.87092143
+_cell_length_c   8.48921884
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000317
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCdAg3(CN)6
+_chemical_formula_sum   'Rb1 Cd1 Ag3 C6 N6'
+_cell_volume   347.07896373
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.33333300  0.66666700  0.00000000  1
+  Cd  Cd1  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag2  1  0.50827964  0.01655928  0.50000000  1
+  Ag  Ag3  1  0.50827964  0.49172036  0.50000000  1
+  Ag  Ag4  1  0.98344072  0.49172036  0.50000000  1
+  C  C5  1  0.98654042  0.34412977  0.29194371  1
+  C  C6  1  0.35758934  0.34412977  0.70805629  1
+  C  C7  1  0.98654042  0.64241066  0.70805629  1
+  C  C8  1  0.65587023  0.64241066  0.29194371  1
+  C  C9  1  0.65587023  0.01345958  0.70805629  1
+  C  C10  1  0.35758934  0.01345958  0.29194371  1
+  N  N11  1  0.99053075  0.26251474  0.17212476  1
+  N  N12  1  0.73748526  0.72801601  0.17212476  1
+  N  N13  1  0.73748526  0.00946925  0.82787524  1
+  N  N14  1  0.27198399  0.26251474  0.82787524  1
+  N  N15  1  0.27198399  0.00946925  0.17212476  1
+  N  N16  1  0.99053075  0.72801601  0.82787524  1

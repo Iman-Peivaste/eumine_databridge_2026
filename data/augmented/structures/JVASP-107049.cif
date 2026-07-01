@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MgTe(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71028716
+_cell_length_b   5.67662083
+_cell_length_c   5.71340638
+_cell_angle_alpha   59.76417072
+_cell_angle_beta   60.00831515
+_cell_angle_gamma   59.78853478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe(PbO3)2
+_chemical_formula_sum   'Mg1 Te1 Pb2 O6'
+_cell_volume   130.52046407
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99494181  0.00018321  0.00253786  1
+  Te  Te1  1  0.49499931  0.49998952  0.50260308  1
+  Pb  Pb2  1  0.74412897  0.75390606  0.75118122  1
+  Pb  Pb3  1  0.24554821  0.24712085  0.25366683  1
+  O  O4  1  0.21381422  0.74417491  0.74038833  1
+  O  O5  1  0.29527894  0.74510684  0.22033879  1
+  O  O6  1  0.73467147  0.74231214  0.30275991  1
+  O  O7  1  0.77626046  0.25541503  0.26516221  1
+  O  O8  1  0.69469834  0.25449776  0.78494448  1
+  O  O9  1  0.25565826  0.25729167  0.70241630  1

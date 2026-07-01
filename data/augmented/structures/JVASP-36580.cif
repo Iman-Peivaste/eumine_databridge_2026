@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TiZnN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24657516
+_cell_length_b   5.68859217
+_cell_length_c   6.56682736
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiZnN2
+_chemical_formula_sum   'Ti4 Zn4 N8'
+_cell_volume   195.99107569
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.99647110  0.08312431  0.62568043  1
+  Ti  Ti1  1  0.49647110  0.91687569  0.37431957  1
+  Ti  Ti2  1  0.99647110  0.58312431  0.87431957  1
+  Ti  Ti3  1  0.49647110  0.41687569  0.12568043  1
+  Zn  Zn4  1  0.99781439  0.08739082  0.12393363  1
+  Zn  Zn5  1  0.49781439  0.91260918  0.87606637  1
+  Zn  Zn6  1  0.99781439  0.58739082  0.37606637  1
+  Zn  Zn7  1  0.49781439  0.41260918  0.62393363  1
+  N  N8  1  0.39106696  0.08994666  0.13517689  1
+  N  N9  1  0.89106696  0.91005334  0.86482311  1
+  N  N10  1  0.39106696  0.58994666  0.36482311  1
+  N  N11  1  0.89106696  0.41005334  0.63517689  1
+  N  N12  1  0.36564656  0.07025380  0.61453844  1
+  N  N13  1  0.86564656  0.92974620  0.38546156  1
+  N  N14  1  0.36564656  0.57025380  0.88546156  1
+  N  N15  1  0.86564656  0.42974620  0.11453844  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr3(AlP2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66778337
+_cell_length_b   8.35307103
+_cell_length_c   8.35307060
+_cell_angle_alpha   75.42783374
+_cell_angle_beta   89.41960623
+_cell_angle_gamma   89.41960116
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3(AlP2)2
+_chemical_formula_sum   'Sr6 Al4 P8'
+_cell_volume   450.23365699
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75000000  0.59851524  0.40148476  1
+  Sr  Sr1  1  0.03995908  0.74829923  0.00866301  1
+  Sr  Sr2  1  0.46004092  0.99133699  0.25170077  1
+  Sr  Sr3  1  0.96004092  0.25170077  0.99133699  1
+  Sr  Sr4  1  0.53995908  0.00866301  0.74829923  1
+  Sr  Sr5  1  0.25000000  0.40148476  0.59851524  1
+  Al  Al6  1  0.41845724  0.41807624  0.17226153  1
+  Al  Al7  1  0.91845724  0.17226153  0.41807624  1
+  Al  Al8  1  0.58154276  0.58192376  0.82773847  1
+  Al  Al9  1  0.08154276  0.82773847  0.58192376  1
+  P  P10  1  0.57558947  0.25929521  0.42076490  1
+  P  P11  1  0.02416045  0.05864619  0.70581384  1
+  P  P12  1  0.42441053  0.74070479  0.57923510  1
+  P  P13  1  0.97583955  0.94135381  0.29418616  1
+  P  P14  1  0.52416045  0.70581384  0.05864619  1
+  P  P15  1  0.47583955  0.29418616  0.94135381  1
+  P  P16  1  0.92441053  0.57923510  0.74070479  1
+  P  P17  1  0.07558947  0.42076490  0.25929521  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SbTeClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45673264
+_cell_length_b   7.13582999
+_cell_length_c   11.30737429
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbTeClO3
+_chemical_formula_sum   'Sb4 Te4 Cl4 O12'
+_cell_volume   440.29011747
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.25000000  0.92011926  0.75280285  1
+  Sb  Sb1  1  0.75000000  0.07988074  0.24719715  1
+  Sb  Sb2  1  0.75000000  0.42011926  0.74719715  1
+  Sb  Sb3  1  0.25000000  0.57988074  0.25280285  1
+  Te  Te4  1  0.75000000  0.82659483  0.93332970  1
+  Te  Te5  1  0.75000000  0.67340517  0.43332970  1
+  Te  Te6  1  0.25000000  0.17340517  0.06667030  1
+  Te  Te7  1  0.25000000  0.32659483  0.56667030  1
+  Cl  Cl8  1  0.25000000  0.60036337  0.92608042  1
+  Cl  Cl9  1  0.75000000  0.39963663  0.07391958  1
+  Cl  Cl10  1  0.75000000  0.10036337  0.57391958  1
+  Cl  Cl11  1  0.25000000  0.89963663  0.42608042  1
+  O  O12  1  0.00234224  0.49954122  0.62336502  1
+  O  O13  1  0.99765776  0.99954122  0.87663498  1
+  O  O14  1  0.00234224  0.00045878  0.12336502  1
+  O  O15  1  0.75000000  0.79737883  0.28180874  1
+  O  O16  1  0.49765776  0.49954122  0.62336502  1
+  O  O17  1  0.99765776  0.50045878  0.37663498  1
+  O  O18  1  0.50234224  0.50045878  0.37663498  1
+  O  O19  1  0.75000000  0.70262117  0.78180874  1
+  O  O20  1  0.49765776  0.00045878  0.12336502  1
+  O  O21  1  0.50234224  0.99954122  0.87663498  1
+  O  O22  1  0.25000000  0.20262117  0.71819126  1
+  O  O23  1  0.25000000  0.29737883  0.21819126  1

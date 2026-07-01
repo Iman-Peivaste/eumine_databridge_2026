@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_AlCuSnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26365181
+_cell_length_b   7.26365181
+_cell_length_c   7.26365181
+_cell_angle_alpha   120.64635762
+_cell_angle_beta   119.29332937
+_cell_angle_gamma   90.05623078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCuSnS4
+_chemical_formula_sum   'Al2 Cu2 Sn2 S8'
+_cell_volume   271.06418600
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000000  -0.00000000  0.50000000  1
+  Al  Al1  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu2  1  0.38415291  0.63415291  0.75000000  1
+  Cu  Cu3  1  0.61584709  0.36584709  0.25000000  1
+  Sn  Sn4  1  0.00000000  0.00000000  0.00000000  1
+  Sn  Sn5  1  0.50000000  -0.00000000  0.50000000  1
+  S  S6  1  0.23925165  0.73715693  0.99790528  1
+  S  S7  1  0.23925165  0.24134637  0.50209472  1
+  S  S8  1  0.22791274  0.74997221  0.47794053  1
+  S  S9  1  0.77203167  0.74997221  0.02205947  1
+  S  S10  1  0.76074835  0.26284307  0.00209472  1
+  S  S11  1  0.76074835  0.75865363  0.49790528  1
+  S  S12  1  0.77208726  0.25002779  0.52205947  1
+  S  S13  1  0.22796833  0.25002779  0.97794053  1

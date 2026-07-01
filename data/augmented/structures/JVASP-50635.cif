@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Y2Th5O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92291101
+_cell_length_b   3.92291101
+_cell_length_c   22.75931613
+_cell_angle_alpha   94.94402856
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Th5O13
+_chemical_formula_sum   'Y2 Th5 O13'
+_cell_volume   301.81830356
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.99973249  0.99946499  0.99919748  1
+  Y  Y1  1  0.71540971  0.43082043  0.14623014  1
+  Th  Th2  1  0.42648547  0.85297094  0.27945641  1
+  Th  Th3  1  0.14164819  0.28329738  0.42494657  1
+  Th  Th4  1  0.85674187  0.71348274  0.57022461  1
+  Th  Th5  1  0.28680322  0.57360744  0.86040966  1
+  Th  Th6  1  0.57185993  0.14371986  0.71557979  1
+  O  O7  1  0.60857109  0.21714218  0.82571427  1
+  O  O8  1  0.89370008  0.78739916  0.68109823  1
+  O  O9  1  0.53637673  0.07275447  0.60913120  1
+  O  O10  1  0.25155026  0.50309953  0.75464979  1
+  O  O11  1  0.17857138  0.35714475  0.53571613  1
+  O  O12  1  0.10612233  0.21224665  0.31836898  1
+  O  O13  1  0.74847827  0.49695753  0.24543580  1
+  O  O14  1  0.46350728  0.92701557  0.39052285  1
+  O  O15  1  0.32688042  0.65375884  0.98063926  1
+  O  O16  1  0.03064797  0.06129495  0.09194292  1
+  O  O17  1  0.39130990  0.78262079  0.17393069  1
+  O  O18  1  0.82129048  0.64258195  0.46387243  1
+  O  O19  1  0.96573993  0.93147786  0.89721780  1

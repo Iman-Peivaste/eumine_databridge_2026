@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ta2Zn2SnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43387358
+_cell_length_b   5.93818516
+_cell_length_c   10.86963732
+_cell_angle_alpha   105.85930967
+_cell_angle_beta   92.22850094
+_cell_angle_gamma   90.00468646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Zn2SnO8
+_chemical_formula_sum   'Ta4 Zn4 Sn2 O16'
+_cell_volume   337.10779582
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.71197163  0.28362784  0.25076458  1
+  Ta  Ta1  1  0.78568273  0.03299249  0.74921328  1
+  Ta  Ta2  1  0.28568815  0.71675464  0.74922823  1
+  Ta  Ta3  1  0.21197468  0.96738077  0.25077027  1
+  Zn  Zn4  1  0.77851671  0.43108984  0.56104452  1
+  Zn  Zn5  1  0.71911275  0.86996225  0.43893756  1
+  Zn  Zn6  1  0.21915131  0.56930999  0.43894739  1
+  Zn  Zn7  1  0.27854169  0.13043215  0.56104830  1
+  Sn  Sn8  1  0.24881734  0.31118409  0.00014282  1
+  Sn  Sn9  1  0.74883313  0.68916595  -0.00014937  1
+  O  O10  1  0.85014363  0.54764014  0.39788685  1
+  O  O11  1  0.64752826  0.14980416  0.60209528  1
+  O  O12  1  0.14751866  0.45275209  0.60209444  1
+  O  O13  1  0.35012912  0.85060035  0.39789715  1
+  O  O14  1  0.08541715  0.93124290  0.63794188  1
+  O  O15  1  0.41227508  0.29319716  0.36208370  1
+  O  O16  1  0.11261068  0.68289903  0.13916314  1
+  O  O17  1  0.98181232  0.83383883  0.83926074  1
+  O  O18  1  0.88505145  0.31745709  0.86083524  1
+  O  O19  1  0.61252639  0.45638366  0.13914648  1
+  O  O20  1  0.51575466  0.99449247  0.16070084  1
+  O  O21  1  0.91224042  0.06915615  0.36204745  1
+  O  O22  1  0.48190778  0.00587365  0.83929073  1
+  O  O23  1  0.01583472  0.16650634  0.16071313  1
+  O  O24  1  0.38514299  0.54397723  0.86083475  1
+  O  O25  1  0.58537359  0.70719775  0.63789062  1

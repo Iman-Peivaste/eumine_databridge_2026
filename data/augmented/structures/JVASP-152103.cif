@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdMoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72701835
+_cell_length_b   6.72701835
+_cell_length_c   6.72701835
+_cell_angle_alpha   134.54497745
+_cell_angle_beta   134.54497745
+_cell_angle_gamma   66.23802986
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdMoO4
+_chemical_formula_sum   'Cd2 Mo2 O8'
+_cell_volume   152.22695594
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.50000000  0.50000000  0.00000000  1
+  Cd  Cd1  1  0.75000000  0.25000000  0.50000000  1
+  Mo  Mo2  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo3  1  0.25000000  0.75000000  0.50000000  1
+  O  O4  1  0.84304442  0.24257515  0.91270948  1
+  O  O5  1  0.32986566  0.93033494  0.08729052  1
+  O  O6  1  0.49257515  0.07986566  0.89953072  1
+  O  O7  1  0.18033494  0.59304442  0.10046928  1
+  O  O8  1  0.40695558  0.50742485  0.58729052  1
+  O  O9  1  0.92013434  0.81966506  0.41270948  1
+  O  O10  1  0.75742485  0.67013434  0.60046928  1
+  O  O11  1  0.06966506  0.15695558  0.39953072  1

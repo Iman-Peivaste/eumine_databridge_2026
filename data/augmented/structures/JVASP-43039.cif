@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li3CrSiCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96493223
+_cell_length_b   6.37679450
+_cell_length_c   8.26589482
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.16757522
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3CrSiCO7
+_chemical_formula_sum   'Li6 Cr2 Si2 C2 O14'
+_cell_volume   260.63746750
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.21935191  0.75000000  0.10900163  1
+  Li  Li1  1  0.75662856  0.97132291  0.28735959  1
+  Li  Li2  1  0.75662856  0.52867709  0.28735959  1
+  Li  Li3  1  0.24337144  0.47132291  0.71264041  1
+  Li  Li4  1  0.24337144  0.02867709  0.71264041  1
+  Li  Li5  1  0.78064809  0.25000000  0.89099837  1
+  Cr  Cr6  1  0.19722771  0.25000000  0.32099655  1
+  Cr  Cr7  1  0.80277229  0.75000000  0.67900345  1
+  Si  Si8  1  0.71842439  0.25000000  0.57925882  1
+  Si  Si9  1  0.28157561  0.75000000  0.42074118  1
+  C  C10  1  0.30651521  0.25000000  0.03292704  1
+  C  C11  1  0.69348479  0.75000000  0.96707296  1
+  O  O12  1  0.51095972  0.75000000  0.84382919  1
+  O  O13  1  0.82454959  0.05484919  0.69897426  1
+  O  O14  1  0.82454959  0.44515081  0.69897426  1
+  O  O15  1  0.38371773  0.25000000  0.54504280  1
+  O  O16  1  0.15746481  0.75000000  0.59660590  1
+  O  O17  1  0.84253519  0.25000000  0.40339410  1
+  O  O18  1  0.62869094  0.75000000  0.11365751  1
+  O  O19  1  0.17545041  0.55484919  0.30102574  1
+  O  O20  1  0.17545041  0.94515081  0.30102574  1
+  O  O21  1  0.48904028  0.25000000  0.15617081  1
+  O  O22  1  0.05716566  0.25000000  0.07008497  1
+  O  O23  1  0.94283434  0.75000000  0.92991503  1
+  O  O24  1  0.61628227  0.75000000  0.45495720  1
+  O  O25  1  0.37130906  0.25000000  0.88634249  1

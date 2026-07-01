@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SnC2(SN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79408315
+_cell_length_b   5.72651232
+_cell_length_c   10.31935174
+_cell_angle_alpha   100.23648747
+_cell_angle_beta   96.61143934
+_cell_angle_gamma   93.02504632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnC2(SN)2
+_chemical_formula_sum   'Sn2 C4 S4 N4'
+_cell_volume   276.15937971
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.81762875  0.80391457  0.25599549  1
+  Sn  Sn1  1  0.18237125  0.19608543  0.74400451  1
+  C  C2  1  0.79521692  0.25133418  0.00267427  1
+  C  C3  1  0.20478308  0.74866582  0.99732573  1
+  C  C4  1  0.80928178  0.60176033  0.62673616  1
+  C  C5  1  0.19071822  0.39823967  0.37326384  1
+  S  S6  1  0.61599855  0.28249450  0.12733342  1
+  S  S7  1  0.73625535  0.85939294  0.59328208  1
+  S  S8  1  0.26374465  0.14060706  0.40671792  1
+  S  S9  1  0.38400145  0.71750550  0.87266658  1
+  N  N10  1  0.14769036  0.58877884  0.34929850  1
+  N  N11  1  0.91680000  0.22515477  0.90828800  1
+  N  N12  1  0.08320000  0.77484523  0.09171200  1
+  N  N13  1  0.85230964  0.41122116  0.65070150  1

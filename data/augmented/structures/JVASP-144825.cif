@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KNa2AlH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56813405
+_cell_length_b   5.54578786
+_cell_length_c   7.89317199
+_cell_angle_alpha   90.16387652
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa2AlH6
+_chemical_formula_sum   'K2 Na4 Al2 H12'
+_cell_volume   243.73770903
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.98725776  0.24443467  0.49753903  1
+  K  K1  1  0.48725776  0.75556533  0.50246097  1
+  Na  Na2  1  0.02665787  0.24517947  0.99933508  1
+  Na  Na3  1  0.52665787  0.75482053  0.00066492  1
+  Na  Na4  1  0.50267574  0.25774334  0.75555792  1
+  Na  Na5  1  0.00267574  0.74225666  0.24444208  1
+  Al  Al6  1  0.49971493  0.23725076  0.23485087  1
+  Al  Al7  1  0.99971493  0.76274924  0.76514913  1
+  H  H8  1  0.25413559  0.57314932  0.79476580  1
+  H  H9  1  0.75413559  0.42685068  0.20523420  1
+  H  H10  1  0.69193160  0.99003987  0.26143316  1
+  H  H11  1  0.19193160  0.00996013  0.73856684  1
+  H  H12  1  0.31019179  0.49199610  0.20840768  1
+  H  H13  1  0.00654704  0.71356936  0.54000846  1
+  H  H14  1  0.98143117  0.82414397  0.98000992  1
+  H  H15  1  0.48143117  0.17585603  0.01999008  1
+  H  H16  1  0.24945650  0.05051229  0.26526184  1
+  H  H17  1  0.50654704  0.28643064  0.45999154  1
+  H  H18  1  0.81019179  0.50800390  0.79159232  1
+  H  H19  1  0.74945650  0.94948771  0.73473816  1

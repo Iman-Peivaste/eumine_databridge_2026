@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_SrHgAs2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88997393
+_cell_length_b   7.32644031
+_cell_length_c   7.58028001
+_cell_angle_alpha   101.31664312
+_cell_angle_beta   89.79260992
+_cell_angle_gamma   99.22344777
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHgAs2O7
+_chemical_formula_sum   'Sr2 Hg2 As4 O14'
+_cell_volume   316.47064123
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.67979876  0.27156832  0.93755421  1
+  Sr  Sr1  1  0.32020124  0.72843168  0.06244579  1
+  Hg  Hg2  1  0.31048251  0.82688586  0.59277674  1
+  Hg  Hg3  1  0.68951749  0.17311414  0.40722326  1
+  As  As4  1  0.81688119  0.77729700  0.82050048  1
+  As  As5  1  0.18311881  0.22270300  0.17949952  1
+  As  As6  1  0.79224087  0.66842142  0.37735286  1
+  As  As7  1  0.20775913  0.33157858  0.62264714  1
+  O  O8  1  0.71876054  0.44557765  0.26023577  1
+  O  O9  1  0.28123946  0.55442235  0.73976423  1
+  O  O10  1  0.41579474  0.19233627  0.63760159  1
+  O  O11  1  0.58420526  0.80766373  0.36239841  1
+  O  O12  1  0.39294510  0.08449564  0.17392698  1
+  O  O13  1  0.60705490  0.91550436  0.82607302  1
+  O  O14  1  0.75763114  0.62992921  0.96743562  1
+  O  O15  1  0.79126209  0.62068920  0.60191602  1
+  O  O16  1  0.24236886  0.37007079  0.03256438  1
+  O  O17  1  0.09383465  0.89554121  0.84616002  1
+  O  O18  1  0.06252756  0.78126506  0.34378711  1
+  O  O19  1  0.93747244  0.21873494  0.65621289  1
+  O  O20  1  0.20873791  0.37931080  0.39808398  1
+  O  O21  1  0.90616535  0.10445879  0.15383998  1

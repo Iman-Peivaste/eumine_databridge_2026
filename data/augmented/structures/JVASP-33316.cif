@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_MnH8(N2Cl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02420098
+_cell_length_b   6.02420098
+_cell_length_c   4.26935781
+_cell_angle_alpha   77.66829441
+_cell_angle_beta   102.33170559
+_cell_angle_gamma   96.74285704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnH8(N2Cl)2
+_chemical_formula_sum   'Mn1 H8 N4 Cl2'
+_cell_volume   147.45300709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  H  H1  1  0.01190626  0.33279661  0.44721094  1
+  H  H2  1  0.66720339  0.98809374  0.44721094  1
+  H  H3  1  0.98809374  0.66720339  0.55278906  1
+  H  H4  1  0.33279661  0.01190626  0.55278906  1
+  H  H5  1  0.26046688  0.36943102  0.70260867  1
+  H  H6  1  0.63056898  0.73953312  0.70260867  1
+  H  H7  1  0.73953312  0.63056898  0.29739133  1
+  H  H8  1  0.36943102  0.26046688  0.29739133  1
+  N  N9  1  0.14607677  0.25017941  0.60155288  1
+  N  N10  1  0.74982059  0.85392323  0.60155288  1
+  N  N11  1  0.85392323  0.74982059  0.39844712  1
+  N  N12  1  0.25017941  0.14607677  0.39844712  1
+  Cl  Cl13  1  0.71212723  0.28787277  -0.01857290  1
+  Cl  Cl14  1  0.28787277  0.71212723  0.01857290  1

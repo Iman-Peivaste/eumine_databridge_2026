@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_HoInGe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66400925
+_cell_length_b   5.66400925
+_cell_length_c   9.86158486
+_cell_angle_alpha   83.14547210
+_cell_angle_beta   83.14547210
+_cell_angle_gamma   104.81506183
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoInGe2O7
+_chemical_formula_sum   'Ho2 In2 Ge4 O14'
+_cell_volume   299.94178497
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.70639603  0.29359375  0.24999710  1
+  Ho  Ho1  1  0.70640625  0.29360397  0.75000290  1
+  In  In2  1  0.31522135  0.68476247  0.24999408  1
+  In  In3  1  0.31523753  0.68477865  0.75000592  1
+  Ge  Ge4  1  0.77179182  0.77108137  0.95672592  1
+  Ge  Ge5  1  0.22891863  0.22820818  0.04327408  1
+  Ge  Ge6  1  0.22889307  0.22821651  0.54327893  1
+  Ge  Ge7  1  0.77178349  0.77110693  0.45672107  1
+  O  O8  1  0.09714136  0.41607111  0.14418943  1
+  O  O9  1  0.58392889  0.90285864  0.85581057  1
+  O  O10  1  0.61303768  0.59119209  0.61505910  1
+  O  O11  1  0.40880791  0.38696232  0.38494090  1
+  O  O12  1  0.40883292  0.38699209  0.88494128  1
+  O  O13  1  0.61300791  0.59116708  0.11505872  1
+  O  O14  1  0.09715539  0.41612944  0.64417876  1
+  O  O15  1  0.94429594  0.05570406  0.00000000  1
+  O  O16  1  0.58387056  0.90284461  0.35582124  1
+  O  O17  1  0.39054282  0.06007322  0.64184530  1
+  O  O18  1  0.39060708  0.06005527  0.14180572  1
+  O  O19  1  0.93994473  0.60939292  0.85819428  1
+  O  O20  1  0.94425486  0.05574514  0.50000000  1
+  O  O21  1  0.93992678  0.60945718  0.35815470  1

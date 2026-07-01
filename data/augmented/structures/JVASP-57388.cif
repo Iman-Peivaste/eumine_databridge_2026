@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MnBiAsO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38474716
+_cell_length_b   6.92859307
+_cell_length_c   6.95858590
+_cell_angle_alpha   109.23806221
+_cell_angle_beta   95.52313575
+_cell_angle_gamma   110.07375077
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnBiAsO5
+_chemical_formula_sum   'Mn2 Bi2 As2 O10'
+_cell_volume   223.72117034
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.67502236  0.78245666  0.63681338  1
+  Mn  Mn1  1  0.32497764  0.21754334  0.36318662  1
+  Bi  Bi2  1  0.92404123  0.48443679  0.24502980  1
+  Bi  Bi3  1  0.07595877  0.51556321  0.75497020  1
+  As  As4  1  0.35211204  0.11987117  0.82200230  1
+  As  As5  1  0.64788796  0.88012883  0.17799770  1
+  O  O6  1  0.72978494  0.44841320  0.49627304  1
+  O  O7  1  0.56834290  0.70243696  0.91681826  1
+  O  O8  1  0.43165710  0.29756304  0.08318174  1
+  O  O9  1  0.22402377  0.22126600  0.65623299  1
+  O  O10  1  0.27021506  0.55158680  0.50372696  1
+  O  O11  1  0.77597623  0.77873400  0.34376701  1
+  O  O12  1  0.35633151  0.90548696  0.24031775  1
+  O  O13  1  0.09028311  0.87067819  0.78451353  1
+  O  O14  1  0.64366849  0.09451304  0.75968225  1
+  O  O15  1  0.90971689  0.12932181  0.21548647  1

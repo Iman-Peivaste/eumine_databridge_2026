@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Rb2Te2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03923810
+_cell_length_b   6.99890345
+_cell_length_c   6.99890345
+_cell_angle_alpha   70.46359156
+_cell_angle_beta   73.22810278
+_cell_angle_gamma   73.22810278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Te2Pt
+_chemical_formula_sum   'Rb2 Te2 Pt1'
+_cell_volume   174.44614781
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.20389786  0.29610214  0.29610214  1
+  Rb  Rb1  1  0.79610214  0.70389786  0.70389786  1
+  Te  Te2  1  0.50000000  0.21889719  0.78110281  1
+  Te  Te3  1  0.50000000  0.78110281  0.21889719  1
+  Pt  Pt4  1  0.00000000  0.00000000  0.00000000  1

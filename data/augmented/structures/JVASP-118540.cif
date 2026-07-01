@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HgC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19452862
+_cell_length_b   4.09361563
+_cell_length_c   8.47976414
+_cell_angle_alpha   63.30396969
+_cell_angle_beta   65.42127177
+_cell_angle_gamma   100.67989192
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgC
+_chemical_formula_sum   'Hg2 C2'
+_cell_volume   105.15354724
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.12035664  0.08694828  0.03000872  1
+  Hg  Hg1  1  0.43984644  0.77838703  0.52718991  1
+  C  C2  1  0.05515698  0.39282116  0.52825071  1
+  C  C3  1  0.82466529  0.16517767  0.52561341  1

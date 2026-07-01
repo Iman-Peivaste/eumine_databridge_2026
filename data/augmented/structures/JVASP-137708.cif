@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgPbN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13859963
+_cell_length_b   7.05462017
+_cell_length_c   5.71165027
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgPbN2
+_chemical_formula_sum   'Mg4 Pb4 N8'
+_cell_volume   247.34580645
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.58257303  0.87482465  0.00245086  1
+  Mg  Mg1  1  0.41742697  0.12517535  0.50245086  1
+  Mg  Mg2  1  0.91742697  0.37482465  0.50245086  1
+  Mg  Mg3  1  0.08257303  0.62517535  0.00245086  1
+  Pb  Pb4  1  0.58892760  0.37547669  0.00362788  1
+  Pb  Pb5  1  0.41107240  0.62452331  0.50362788  1
+  Pb  Pb6  1  0.91107240  0.87547669  0.50362788  1
+  Pb  Pb7  1  0.08892760  0.12452331  0.00362788  1
+  N  N8  1  0.59002389  0.36616166  0.39399451  1
+  N  N9  1  0.40997611  0.63383834  0.89399451  1
+  N  N10  1  0.90997611  0.86616166  0.89399451  1
+  N  N11  1  0.09002389  0.13383834  0.39399451  1
+  N  N12  1  0.57369666  0.88405678  0.36992675  1
+  N  N13  1  0.42630334  0.11594322  0.86992675  1
+  N  N14  1  0.92630334  0.38405678  0.86992675  1
+  N  N15  1  0.07369666  0.61594322  0.36992675  1

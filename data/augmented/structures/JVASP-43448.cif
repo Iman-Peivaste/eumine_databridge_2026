@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlCuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69139648
+_cell_length_b   6.75009940
+_cell_length_c   6.22340735
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.53697346
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCuO3
+_chemical_formula_sum   'Al4 Cu4 O12'
+_cell_volume   196.46153577
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.48169356  0.19903209  0.74730584  1
+  Al  Al1  1  0.51830644  0.69903209  0.75269416  1
+  Al  Al2  1  0.48169356  0.30096791  0.24730584  1
+  Al  Al3  1  0.51830644  0.80096791  0.25269416  1
+  Cu  Cu4  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu5  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu7  1  0.00000000  0.50000000  0.00000000  1
+  O  O8  1  0.69523241  0.81126573  0.99836572  1
+  O  O9  1  0.69523241  0.68873427  0.49836572  1
+  O  O10  1  0.66071715  0.05573384  0.33006988  1
+  O  O11  1  0.66071715  0.44426616  0.83006988  1
+  O  O12  1  0.33928285  0.55573384  0.16993012  1
+  O  O13  1  0.14967378  0.89558823  0.25881921  1
+  O  O14  1  0.30476759  0.31126573  0.50163428  1
+  O  O15  1  0.30476759  0.18873427  0.00163428  1
+  O  O16  1  0.85032622  0.10441177  0.74118079  1
+  O  O17  1  0.14967378  0.60441177  0.75881921  1
+  O  O18  1  0.33928285  0.94426616  0.66993012  1
+  O  O19  1  0.85032622  0.39558823  0.24118079  1

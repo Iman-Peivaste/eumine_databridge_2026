@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K2Rb4Fe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89634766
+_cell_length_b   6.95608923
+_cell_length_c   11.54512523
+_cell_angle_alpha   90.00002316
+_cell_angle_beta   89.99996116
+_cell_angle_gamma   91.08989564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Rb4Fe2O5
+_chemical_formula_sum   'K4 Rb8 Fe4 O10'
+_cell_volume   553.73804230
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000280  0.49999763  0.71577982  1
+  K  K1  1  0.49999717  0.00000198  0.21577967  1
+  K  K2  1  0.49999678  0.50000170  0.28422006  1
+  K  K3  1  0.50000358  -0.00000189  0.78422017  1
+  Rb  Rb4  1  0.00000104  0.49999596  0.74474539  1
+  Rb  Rb5  1  0.99999851  0.00000366  0.24474509  1
+  Rb  Rb6  1  -0.00000168  0.50000338  0.25525443  1
+  Rb  Rb7  1  0.00000186  -0.00000385  0.75525470  1
+  Rb  Rb8  1  0.68405322  0.33350738  0.00000103  1
+  Rb  Rb9  1  0.68405521  0.83350688  0.49999882  1
+  Rb  Rb10  1  0.31594465  0.66649342  0.99999895  1
+  Rb  Rb11  1  0.31594727  0.16649195  0.50000102  1
+  Fe  Fe12  1  0.19622459  0.69874962  0.50000039  1
+  Fe  Fe13  1  0.80377622  0.80125274  0.00000045  1
+  Fe  Fe14  1  0.80377757  0.30124922  0.49999928  1
+  Fe  Fe15  1  0.19621919  0.19874613  -0.00000016  1
+  O  O16  1  0.71092384  0.70407828  0.86197532  1
+  O  O17  1  -0.00000266  0.00000609  -0.00000003  1
+  O  O18  1  0.00000360  0.49999718  0.49999996  1
+  O  O19  1  0.71091940  0.70408393  0.13802611  1
+  O  O20  1  0.71092625  0.20407991  0.63802263  1
+  O  O21  1  0.28908072  0.29591662  0.86197255  1
+  O  O22  1  0.28907473  0.79592008  0.36197697  1
+  O  O23  1  0.28907561  0.29592148  0.13802471  1
+  O  O24  1  0.28908058  0.79591465  0.63802437  1
+  O  O25  1  0.71091995  0.20408485  0.36197532  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sn2PClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77351110
+_cell_length_b   5.06618512
+_cell_length_c   13.40359822
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.10669474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn2PClO4
+_chemical_formula_sum   'Sn4 P2 Cl2 O8'
+_cell_volume   285.91987374
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.22449119  0.39316987  0.10983829  1
+  Sn  Sn1  1  0.83132032  0.60683013  0.60983829  1
+  Sn  Sn2  1  0.83132032  0.60683013  0.89016171  1
+  Sn  Sn3  1  0.22449119  0.39316987  0.39016171  1
+  P  P4  1  0.91965060  0.73016514  0.25000000  1
+  P  P5  1  0.18948546  0.26983486  0.75000000  1
+  Cl  Cl6  1  0.45324883  0.00000000  0.00000000  1
+  Cl  Cl7  1  0.45324883  0.00000000  0.50000000  1
+  O  O8  1  0.72688829  0.60065166  0.15382042  1
+  O  O9  1  0.54985884  0.35000770  0.75000000  1
+  O  O10  1  0.07304672  0.07930805  0.25000000  1
+  O  O11  1  0.12623664  0.39934834  0.84617958  1
+  O  O12  1  0.72688829  0.60065166  0.34617958  1
+  O  O13  1  0.12623664  0.39934834  0.65382042  1
+  O  O14  1  0.19985014  0.64999230  0.25000000  1
+  O  O15  1  0.99373868  0.92069195  0.75000000  1

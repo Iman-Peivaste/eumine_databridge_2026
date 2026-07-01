@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_SrGaN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82350780
+_cell_length_b   6.92690863
+_cell_length_c   4.64940757
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   34.99972643
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrGaN
+_chemical_formula_sum   'Sr1 Ga1 N1'
+_cell_volume   107.57468405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  -0.01204265  0.45503524  0.00000000  1
+  Ga  Ga1  1  -0.04559079  -0.03526310  0.00000000  1
+  N  N2  1  0.27990359  -0.05796729  0.00000000  1

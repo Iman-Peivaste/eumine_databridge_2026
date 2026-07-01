@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ag2Hg7(P4I3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.51688120
+_cell_length_b   8.68979889
+_cell_length_c   8.68979904
+_cell_angle_alpha   79.99096715
+_cell_angle_beta   80.54039680
+_cell_angle_gamma   80.54039171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2Hg7(P4I3)2
+_chemical_formula_sum   'Ag2 Hg7 P8 I6'
+_cell_volume   618.59744144
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50000000  -0.00000000  0.50000000  1
+  Ag  Ag1  1  0.50000000  0.50000000  0.00000000  1
+  Hg  Hg2  1  0.23501156  0.73063942  0.36627560  1
+  Hg  Hg3  1  0.86926304  0.72887870  0.72887870  1
+  Hg  Hg4  1  0.76498844  0.26936058  0.63372440  1
+  Hg  Hg5  1  0.13073696  0.27112130  0.27112130  1
+  Hg  Hg6  1  0.76498844  0.63372440  0.26936058  1
+  Hg  Hg7  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg8  1  0.23501156  0.36627560  0.73063942  1
+  P  P9  1  0.74137779  0.91523878  0.91523878  1
+  P  P10  1  0.57788937  0.07827314  0.76154993  1
+  P  P11  1  0.42211063  0.23845007  0.92172686  1
+  P  P12  1  0.57788937  0.76154993  0.07827314  1
+  P  P13  1  0.06559585  0.56213942  0.56213942  1
+  P  P14  1  0.93440415  0.43786058  0.43786058  1
+  P  P15  1  0.42211063  0.92172686  0.23845007  1
+  P  P16  1  0.25862221  0.08476122  0.08476122  1
+  I  I17  1  0.15076664  0.03476317  0.63918124  1
+  I  I18  1  0.84923336  0.36081876  0.96523683  1
+  I  I19  1  0.53375546  0.64646610  0.64646610  1
+  I  I20  1  0.15076664  0.63918124  0.03476317  1
+  I  I21  1  0.84923336  0.96523683  0.36081876  1
+  I  I22  1  0.46624454  0.35353390  0.35353390  1
