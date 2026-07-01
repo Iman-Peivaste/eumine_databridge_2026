@@ -343,6 +343,6 @@ See [CITATION.cff](CITATION.cff).
 
 - **Team:** CataLIST (Luxembourg Institute of Science and Technology)
 - **Members:** Iman Peivaste · Saeideh Ghaderi · Halliru Ibrahim · Dragos Vovea
-- **Email:** euminecost@gmail.com
+- **Email:** iman.peivaste@list.lu -- euminecost@gmail.com
 - **Repository:** [github.com/Iman-Peivaste/eumine_databridge_2026](https://github.com/Iman-Peivaste/eumine_databridge_2026)
 - **Hackathon:** [EuMINe DataBridge 2026](https://www.eumine-cost.eu/news/eumine-hackathon-2026/)
