@@ -129,7 +129,8 @@ class LISTEuMINePredictor(MatFedPredictor):
             "MATFED_MODEL_PATH",
             str(_PROJECT_ROOT / "models" / "combined_retrain"),
         )
-        if model_path:
+        # Only auto-load if model path exists (don't fail on Colab without artifacts)
+        if model_path and Path(model_path).exists():
             self.load_model(model_path)
 
     def load_model(self, model_path: str) -> None:
