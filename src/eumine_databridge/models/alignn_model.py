@@ -59,9 +59,19 @@ class ALIGNNFineTuner:
 
     def __init__(self, config: ALIGNNTrainConfig):
         self.config = config
-        self.device = torch.device(
-            "cuda" if torch.cuda.is_available() else "cpu"
-        )
+        _device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        if _device.type == "cuda":
+            # Verify DGL can actually move graphs to CUDA before committing.
+            # CPU-only DGL wheels raise a fatal error when .to("cuda") is called.
+            try:
+                import dgl as _dgl
+                _g = _dgl.graph(([0], [1]))
+                _g.to(_device)
+                del _g
+            except Exception:
+                _device = torch.device("cpu")
+                print("  DGL CUDA unavailable — falling back to CPU inference")
+        self.device = _device
         print(f"ALIGNNFineTuner — device: {self.device}")
         self.model: Optional[ALIGNN] = None
         self.optimizer: Optional[Adam] = None
