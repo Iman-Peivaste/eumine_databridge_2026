@@ -473,7 +473,7 @@ class ALIGNNFineTuner:
             n_val=n_val,
             n_test=0,
             train_ratio=None,
-            val_ratio=0.1,
+            val_ratio=None,
             test_ratio=0.0,
             keep_data_order=True,
             id_tag=ALIGNN_ID_KEY,
