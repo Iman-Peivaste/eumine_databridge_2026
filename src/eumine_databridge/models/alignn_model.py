@@ -444,9 +444,12 @@ class ALIGNNFineTuner:
 
         output_dir = Path(self.config.output_dir).resolve()
         import hashlib
+        import alignn as _alignn_pkg
 
+        _alignn_ver = getattr(_alignn_pkg, "__version__", "unknown")
         id_key = hashlib.md5(
-            ",".join(material_ids).encode(), usedforsecurity=False
+            f"{','.join(material_ids)}|alignn{_alignn_ver}".encode(),
+            usedforsecurity=False,
         ).hexdigest()[:12]
         infer_tag = f"alignn_infer_{id_key}_"
         batch_size = min(self.config.batch_size, n_val)
