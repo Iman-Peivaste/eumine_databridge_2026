@@ -7,13 +7,13 @@ data/raw/
 data/processed/
 data/external/
 
-# Model weights — large binaries
+# Model weights — large binaries (root-level models/ directory only)
 *.pt
 *.pth
 *.ckpt
 *.joblib
 *.pkl
-models/
+/models/
 
 # Python
 __pycache__/
