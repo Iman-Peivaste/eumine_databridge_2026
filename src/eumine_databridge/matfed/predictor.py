@@ -275,7 +275,7 @@ class LISTEuMINePredictor(MatFedPredictor):
             "uncertainty_method": (
                 "Absolute difference between ALIGNN and MACE predictions"
             ),
-            "contact": "euminecost@gmail.com",
+            "contact": "iman.peivaste@list.lu",
             "repository": (
                 "https://github.com/Iman-Peivaste/eumine_databridge_2026"
             ),
